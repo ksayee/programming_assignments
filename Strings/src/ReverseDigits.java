@@ -1,4 +1,4 @@
-// Write a program to reverse the words and letters in a string.
+// Write a program to reverse the numbers.
 
 public class ReverseDigits {
 	
