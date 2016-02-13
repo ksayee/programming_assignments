@@ -39,6 +39,25 @@ public class Stacks {
 			top--;
 	}
 	
+	public int peek()
+	{
+		return stk[top];
+	}
+	
+	public void reverse()
+	{
+		if(top==-1)
+			return;
+		else
+		{
+			int tmp=peek();
+			System.out.println("data :" + tmp);
+			pop();
+			reverse();
+			push(tmp);
+		}
+	}
+	
 	public void display()
 	{
 		if(top==-1)
@@ -63,12 +82,14 @@ public class Stacks {
 		stk.push(50);
 		System.out.println("Display Elements");
 		stk.display();
-		System.out.println("Popping Elemnts");
-		stk.pop();
-		stk.pop();
-		stk.pop();
-		stk.pop();
-		stk.pop();
+		System.out.println("Reversing Stack");
+		stk.reverse();
+		//System.out.println("Popping Elemnts");
+		//stk.pop();
+		//stk.pop();
+		//stk.pop();
+		//stk.pop();
+		//stk.pop();
 		System.out.println("Display Elemnts");
 		stk.display();
 	}
