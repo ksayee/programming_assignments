@@ -1,12 +1,12 @@
 // Write a program to implement a stack.
 
-public class Stacks {
+public class ReverseStacks {
 	
 	int top;
 	int size;
 	int[] stk;
 	
-	public Stacks(int size)
+	public ReverseStacks(int size)
 	{
 		top=-1;
 		this.size=size;
@@ -39,6 +39,14 @@ public class Stacks {
 			top--;
 	}
 	
+	public boolean isEmpty()
+	{
+		if(top==-1)
+			return true;
+		else 
+			return false;
+	}
+	
 	public int peek()
 	{
 		return stk[top];
@@ -46,16 +54,29 @@ public class Stacks {
 	
 	public void reverse()
 	{
-		if(top==-1)
-			return;
-		else
+		if(!isEmpty())
 		{
-			int tmp=peek();
-			System.out.println("data :" + tmp);
+			int temp=peek();
 			pop();
 			reverse();
-			push(tmp);
+			insertElement(temp);
 		}
+	}
+	
+	public void insertElement(int data)
+	{
+		if(isEmpty())
+		{
+			push(data);
+		}
+		else
+		{
+			int temp=peek();
+			pop();
+			insertElement(data);
+			push(temp);
+		}
+		
 	}
 	
 	public void display()
@@ -73,7 +94,7 @@ public class Stacks {
 	
 	public static void main(String[] args)
 	{
-		Stacks stk=new Stacks(5);
+		ReverseStacks stk=new ReverseStacks(5);
 		System.out.println("Adding Elemnts");
 		stk.push(10);
 		stk.push(20);
@@ -81,6 +102,10 @@ public class Stacks {
 		stk.push(40);
 		stk.push(50);
 		System.out.println("Display Elements");
+		stk.display();
+		System.out.println("Reversing Stack");
+		stk.reverse();
+		System.out.println("Display Elemnts");
 		stk.display();
 	}
 }
