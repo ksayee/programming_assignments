@@ -13,10 +13,10 @@ def main():
     str2 = '    I    work    in    Amazon     in Seattle'
     str3 = 'I     work in    Amazon in     Seattle       '
 
-    print('Count of words is ')
-    print(wordcount(str1))
-    print(wordcount(str2))
-    print(wordcount(str3))
+    print("Count of words is: ",wordcount(str1))
+    print("Count of words is: ",wordcount(str2))
+    print("Count of words is: ",wordcount(str3))
+
 
 if __name__=='__main__':
     main()
