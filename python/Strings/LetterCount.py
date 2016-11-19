@@ -11,9 +11,9 @@ def main():
     str2 = '    I    work * * %    in    Amazon     in Seattle'
     str3 = '*%I     work in    Amazon in     Seattle   $    '
 
-    print("Count of words is: ",lettercount(str1))
-    print("Count of words is: ",lettercount(str2))
-    print("Count of words is: ",lettercount(str3))
+    print("Count of letters is: ",lettercount(str1))
+    print("Count of letters is: ",lettercount(str2))
+    print("Count of letters is: ",lettercount(str3))
 
 
 if __name__=='__main__':

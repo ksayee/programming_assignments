@@ -1,22 +1,37 @@
 def wordcount(str1):
 
-    count=0
-    prev_char=' '
+    st=0
+    end=0
+    prev_letter=' '
+    flg=True
+    lst={}
     for i in range(0,len(str1)):
-        if (str1[i]==' ' and prev_char!=' ') or (i+1==len(str1) and prev_char!=' '):
-            count=count+1
-        prev_char=str1[i]
-    return count
+        if str1[i]==' ' or i+1==len(str1):
+
+            if(i+1==len(str1)):
+                end=i+1
+            else:
+                end=i
+            flg=True
+            key=str1[st:end]
+            if key in lst.keys():
+                lst[key]=lst.get(key)+1
+            else:
+                lst[key]=1
+        else:
+            if flg==True:
+                st=i
+                flg=False
+            prev_letter=str1[i]
+
+    for key,val in lst.items():
+        print(key,val)
+
 
 def main():
-    str1 = 'I work in Amazon in Seattle'
-    str2 = '    I    work    in    Amazon     in Seattle'
-    str3 = 'I     work in    Amazon in     Seattle       '
+    str1 = 'I work in Amazon in Seattle I life'
 
-    print("Count of words is: ",wordcount(str1))
-    print("Count of words is: ",wordcount(str2))
-    print("Count of words is: ",wordcount(str3))
-
+    wordcount(str1)
 
 if __name__=='__main__':
     main()
