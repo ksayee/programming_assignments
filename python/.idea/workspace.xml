@@ -20,16 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WordCount.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Strings/WordCount.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="UniqueChar.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strings/UniqueChar.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,11 +90,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MostRecurringElement.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MostRecurringElement.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strings/MostRecurringElement.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <caret line="11" column="14" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseDigits.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Strings/ReverseDigits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -141,6 +141,7 @@
         <option value="$PROJECT_DIR$/Strings/medianList.py" />
         <option value="$PROJECT_DIR$/Strings/FirstNonRecurringElement.py" />
         <option value="$PROJECT_DIR$/Strings/MostRecurringElement.py" />
+        <option value="$PROJECT_DIR$/Strings/ReverseDigits.py" />
       </list>
     </option>
   </component>
@@ -221,24 +222,7 @@
       <recent name="$PROJECT_DIR$/Strings" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.MostRecurringElement">
-    <configuration default="false" name="StringReverse" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/StringReverse.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.ReverseDigits">
     <configuration default="false" name="MaxElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,6 +287,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/MostRecurringElement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ReverseDigits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/ReverseDigits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -442,19 +443,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.StringReverse" />
-      <item index="1" class="java.lang.String" itemvalue="Python.MaxElement" />
-      <item index="2" class="java.lang.String" itemvalue="Python.medianList" />
-      <item index="3" class="java.lang.String" itemvalue="Python.FirstNonRecurringElement" />
-      <item index="4" class="java.lang.String" itemvalue="Python.MostRecurringElement" />
+      <item index="0" class="java.lang.String" itemvalue="Python.MaxElement" />
+      <item index="1" class="java.lang.String" itemvalue="Python.medianList" />
+      <item index="2" class="java.lang.String" itemvalue="Python.FirstNonRecurringElement" />
+      <item index="3" class="java.lang.String" itemvalue="Python.MostRecurringElement" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ReverseDigits" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.MostRecurringElement" />
-        <item index="1" class="java.lang.String" itemvalue="Python.FirstNonRecurringElement" />
-        <item index="2" class="java.lang.String" itemvalue="Python.medianList" />
-        <item index="3" class="java.lang.String" itemvalue="Python.MaxElement" />
-        <item index="4" class="java.lang.String" itemvalue="Python.StringReverse" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ReverseDigits" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MostRecurringElement" />
+        <item index="2" class="java.lang.String" itemvalue="Python.FirstNonRecurringElement" />
+        <item index="3" class="java.lang.String" itemvalue="Python.medianList" />
+        <item index="4" class="java.lang.String" itemvalue="Python.MaxElement" />
       </list>
     </recent_temporary>
   </component>
@@ -637,14 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/StringReverse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Strings/UniqueChar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-27">
@@ -696,7 +689,23 @@
     <entry file="file://$PROJECT_DIR$/Strings/MostRecurringElement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <caret line="11" column="14" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/StringReverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/ReverseDigits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
           <folding />
         </state>
       </provider>
