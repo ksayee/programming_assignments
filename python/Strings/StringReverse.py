@@ -13,7 +13,7 @@ def stringreverse_rec(str1):
         return str1[0]
     else:
         return str1[len(str1)-1]+stringreverse_rec(str1[0:len(str1)-1])
-    
+
 def main():
     str1='the sky is blue'
     print('Original String:', str1 )
