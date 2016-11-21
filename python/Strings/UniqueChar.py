@@ -12,8 +12,7 @@ def uniquechar_hashmap(str1):
 def uniquechar_list(str1):
 
     lst=[0]*256
-    for i in range(0,256):
-        lst[i]=0
+
     for i in range(0,len(str1)):
         key=str1[i]
         if lst[ord(key)]>0:

@@ -7,12 +7,19 @@ def stringreverse(str1):
 
     return tmp
 
+def stringreverse_rec(str1):
+
+    if len(str1)==1:
+        return str1[0]
+    else:
+        return str1[len(str1)-1]+stringreverse_rec(str1[0:len(str1)-1])
+    
 def main():
-    str1='My name is Kartik Sayee'
+    str1='the sky is blue'
     print('Original String:', str1 )
 
     print('Reverse of the String:', stringreverse(str1))
-
+    print('Reverse of the String:', stringreverse_rec(str1))
 
 
 if __name__=='__main__':
