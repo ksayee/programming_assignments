@@ -20,6 +20,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UniqueChar.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strings/UniqueChar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ReplaceSpaces.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strings/ReplaceSpaces.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,18 +53,28 @@
       <file leaf-file-name="StringCompression.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strings/StringCompression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
+            <state relative-caret-position="426">
               <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinarySearch.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinarySearch.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strings/BinarySearch.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroupingAnagrams.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Strings/GroupingAnagrams.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -65,26 +85,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="medianList.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Strings/medianList.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FirstNonRecurringElement.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Strings/FirstNonRecurringElement.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -143,9 +143,10 @@
         <option value="$PROJECT_DIR$/Strings/MostRecurringElement.py" />
         <option value="$PROJECT_DIR$/Strings/ReverseDigits.py" />
         <option value="$PROJECT_DIR$/Strings/ReplaceSpaces.py" />
-        <option value="$PROJECT_DIR$/Strings/StringRotation.py" />
         <option value="$PROJECT_DIR$/Strings/StringCompression.py" />
         <option value="$PROJECT_DIR$/Strings/BinarySearch.py" />
+        <option value="$PROJECT_DIR$/Strings/StringRotation.py" />
+        <option value="$PROJECT_DIR$/Strings/GroupingAnagrams.py" />
       </list>
     </option>
   </component>
@@ -225,24 +226,7 @@
       <recent name="$PROJECT_DIR$/Strings" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BinarySearch">
-    <configuration default="false" name="ReverseDigits" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/ReverseDigits.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.GroupingAnagrams">
     <configuration default="false" name="ReplaceSpaces" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -307,6 +291,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/BinarySearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GroupingAnagrams" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/GroupingAnagrams.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -446,19 +447,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ReverseDigits" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ReplaceSpaces" />
-      <item index="2" class="java.lang.String" itemvalue="Python.StringRotation" />
-      <item index="3" class="java.lang.String" itemvalue="Python.StringCompression" />
-      <item index="4" class="java.lang.String" itemvalue="Python.BinarySearch" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ReplaceSpaces" />
+      <item index="1" class="java.lang.String" itemvalue="Python.StringRotation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.StringCompression" />
+      <item index="3" class="java.lang.String" itemvalue="Python.BinarySearch" />
+      <item index="4" class="java.lang.String" itemvalue="Python.GroupingAnagrams" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.BinarySearch" />
-        <item index="1" class="java.lang.String" itemvalue="Python.StringCompression" />
-        <item index="2" class="java.lang.String" itemvalue="Python.StringRotation" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ReplaceSpaces" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ReverseDigits" />
+        <item index="0" class="java.lang.String" itemvalue="Python.GroupingAnagrams" />
+        <item index="1" class="java.lang.String" itemvalue="Python.BinarySearch" />
+        <item index="2" class="java.lang.String" itemvalue="Python.StringCompression" />
+        <item index="3" class="java.lang.String" itemvalue="Python.StringRotation" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ReplaceSpaces" />
       </list>
     </recent_temporary>
   </component>
@@ -530,6 +531,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -544,6 +546,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -614,6 +617,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -621,14 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="13" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/UniqueChar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,14 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/StringRotation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Strings/StringReverse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -712,6 +700,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/BinarySearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Strings/ReplaceSpaces.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -722,16 +718,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Strings/StringCompression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
+        <state relative-caret-position="426">
           <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/BinarySearch.py">
+    <entry file="file://$PROJECT_DIR$/Strings/UniqueChar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        <state relative-caret-position="345">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/StringRotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/GroupingAnagrams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
           <folding />
         </state>
       </provider>
