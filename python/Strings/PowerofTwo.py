@@ -6,7 +6,7 @@ def poweroftwo(n):
         print('Number NOT power of two')
     else:
         while n!=1:
-            n=int(n/2)
+            n=n/2
             if n%2!=0:
                 break
         if n==1:
