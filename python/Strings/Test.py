@@ -139,6 +139,143 @@ def groupanagrams(ary):
     for key,val in lst.items():
         print(val)
 
+def gcd(num1,num2):
+
+    if num1<num2:
+        small=num1
+        large=num2
+    else:
+        small=num2
+        large=num1
+
+    while large%small!=0:
+        tmp=small
+        small=large%small
+        large=tmp
+
+    print(small)
+
+def stringreverse(str1):
+
+    tmp=[]
+    for i in range(len(str1)-1,-1,-1):
+        tmp.append(str1[i])
+
+    print(tmp)
+    print(''.join(tmp))
+
+def twosum(num1,num2):
+
+    num1=str(num1)
+    num2=str(num2)
+
+    carry=0
+    val=0
+    if len(num1)>len(num2):
+        maxlen=len(num1)
+    else:
+        maxlen=len(num2)
+
+    lst=[]
+    print(num1,num2)
+    for i in range(0,maxlen):
+        val=carry
+        if i<len(num1):
+            val=val+ord(num1[len(num1)-1-i])-48
+        if i <len(num2):
+            val=val+ord(num2[len(num2)-1-i])-48
+        if val>9:
+            carry=int(val/10)
+        lst.append(str(val%10))
+
+    lst.reverse()
+    print(lst)
+    print(''.join(lst))
+
+def adddigits(num):
+
+    while True:
+        sum=0
+        while num!=0:
+            sum=sum+num%10
+            num=int(num/10)
+        if sum>9:
+            num=sum
+        else:
+            break
+
+    print(sum)
+
+def firstunique(str1):
+
+    lst={}
+    for i in range(0,len(str1)):
+
+        key=str1[i]
+        if key in lst.keys():
+            lst[key]=lst.get(key)+1
+        else:
+            lst[key]=1
+
+    for i in range(0,len(str1)):
+
+        key=str1[i]
+
+        if lst.get(key)==1:
+            print(i)
+            break
+
+def poweroftwo(n):
+
+    if n%2!=0:
+        print('Number is NOT power of 2')
+    else:
+        while True:
+            n=int(n/2)
+            print(n)
+            if n==1:
+                print('Number is power of 2')
+                break
+            elif n%2!=0:
+                print('Number is NOT Power of 2')
+                break
+            else:
+                continue
+
+def happynumber(n):
+
+    sum=0
+    while True:
+        while n!=0:
+            sum=sum+(n%10)*(n%10)
+            n=int(n/10)
+        if sum>9:
+            n=sum
+            sum=0
+        elif sum==1:
+            print('Happy Number')
+            break
+        else:
+            print('Sad Number',n)
+            break
+
+def gcd(num1,num2):
+
+    if num1>num2:
+        large=num1
+        small=num2
+    else:
+        large=num2
+        small=num1
+
+
+    while large%small!=0:
+        tmp=large%small
+        large=small
+        small=tmp
+
+    print(small)
+
 def main():
     #ary=[12,11,15,3,10]
     #maxprofit(ary)
@@ -159,8 +296,39 @@ def main():
     #num=87459
     #numsum(num)
 
-    ary = ['eat', 'tea', 'tan', 'ate', 'nat', 'bat']
-    groupanagrams(ary)
+    #ary = ['eat', 'tea', 'tan', 'ate', 'nat', 'bat']
+    #groupanagrams(ary)
 
+    #num1=8
+    #num2=12
+    #gcd(8,12)
+
+    #str1='kartiksayee'
+
+    #stringreverse(str1)
+
+    #num1=345
+    #num2=5688
+
+    #twosum(num1,num2)
+
+    #num=9878
+
+    #adddigits(num)
+
+    #str1='loveleetcode'
+
+    #firstunique(str1)
+
+    #n=64
+
+    #poweroftwo(n)
+
+    #n=19
+    #happynumber(n)
+
+    num1=24
+    num2=60
+    gcd(num1,num2)
 if __name__=='__main__':
     main()
