@@ -20,11 +20,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strings/Test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1138">
-              <caret line="330" column="11" selection-start-line="330" selection-start-column="11" selection-end-line="330" selection-end-column="11" />
+            <state relative-caret-position="388">
+              <caret line="372" column="14" selection-start-line="372" selection-start-column="14" selection-end-line="372" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordPattern.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Strings/WordPattern.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-437">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseVowels.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Strings/ReverseVowels.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -80,16 +100,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GroupingAnagrams.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Strings/GroupingAnagrams.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TwoNumberSum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Strings/TwoNumberSum.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,16 +115,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Anagram.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Strings/Anagram.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -169,6 +169,7 @@
         <option value="$PROJECT_DIR$/Strings/SingleNumber.py" />
         <option value="$PROJECT_DIR$/Strings/StringSegments.py" />
         <option value="$PROJECT_DIR$/Strings/Test.py" />
+        <option value="$PROJECT_DIR$/Strings/WordPattern.py" />
       </list>
     </option>
   </component>
@@ -249,7 +250,7 @@
       <recent name="$PROJECT_DIR$/Strings" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Test">
+  <component name="RunManager" selected="Python.WordPattern">
     <configuration default="false" name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,23 +264,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/Test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/Palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -331,6 +315,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/StringSegments.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="WordPattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/WordPattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -471,18 +472,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.Test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Palindrome" />
-      <item index="2" class="java.lang.String" itemvalue="Python.TwoNumberSum" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SingleNumber" />
-      <item index="4" class="java.lang.String" itemvalue="Python.StringSegments" />
+      <item index="1" class="java.lang.String" itemvalue="Python.TwoNumberSum" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SingleNumber" />
+      <item index="3" class="java.lang.String" itemvalue="Python.StringSegments" />
+      <item index="4" class="java.lang.String" itemvalue="Python.WordPattern" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.StringSegments" />
-        <item index="2" class="java.lang.String" itemvalue="Python.SingleNumber" />
-        <item index="3" class="java.lang.String" itemvalue="Python.TwoNumberSum" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Palindrome" />
+        <item index="0" class="java.lang.String" itemvalue="Python.WordPattern" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.TwoNumberSum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.StringSegments" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SingleNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -543,13 +544,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Strings/LetterCount.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Strings/WordCount.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -631,13 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/ReverseVowels.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -908,10 +895,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/ReverseVowels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Strings/Test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1138">
-          <caret line="330" column="11" selection-start-line="330" selection-start-column="11" selection-end-line="330" selection-end-column="11" />
+        <state relative-caret-position="388">
+          <caret line="372" column="14" selection-start-line="372" selection-start-column="14" selection-end-line="372" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/WordPattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
           <folding />
         </state>
       </provider>

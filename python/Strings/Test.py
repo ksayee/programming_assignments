@@ -276,6 +276,39 @@ def gcd(num1,num2):
 
     print(small)
 
+def palindromenumber(num):
+
+    lst=[]
+    n=num
+    while n!=0:
+        key=n%10
+        lst.append(str(key))
+        n=int(n/10)
+
+    if num==int(''.join(lst)):
+        print('Number is palindrome')
+    else:
+        print('Number is NOT palindrome')
+
+def cumsum(ary):
+
+    sum=0
+    lst=[0]*len(ary)
+    for i in range(0,len(ary)):
+        sum=sum+ary[i]
+        lst[i]=sum
+    print(lst)
+
+def oddposition(ary):
+
+    lst=[]
+    for i in range(0,len(ary)):
+        if i%2==1:
+            lst.append(ary[i])
+        else:
+            continue
+    print(lst)
+
 def main():
     #ary=[12,11,15,3,10]
     #maxprofit(ary)
@@ -327,8 +360,17 @@ def main():
     #n=19
     #happynumber(n)
 
-    num1=24
-    num2=60
-    gcd(num1,num2)
+    #num1=24
+    #num2=60
+    #gcd(num1,num2)
+
+    #num=7447
+    #palindromenumber(num)
+
+    #ary=[2,45,7,-2]
+    #cumsum(ary)
+
+    ary=[0,1,2,3,4,5]
+    oddposition(ary)
 if __name__=='__main__':
     main()
