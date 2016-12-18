@@ -309,6 +309,37 @@ def oddposition(ary):
             continue
     print(lst)
 
+def binarysearch(ary,num):
+
+    st=0
+    end=len(ary)-1
+    print(ary)
+    while st<end:
+        mid=int((st+end)/2)
+        print(mid)
+        if num<ary[mid]:
+            end=mid-1
+        elif num>ary[mid]:
+            st=mid+1
+        else:
+            return mid
+    return -1
+
+def secondmax(ary):
+
+    max=0
+    sec_max=0
+
+    for i in range(0,len(ary)):
+        if i==0:
+            max=ary[i]
+            sec_max=ary[i]
+        elif ary[i]>max:
+            sec_max=max
+            max=ary[i]
+
+    print(max,sec_max)
+
 def main():
     #ary=[12,11,15,3,10]
     #maxprofit(ary)
@@ -370,7 +401,19 @@ def main():
     #ary=[2,45,7,-2]
     #cumsum(ary)
 
-    ary=[0,1,2,3,4,5]
-    oddposition(ary)
+    #ary=[0,1,2,3,4,5]
+    #oddposition(ary)
+
+    #ary = [5, 89, 20, 64, 19, 57, 45, 23, 67, 32, 30]
+    #ary.sort()
+
+    #num=45
+    #print('The index is',binarysearch(ary,num))
+
+    ary = [3, 4, 8, 1, 5, -2, 43]
+    secondmax(ary)
+
+
+
 if __name__=='__main__':
     main()

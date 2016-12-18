@@ -7,15 +7,17 @@ def non_recurring(ary):
             lst[key]=lst.get(key)+1
         else:
             lst[key]=1
-    max=0
+    max_val=0
+    max_key=0
     for key, val in lst.items():
-        if val>max:
-            max=key
+        if val>max_val:
+            max_key=key
+            max_val=val
 
-    return max
+    return max_key
 
 def main():
-    ary=[4,8,4,7,8,8,5,2,7,3,2,1,1]
+    ary=[4,8,4,7,8,8,5,2,7,7,7,7,3,2,1,1]
 
     print('Most recurring element is: ',non_recurring(ary))
 

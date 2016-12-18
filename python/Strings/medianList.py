@@ -2,12 +2,15 @@ def findMedian(ary):
 
     if len(ary)%2==0:
 
-        mid=int((len(ary)+1)/2)
+        indx1= int(len(ary)/2)-1
+        indx2= int(len(ary)/2)
+
+        tmp=(ary[indx1]+ary[indx2])/2
 
     else:
-        mid=int(len(ary)/2)
+        tmp=ary[int(len(ary)/2)]
 
-    return ary[mid]
+    return tmp
 
 def main():
     ary1=[5,89,20,64,20,45]
