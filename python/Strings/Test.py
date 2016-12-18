@@ -340,6 +340,19 @@ def secondmax(ary):
 
     print(max,sec_max)
 
+def reversearray(ary):
+
+    st=0
+    end=len(ary)-1
+    print(ary)
+    while st<end:
+        tmp=ary[st]
+        ary[st]=ary[end]
+        ary[end]=tmp
+        st=st+1
+        end=end-1
+    print(ary)
+
 def main():
     #ary=[12,11,15,3,10]
     #maxprofit(ary)
@@ -411,9 +424,9 @@ def main():
     #print('The index is',binarysearch(ary,num))
 
     ary = [3, 4, 8, 1, 5, -2, 43]
-    secondmax(ary)
+    #secondmax(ary)
 
-
+    reversearray(ary)
 
 if __name__=='__main__':
     main()
