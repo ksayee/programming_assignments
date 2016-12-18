@@ -8,19 +8,17 @@ def emp_mag(lst):
    for key, val in lst.items():
        emp=key
        mgr=val
-
-       while mgr!=None:
-           if emp==mgr:
-               continue
-           if mgr in fnl_lst.keys():
-               fnl_lst[mgr].append(emp)
-           else:
-               fnl_lst[mgr]=[]
-               fnl_lst[mgr].append(emp)
-           mgr=emp
-           emp=
+       if emp==mgr:
+           continue
+       if mgr in fnl_lst.keys():
+           fnl_lst[mgr].append(emp)
+       else:
+           fnl_lst[mgr]=[]
+           fnl_lst[mgr].append(emp)
+           
    for key, val in fnl_lst.items():
        print(key,val)
+
 def main():
 
     lst={}
