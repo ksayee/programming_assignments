@@ -353,7 +353,170 @@ def reversearray(ary):
         end=end-1
     print(ary)
 
+def reversewords(str1):
+
+    tmp=''
+    st=0
+    end=0
+    flg=True
+
+    for i in range(len(str1)-1,-1,-1):
+
+        if str1[i]==' ' or i==0:
+            if i==0:
+                st=0
+            else:
+                st=i+1
+            if tmp=='':
+                tmp=str1[st:end]
+            else:
+                tmp=tmp+' '+str1[st:end]
+            flg=True
+
+        else:
+            if flg==True:
+                end=i+1
+                flg=False
+    print(tmp)
+
+def median(ary):
+
+    if len(ary)%2==0:
+        indx1=int(len(ary)/2)-1
+        indx2=int(len(ary)/2)
+
+        tmp=(ary[indx1]+ary[indx2])/2
+        print(tmp)
+    else:
+
+        indx=int(len(ary)/2)
+        print(ary[indx])
+
+def wordpattern(str1,pattern):
+
+    j=0
+    st=0
+    end=0
+    lst={}
+    ptrn_flg=True
+
+    for i in range(0,len(str1)):
+        key=str1[i]
+        flg=1
+        print('sayee')
+        while j<len(pattern):
+            if pattern[j]==' ' or j+1==len(pattern):
+                end=j
+                tmp=pattern[st:end]
+                print(tmp)
+                if key in lst.keys():
+                    val=lst.get(key)
+                    if tmp==val:
+                        j=j+1
+                        break
+                    else:
+                        ptrn_flg=False
+                        j=j+1
+                        break
+                else:
+                    lst[key]=tmp
+                    j=j+1
+            else:
+                if flg==1:
+                    st=j
+                    flg=0
+                    print('kartik')
+                j=j+1
+        if ptrn_flg==False:
+            break
+    print(lst)
+    if ptrn_flg==False:
+        print('String are not in pattern')
+    else:
+        print('Strings are in pattern')
+
+def compression(str1):
+
+    prev_char=''
+    cnt=0
+    tmp=''
+    for i in range(0,len(str1)):
+
+        if i==0:
+            prev_char=str1[i]
+            cnt=cnt+1
+        elif str1[i]==prev_char:
+            cnt=cnt+1
+        else:
+            if tmp=='':
+                tmp=prev_char+str(cnt)
+            else:
+                tmp=tmp+prev_char+str(cnt)
+            cnt=1
+        prev_char=str1[i]
+
+    tmp=tmp+prev_char+str(cnt)
+    print(tmp)
+
+def palindrome(str1):
+
+    st=0
+    end=len(str1)-1
+    flg=True
+
+    while st<end:
+        if str1[st]!=str1[end]:
+            flg=False
+            break
+
+        st=st+1
+        end=end-1
+    if flg==True:
+        print('Palindrome')
+    else:
+        print('Not Palindrome')
+
+
+def wordcount(str1):
+
+    st=0
+    end=0
+    flg=True
+    lst={}
+    for i in range(0,len(str1)):
+        if str1[i]==' ' or i==len(str1)-1:
+
+            if prev_char==' ':
+                prev_char=str1[i]
+                continue
+            else:
+                if i==len(str1)-1:
+                    end=i+1
+                else:
+                    end=i
+                key=str1[st:end]
+                flg=True
+                if key in lst.keys():
+                    lst[key]=lst.get(key)+1
+                else:
+                    lst[key]=1
+                prev_char = str1[i]
+        else:
+            if flg==True:
+                st=i
+                flg=False
+            prev_char=str1[i]
+
+
+    print(lst)
+
 def main():
+
+    #str1='kartik'
+    #palindrome(str1)
+
+    str1='The sky    is blue  in  sayee today in Seattle sayee kartik     '
+    wordcount(str1)
     #ary=[12,11,15,3,10]
     #maxprofit(ary)
 
@@ -423,10 +586,33 @@ def main():
     #num=45
     #print('The index is',binarysearch(ary,num))
 
-    ary = [3, 4, 8, 1, 5, -2, 43]
+    #ary = [3, 4, 8, 1, 5, -2, 43]
     #secondmax(ary)
 
-    reversearray(ary)
+    #reversearray(ary)
+
+    #str1='Dog Bites Man'
+    #reversewords(str1)
+
+    #ary1 = [5, 89, 20, 64, 20, 45]
+    #ary2 = [5, 89, 20, 64, 20, 45, 45, 23, 67, 32, 30]
+
+    #ary1.sort()
+    #ary2.sort()
+    #print(ary1)
+    #print(ary2)
+
+    #median(ary1)
+    #median(ary2)
+
+    #str1 = 'abba'
+    #pattern = 'dog cat cat dog'
+
+    #wordpattern(str1, pattern)
+
+    #str1 = 'aabcccccaa'
+
+    #compression(str1)
 
 if __name__=='__main__':
     main()

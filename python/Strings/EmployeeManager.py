@@ -15,7 +15,7 @@ def emp_mag(lst):
        else:
            fnl_lst[mgr]=[]
            fnl_lst[mgr].append(emp)
-           
+
    for key, val in fnl_lst.items():
        print(key,val)
 
