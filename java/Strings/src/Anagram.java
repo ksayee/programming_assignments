@@ -1,4 +1,5 @@
-// Write a program check if 2 strings are Anagrams or NOT.
+// Write a program check if two strings are Anagrams or NOT.
+
 import java.util.HashMap;
 import java.util.Arrays;
 
