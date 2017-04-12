@@ -21,7 +21,6 @@ def validate(lst):
         tmp_lst.append(''.join(lst))
     return tmp_lst
 
-
 def ipaddress(str1):
     lst = []
     cnt = 0
