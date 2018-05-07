@@ -703,7 +703,201 @@ def EmplDictSmp(lst):
                 dict[key]=len(lst[i])-1
     return dict
 
+def cal_sum(lst):
+    if len(lst)==1:
+        return lst[0]
+    else:
+        return lst[0]+cal_sum(lst[1:])
+
+def factorial(n):
+
+    if n==1:
+        return 1
+    else:
+        return n*factorial(n-1)
+
+def find_sum(n):
+    if n==0:
+        return 0
+    else:
+        return n%10+find_sum(int(n/10))
+
+def printPatternRow(n):
+    if n<1:
+        return
+    print('* ',end='')
+    printPatternRow(n-1)
+
+def printPatternRecur(n):
+
+    if n<1:
+        return
+    printPatternRow(n)
+    print('\n')
+    printPatternRecur(n-1)
+
+def CombinationsRecurssion(str,tmp_str,idx,lst):
+
+    for i in range(idx,len(str)):
+        tmp_str=tmp_str+str[i]
+        lst.append(tmp_str)
+        print(lst)
+        CombinationsRecurssion(str,tmp_str,i+1,lst)
+        #print(tmp_str)
+        tmp_str=tmp_str[0:-1]
+
+    return lst
+
+def PermutationRecurrsion(lst,l,r):
+
+    if l==r:
+        print(''.join(lst))
+    else:
+        for i in range(l,r):
+            lst[l],lst[i]=lst[i],lst[l]
+            PermutationRecurrsion(lst,l+1,r)
+            lst[l], lst[i] = lst[i], lst[l]
+
+import copy
+def fb_combinations(lst,tmp_lst,idx,fnl_lst):
+
+    for i in range(idx,len(lst)):
+        tmp_lst.append(lst[i])
+        cp_lst=copy.copy(tmp_lst)
+        fnl_lst.append(cp_lst)
+        fb_combinations(lst,copy.copy(tmp_lst),i+1,fnl_lst)
+        tmp_lst=tmp_lst[0:-1]
+    return fnl_lst
+
+def MissingNumber(lst):
+
+    print('Input List',lst)
+    fnl_lst=[]
+
+    for i in range(1,len(lst)):
+
+        flg=True
+        if lst[i]-lst[i-1]>1:
+            tmp=lst[i]
+            while(flg):
+                fnl_lst.append(tmp-1)
+                tmp=tmp-1
+                if tmp-lst[i-1]>1:
+                    continue
+                else:
+                    flg=False
+    return fnl_lst
+
+def MissingNumberIndices(lst,i,j):
+
+    fnl_lst=[]
+
+    for k in range(j,i,-1):
+        if lst[k]-lst[k-1]>1:
+            flg=True
+            tmp=lst[k]
+            while(flg):
+                fnl_lst.append(tmp-1)
+                tmp=tmp-1
+                if tmp-lst[k-1]>1:
+                    continue
+                else:
+                    flg=False
+    print(fnl_lst)
+    return len(fnl_lst)
+
+def return_balanced(str):
+
+    lst=[]
+    if len(str)==0:
+        return None
+
+    for i in range(0,len(str)):
+
+        if str[i]=='{' or str[i]=='(' or str[i]=='<':
+            lst.append(str[i])
+        elif str[i]=='}':
+            if lst[-1]=='{':
+                lst.pop()
+            else:
+                return False
+        elif str[i] == ')':
+            if lst[-1] == '(':
+                lst.pop()
+            else:
+                return False
+        elif str[i] == '>':
+            if lst[-1] == '<':
+                lst.pop()
+            else:
+                return False
+
+    if len(lst)==0:
+        return True
+    else:
+        return False
+
+def avg_word_length(str):
+
+    lst=str.split()
+    if len(lst)==0:
+        return None
+
+    sum=0
+    for i in range(0,len(lst)):
+        sum=sum+len(lst[i])
+    return sum/len(lst)
+
 def main():
+    '''
+    lst = ['us', 'uk', 'in']
+    print('Input List', lst)
+    fnl_lst = []
+    tmp_lst = []
+    fnl_lst = fb_combinations(lst, tmp_lst, 0, fnl_lst)
+    fb_lst = []
+    for i in range(0, len(fnl_lst)):
+        fnl_lst[i].append('all')
+        fb_lst.append(fnl_lst[i])
+    fb_lst.append(['all'])
+    print('Output List', fb_lst)
+
+    lst1=[1,2,3,4]
+    print(lst1)
+    lst2=copy.copy(lst1)
+    lst3=copy.deepcopy(lst1)
+    print(lst2)
+    print(lst3)
+    lst1[2]=9
+    print(lst1)
+    print(lst2)
+    print(lst3)
+    '''
+
+    #lst=[2,4,7,8,9,15]
+    #print('Missing Numbers:',MissingNumberIndices(lst,0,1))
+    #print('Missing Numbers:', MissingNumberIndices(lst, 1, 2))
+    #print('Missing Numbers:', MissingNumberIndices(lst, 0, 2))
+    #print('Output List',MissingNumber(lst))
+
+    #print(return_balanced('')) #None
+    #print(return_balanced('This<might>not(be{balanced}')) #False
+    #print(return_balanced('{(<[SimpleExampleForBalanced]>)}')) #True
+    #print(return_balanced('{)(<[This]is>not)balanced}')) #False
+    #print(return_balanced('{(<[simple])>}')) #False
+    #print(return_balanced('{Another{Example<of>Unbalanced}String')) #False
+    #print(return_balanced('(This)is<how>balanced{string}with[paranthesis]canbe')) #True
+
+    #print(avg_word_length('')) #None
+    #print(avg_word_length('ibm')) #3
+    #print(avg_word_length('ibm microsoft')) #6
+    #print(avg_word_length(' Hello World ')) #5
+    #print(avg_word_length('The movie ends with The-end')) #4.6
+
+    str='abc'
+    lst=[]
+    print(CombinationsRecurssion(str,'',0,lst))
+    #print(PermutationRecurrsion(list(str),0,len(str)))
 
     #str1='MARY'
     #str2='ARMY'
@@ -1545,13 +1739,25 @@ def main():
     #str2='ab'
     #print(str1.count(str2))
 
-    lst=[['A','B','C'],['B','F','D'],['A','D'],['E']]
+    #lst=[['A','B','C'],['B','F','D'],['A','D'],['E']]
     #print(EmplDict(lst))
-    print(EmplDictSmp(lst))
-    lst = [['A'], ['B'], ['D'], ['C'],['E']]
+    #print(EmplDictSmp(lst))
+    #lst = [['A'], ['B'], ['D'], ['C'],['E']]
     #print(EmplDict(lst))
-    print(EmplDictSmp(lst))
+    #print(EmplDictSmp(lst))
 
+    #lst=[2, 4, 5, 6, 7]
+    #print(lst[1:])
+    #print(cal_sum(lst))
+
+    #n=5
+    #print(factorial(n))
+
+    #n=345
+    #print(find_sum(n))
+
+    #n=7
+    #printPatternRecur(n)
 
 if __name__=='__main__':
     main()
