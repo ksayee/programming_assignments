@@ -1,5 +1,0 @@
-INDEX VERSION 1.130+/Users/kartiksayee/programming_assignments/java/.metadata/.plugins/org.eclipse.jdt.core
-2766134696.index
-2738824068.index
-3074455524.index
-3711774728.index
