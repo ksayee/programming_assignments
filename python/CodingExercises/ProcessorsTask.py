@@ -18,6 +18,7 @@ def ProcessorsTask(prs,tsk):
         if l[0] not in prs_dict.keys():
             prs_dict[l[0]]=l[1]
 
+
     tsk_sort = sorted(tsk, key=lambda x:x[1], reverse=True)
     print("Processors:",prs_sort)
     print("Tasks:",tsk_sort)

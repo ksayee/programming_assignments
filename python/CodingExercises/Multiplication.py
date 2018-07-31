@@ -5,9 +5,9 @@ def Multiplication(s1,s2):
 
     lst1=convert_to_list(s1)
     lst2=convert_to_list(s2)
-
     print("List 1:",lst1)
     print("List 2:",lst2)
+
     carry_a=0
     carry_p=0
     fnl_lst=[]
