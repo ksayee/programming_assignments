@@ -1,33 +1,27 @@
-def removeduplicates(ary):
+# Remove all duplicates from a given string in Python
+# We are given a string and we need to remove all duplicates from it ? What will be the output if order of character matters ?
 
-    lst=[]
+def RemoveDuplicates(str1):
 
-    for i in range(0,len(ary)):
-        key=ary[i]
+    fnl_lst=[]
 
-        if key not in lst:
-            lst.append(key)
-    return lst
+    for i in range(0,len(str1)):
 
-def removeduplicates_onelist(ary):
+        key=str1[i]
 
-    l=len(ary)
-    i=0
-    while i<l:
-        key=ary[i]
-
-        if key in ary[i+1:]:
-            del ary[i]
-            l=l-1
+        if len(fnl_lst)==0:
+            fnl_lst.append(key)
+        elif key not in fnl_lst:
+            fnl_lst.append(key)
         else:
-            i=i+1
-    return ary
+            continue
+
+    return ''.join(fnl_lst)
 
 def main():
 
-    ary = [1, 1, 1, 2, 2, 3, 5, 5, 7, 7, 7, 8, 9, 10, 34, 34, 56, 56, 56]
-    print(removeduplicates(ary))
-    print(removeduplicates_onelist(ary))
+    str1='geeksforgeeks'
+    print(RemoveDuplicates(str1))
 
 if __name__=='__main__':
     main()
