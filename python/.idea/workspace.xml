@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RemoveLeadingZeros.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/RemoveLeadingZeros.py">
+      <file leaf-file-name="CharacterOccurence.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/CharacterOccurence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="212">
+              <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -54,9 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithms/LeetCode/StringCombinations.py" />
-        <option value="$PROJECT_DIR$/algorithms/LeetCode/ListCombinations.py" />
-        <option value="$PROJECT_DIR$/algorithms/CodingPractice.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode771.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode760.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode804.py" />
@@ -105,6 +102,9 @@
         <option value="$PROJECT_DIR$/CodingExercises/UncommonCharacters.py" />
         <option value="$PROJECT_DIR$/CodingExercises/BothHalves.py" />
         <option value="$PROJECT_DIR$/CodingExercises/RemoveLeadingZeros.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/CounterDictionary.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/InitialsLastName.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/CharacterOccurence.py" />
       </list>
     </option>
   </component>
@@ -173,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RemoveLeadingZeros">
+  <component name="RunManager" selected="Python.CharacterOccurence">
     <configuration name="BothHalves" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,7 +191,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="PutSpaces" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="CharacterOccurence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -203,7 +203,41 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PutSpaces.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/CharacterOccurence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="CounterDictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/CounterDictionary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="InitialsLastName" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/InitialsLastName.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,40 +255,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/RemoveLeadingZeros.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="SecondRepeated" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SecondRepeated.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="UncommonCharacters" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/UncommonCharacters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.PutSpaces" />
-      <item index="1" class="java.lang.String" itemvalue="Python.SecondRepeated" />
-      <item index="2" class="java.lang.String" itemvalue="Python.UncommonCharacters" />
-      <item index="3" class="java.lang.String" itemvalue="Python.BothHalves" />
-      <item index="4" class="java.lang.String" itemvalue="Python.RemoveLeadingZeros" />
+      <item index="0" class="java.lang.String" itemvalue="Python.BothHalves" />
+      <item index="1" class="java.lang.String" itemvalue="Python.RemoveLeadingZeros" />
+      <item index="2" class="java.lang.String" itemvalue="Python.CounterDictionary" />
+      <item index="3" class="java.lang.String" itemvalue="Python.InitialsLastName" />
+      <item index="4" class="java.lang.String" itemvalue="Python.CharacterOccurence" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.RemoveLeadingZeros" />
-        <item index="1" class="java.lang.String" itemvalue="Python.BothHalves" />
-        <item index="2" class="java.lang.String" itemvalue="Python.UncommonCharacters" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SecondRepeated" />
-        <item index="4" class="java.lang.String" itemvalue="Python.PutSpaces" />
+        <item index="0" class="java.lang.String" itemvalue="Python.CharacterOccurence" />
+        <item index="1" class="java.lang.String" itemvalue="Python.InitialsLastName" />
+        <item index="2" class="java.lang.String" itemvalue="Python.CounterDictionary" />
+        <item index="3" class="java.lang.String" itemvalue="Python.RemoveLeadingZeros" />
+        <item index="4" class="java.lang.String" itemvalue="Python.BothHalves" />
       </list>
     </recent_temporary>
   </component>
@@ -456,9 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithms/fb_de_questions.py" />
-    <entry file="file://$PROJECT_DIR$/algorithms/LeetCode/ListCombinations.py" />
-    <entry file="file://$PROJECT_DIR$/algorithms/CodingPractice.py" />
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode771.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -800,6 +797,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/CounterDictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/InitialsLastName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/CharacterOccurence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="19" />
           <folding />
         </state>
       </provider>
