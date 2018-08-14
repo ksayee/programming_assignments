@@ -5,24 +5,19 @@
 
 def PutSpaces(str):
 
+    lst=list(str)
     fnl_lst=[]
-    tmp_lst=[]
-
-    flg=True
-
-    for i in range(0,len(str)):
-        key=str[i]
-
-        if i==0:
-            tmp_lst.append(key.lower())
-        elif key>='A' and key <='Z':
-            fnl_lst.append(''.join(tmp_lst))
-            tmp_lst=[]
-            tmp_lst.append(key.lower())
+    tmp=[]
+    for l in lst:
+        if l>='A' and l<='Z':
+            if len(tmp)>0:
+                fnl_lst.append(''.join(tmp))
+            tmp=[]
+            tmp.append(l.lower())
         else:
-            tmp_lst.append(key)
-
-    fnl_lst.append(''.join(tmp_lst))
+            tmp.append(l)
+    if len(tmp)>0:
+        fnl_lst.append(''.join(tmp))
 
     return ' '.join(fnl_lst)
 
@@ -32,6 +27,9 @@ def main():
     print(PutSpaces(str))
 
     str = 'GeeksForGeeks'
+    print(PutSpaces(str))
+
+    str = 'You'
     print(PutSpaces(str))
 
 if __name__=='__main__':
