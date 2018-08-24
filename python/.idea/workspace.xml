@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MaxConsecRepeatingChar.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/MaxConsecRepeatingChar.py">
+      <file leaf-file-name="FirstRepeatingWord.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/FirstRepeatingWord.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            <state relative-caret-position="204">
+              <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -54,8 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/SameCharacters.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/CheckInteger.py" />
         <option value="$PROJECT_DIR$/CodingExercises/Multiplication.py" />
         <option value="$PROJECT_DIR$/CodingExercises/Palindrome.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ConsecutiveDuplicates.py" />
@@ -105,6 +103,8 @@
         <option value="$PROJECT_DIR$/CodingExercises/CamelCaseSentence.py" />
         <option value="$PROJECT_DIR$/CodingExercises/WordsCamelCaseDictionary.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MaxConsecRepeatingChar.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/FirstRepeatedChar.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/FirstRepeatingWord.py" />
       </list>
     </option>
   </component>
@@ -173,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MaxConsecRepeatingChar">
+  <component name="RunManager" selected="Python.FirstRepeatingWord">
     <configuration name="CamelCaseSentence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,7 +191,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="ConvertCharOppositeCase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FirstRepeatedChar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -203,7 +203,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/ConvertCharOppositeCase.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/FirstRepeatedChar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="FirstRepeatingWord" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/FirstRepeatingWord.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,23 +238,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/MaxConsecRepeatingChar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="StringReverseRecursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/StringReverseRecursion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ConvertCharOppositeCase" />
-      <item index="1" class="java.lang.String" itemvalue="Python.StringReverseRecursion" />
-      <item index="2" class="java.lang.String" itemvalue="Python.CamelCaseSentence" />
-      <item index="3" class="java.lang.String" itemvalue="Python.WordsCamelCaseDictionary" />
-      <item index="4" class="java.lang.String" itemvalue="Python.MaxConsecRepeatingChar" />
+      <item index="0" class="java.lang.String" itemvalue="Python.CamelCaseSentence" />
+      <item index="1" class="java.lang.String" itemvalue="Python.WordsCamelCaseDictionary" />
+      <item index="2" class="java.lang.String" itemvalue="Python.MaxConsecRepeatingChar" />
+      <item index="3" class="java.lang.String" itemvalue="Python.FirstRepeatedChar" />
+      <item index="4" class="java.lang.String" itemvalue="Python.FirstRepeatingWord" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.MaxConsecRepeatingChar" />
-        <item index="1" class="java.lang.String" itemvalue="Python.WordsCamelCaseDictionary" />
-        <item index="2" class="java.lang.String" itemvalue="Python.CamelCaseSentence" />
-        <item index="3" class="java.lang.String" itemvalue="Python.StringReverseRecursion" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ConvertCharOppositeCase" />
+        <item index="0" class="java.lang.String" itemvalue="Python.FirstRepeatingWord" />
+        <item index="1" class="java.lang.String" itemvalue="Python.FirstRepeatedChar" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MaxConsecRepeatingChar" />
+        <item index="3" class="java.lang.String" itemvalue="Python.WordsCamelCaseDictionary" />
+        <item index="4" class="java.lang.String" itemvalue="Python.CamelCaseSentence" />
       </list>
     </recent_temporary>
   </component>
@@ -456,20 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/StringSlicing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/SlicingRotate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/SecondRepeated.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -820,6 +806,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/FirstRepeatedChar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/FirstRepeatingWord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding />
         </state>
       </provider>
