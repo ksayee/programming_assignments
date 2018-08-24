@@ -29,11 +29,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintAccending123.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PrintAccending123.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/PrintAccending123.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonChars.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/CommonChars.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -64,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/ReverseWords.py" />
         <option value="$PROJECT_DIR$/CodingExercises/StringSlicing.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SlicingRotate.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SecondRepeated.py" />
@@ -115,6 +124,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/GroupOccurencesChar.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PrintStringSpecChar.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PrintAccending123.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/CommonChars.py" />
       </list>
     </option>
   </component>
@@ -183,8 +193,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PrintAccending123">
-    <configuration name="FrequentWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.CommonChars">
+    <configuration name="CommonChars" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -196,7 +206,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/FrequentWords.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/CommonChars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -385,19 +395,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.FrequentWords" />
-      <item index="1" class="java.lang.String" itemvalue="Python.OccurencesCharTogether" />
-      <item index="2" class="java.lang.String" itemvalue="Python.PrintStringSpecChar" />
-      <item index="3" class="java.lang.String" itemvalue="Python.GroupOccurencesChar" />
-      <item index="4" class="java.lang.String" itemvalue="Python.PrintAccending123" />
+      <item index="0" class="java.lang.String" itemvalue="Python.OccurencesCharTogether" />
+      <item index="1" class="java.lang.String" itemvalue="Python.PrintStringSpecChar" />
+      <item index="2" class="java.lang.String" itemvalue="Python.GroupOccurencesChar" />
+      <item index="3" class="java.lang.String" itemvalue="Python.PrintAccending123" />
+      <item index="4" class="java.lang.String" itemvalue="Python.CommonChars" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.PrintAccending123" />
-        <item index="1" class="java.lang.String" itemvalue="Python.PrintStringSpecChar" />
-        <item index="2" class="java.lang.String" itemvalue="Python.GroupOccurencesChar" />
-        <item index="3" class="java.lang.String" itemvalue="Python.OccurencesCharTogether" />
-        <item index="4" class="java.lang.String" itemvalue="Python.FrequentWords" />
+        <item index="0" class="java.lang.String" itemvalue="Python.CommonChars" />
+        <item index="1" class="java.lang.String" itemvalue="Python.PrintAccending123" />
+        <item index="2" class="java.lang.String" itemvalue="Python.PrintStringSpecChar" />
+        <item index="3" class="java.lang.String" itemvalue="Python.GroupOccurencesChar" />
+        <item index="4" class="java.lang.String" itemvalue="Python.OccurencesCharTogether" />
       </list>
     </recent_temporary>
   </component>
@@ -426,7 +436,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25581396" sideWeight="0.5395833" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25581396" sideWeight="0.46041667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25581396" sideWeight="0.46041667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -466,13 +476,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/CharacterOccurence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/Election.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -837,6 +840,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/CommonChars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
           <folding />
         </state>
       </provider>
