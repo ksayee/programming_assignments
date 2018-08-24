@@ -19,11 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StringRotations.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/StringRotations.py">
+      <file leaf-file-name="ReverseIndividualWords.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/ReverseIndividualWords.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="102">
+              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseStringRemoveVowels.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/ReverseStringRemoveVowels.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -54,10 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/GroupingAnagrams.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/ProcessorsTask.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode598.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/Pangram.py" />
         <option value="$PROJECT_DIR$/CodingExercises/Pangram-Missing-Characters.py" />
         <option value="$PROJECT_DIR$/CodingExercises/RemovePunctuation.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ExtraCharacter.py" />
@@ -105,6 +111,10 @@
         <option value="$PROJECT_DIR$/CodingExercises/AllRotations.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MinimumRotations.py" />
         <option value="$PROJECT_DIR$/CodingExercises/StringRotations.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/RotationsDivisible.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/StringReverse.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/ReverseIndividualWords.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/ReverseStringRemoveVowels.py" />
       </list>
     </option>
   </component>
@@ -173,8 +183,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.StringRotations">
-    <configuration name="AllRotations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ReverseStringRemoveVowels">
+    <configuration name="ReverseIndividualWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -186,12 +196,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/AllRotations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/ReverseIndividualWords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="MinimumRotations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ReverseStringRemoveVowels" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -203,12 +213,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/MinimumRotations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/ReverseStringRemoveVowels.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="PerfectReversibleString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ReverseWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -220,12 +230,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PerfectReversibleString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/ReverseWords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="ReversingEquation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RotationsDivisible" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -237,12 +247,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/ReversingEquation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/RotationsDivisible.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="StringRotations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="StringReverse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -254,7 +264,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/StringRotations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/StringReverse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +385,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.PerfectReversibleString" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ReversingEquation" />
-      <item index="2" class="java.lang.String" itemvalue="Python.AllRotations" />
-      <item index="3" class="java.lang.String" itemvalue="Python.MinimumRotations" />
-      <item index="4" class="java.lang.String" itemvalue="Python.StringRotations" />
+      <item index="0" class="java.lang.String" itemvalue="Python.RotationsDivisible" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ReverseWords" />
+      <item index="2" class="java.lang.String" itemvalue="Python.StringReverse" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ReverseIndividualWords" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ReverseStringRemoveVowels" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.StringRotations" />
-        <item index="1" class="java.lang.String" itemvalue="Python.MinimumRotations" />
-        <item index="2" class="java.lang.String" itemvalue="Python.AllRotations" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ReversingEquation" />
-        <item index="4" class="java.lang.String" itemvalue="Python.PerfectReversibleString" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ReverseStringRemoveVowels" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ReverseIndividualWords" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ReverseWords" />
+        <item index="3" class="java.lang.String" itemvalue="Python.StringReverse" />
+        <item index="4" class="java.lang.String" itemvalue="Python.RotationsDivisible" />
       </list>
     </recent_temporary>
   </component>
@@ -456,28 +466,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode598.py" />
-    <entry file="file://$PROJECT_DIR$/CodingExercises/Pangram-Missing-Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/Multiplication.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/RemovePunctuation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/ExtraCharacter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -538,13 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="515">
           <caret line="39" column="19" lean-forward="false" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/ReverseWords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -799,6 +780,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/RotationsDivisible.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/StringReverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/ReverseWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/ReverseIndividualWords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/ReverseStringRemoveVowels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding />
         </state>
       </provider>
