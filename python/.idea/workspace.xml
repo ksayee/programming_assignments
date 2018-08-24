@@ -23,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/CodingExercises/PrintStringSpecChar.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -54,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/RemoveDuplicates.py" />
         <option value="$PROJECT_DIR$/CodingExercises/StringCompression.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ReverseWords.py" />
         <option value="$PROJECT_DIR$/CodingExercises/StringSlicing.py" />
@@ -105,6 +104,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/FrequentWords.py" />
         <option value="$PROJECT_DIR$/CodingExercises/OccurencesCharTogether.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PrintStringSpecChar.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/GroupOccurencesChar.py" />
       </list>
     </option>
   </component>
@@ -173,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PrintStringSpecChar">
+  <component name="RunManager" selected="Python.GroupOccurencesChar">
     <configuration name="FirstRepeatedChar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,23 +191,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="FirstRepeatingWord" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/FirstRepeatingWord.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="FrequentWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,6 +204,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/FrequentWords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="GroupOccurencesChar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/GroupOccurencesChar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,18 +376,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.FirstRepeatedChar" />
-      <item index="1" class="java.lang.String" itemvalue="Python.FirstRepeatingWord" />
-      <item index="2" class="java.lang.String" itemvalue="Python.FrequentWords" />
-      <item index="3" class="java.lang.String" itemvalue="Python.OccurencesCharTogether" />
-      <item index="4" class="java.lang.String" itemvalue="Python.PrintStringSpecChar" />
+      <item index="1" class="java.lang.String" itemvalue="Python.FrequentWords" />
+      <item index="2" class="java.lang.String" itemvalue="Python.OccurencesCharTogether" />
+      <item index="3" class="java.lang.String" itemvalue="Python.PrintStringSpecChar" />
+      <item index="4" class="java.lang.String" itemvalue="Python.GroupOccurencesChar" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.PrintStringSpecChar" />
-        <item index="1" class="java.lang.String" itemvalue="Python.OccurencesCharTogether" />
-        <item index="2" class="java.lang.String" itemvalue="Python.FrequentWords" />
-        <item index="3" class="java.lang.String" itemvalue="Python.FirstRepeatedChar" />
-        <item index="4" class="java.lang.String" itemvalue="Python.FirstRepeatingWord" />
+        <item index="0" class="java.lang.String" itemvalue="Python.GroupOccurencesChar" />
+        <item index="1" class="java.lang.String" itemvalue="Python.PrintStringSpecChar" />
+        <item index="2" class="java.lang.String" itemvalue="Python.OccurencesCharTogether" />
+        <item index="3" class="java.lang.String" itemvalue="Python.FrequentWords" />
+        <item index="4" class="java.lang.String" itemvalue="Python.FirstRepeatedChar" />
       </list>
     </recent_temporary>
   </component>
@@ -456,13 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/CounterDictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/InitialsLastName.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -821,10 +814,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/GroupOccurencesChar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/PrintStringSpecChar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>

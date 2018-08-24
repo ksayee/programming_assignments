@@ -11,7 +11,7 @@ def PrintStringSpecChar(str,chr,cnt):
 
             if tmp_cnt==cnt:
                 return str[i+1:]
-            
+
 def main():
 
     str='This is demo string'
