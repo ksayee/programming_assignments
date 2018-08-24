@@ -24,6 +24,5 @@ def main():
     str = 'abcdebjk'
     print(FirstRepeatedChar(str))
 
-
 if __name__=='__main__':
     main()
