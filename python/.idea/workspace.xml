@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Top3RepeatedElements.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/Top3RepeatedElements.py">
+      <file leaf-file-name="TwoArraryEqual.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/TwoArraryEqual.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -54,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/InitialsLastName.py" />
         <option value="$PROJECT_DIR$/CodingExercises/CharacterOccurence.py" />
         <option value="$PROJECT_DIR$/CodingExercises/Election.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ConsecutiveOnes.py" />
@@ -105,6 +104,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/RearrangeAryEvenOdd.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SymmetricPairs.py" />
         <option value="$PROJECT_DIR$/CodingExercises/Top3RepeatedElements.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/TwoArraryEqual.py" />
       </list>
     </option>
   </component>
@@ -173,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Top3RepeatedElements">
+  <component name="RunManager" selected="Python.TwoArraryEqual">
     <configuration name="MoveZerosEndArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,23 +208,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="SubArrayLeastAvg" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SubArrayLeastAvg.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="SymmetricPairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,6 +238,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/Top3RepeatedElements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="TwoArraryEqual" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/TwoArraryEqual.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.SubArrayLeastAvg" />
-      <item index="1" class="java.lang.String" itemvalue="Python.MoveZerosEndArray" />
-      <item index="2" class="java.lang.String" itemvalue="Python.RearrangeAryEvenOdd" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SymmetricPairs" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Top3RepeatedElements" />
+      <item index="0" class="java.lang.String" itemvalue="Python.MoveZerosEndArray" />
+      <item index="1" class="java.lang.String" itemvalue="Python.RearrangeAryEvenOdd" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SymmetricPairs" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Top3RepeatedElements" />
+      <item index="4" class="java.lang.String" itemvalue="Python.TwoArraryEqual" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Top3RepeatedElements" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SymmetricPairs" />
-        <item index="2" class="java.lang.String" itemvalue="Python.RearrangeAryEvenOdd" />
-        <item index="3" class="java.lang.String" itemvalue="Python.MoveZerosEndArray" />
-        <item index="4" class="java.lang.String" itemvalue="Python.SubArrayLeastAvg" />
+        <item index="0" class="java.lang.String" itemvalue="Python.TwoArraryEqual" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Top3RepeatedElements" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SymmetricPairs" />
+        <item index="3" class="java.lang.String" itemvalue="Python.RearrangeAryEvenOdd" />
+        <item index="4" class="java.lang.String" itemvalue="Python.MoveZerosEndArray" />
       </list>
     </recent_temporary>
   </component>
@@ -456,13 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/SameCharacters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/ChangeStringCharacter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -842,6 +835,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/TwoArraryEqual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding />
         </state>
       </provider>
