@@ -21,7 +21,7 @@ def SortElements(ary):
             idx_dict[val]=tmp
 
     sort_tmp=sorted(idx_dict.items(),key=lambda x:x[0],reverse=True)
-    
+
     fnl_lst=[]
     for key,val in sort_tmp:
         for k in val:
