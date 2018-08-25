@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LeadersArray.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/LeadersArray.py">
+      <file leaf-file-name="EqulibriumIndex.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/EqulibriumIndex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="187">
+              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -54,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/SentenceDifficulty.py" />
         <option value="$PROJECT_DIR$/CodingExercises/CommonElementsIndexSum.py" />
         <option value="$PROJECT_DIR$/CodingExercises/Reminder11.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SumLargeNum.py" />
@@ -105,6 +104,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/MajorityElement.py" />
         <option value="$PROJECT_DIR$/CodingExercises/FloorCielingArrary.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeadersArray.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/EqulibriumIndex.py" />
       </list>
     </option>
   </component>
@@ -173,7 +173,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LeadersArray">
+  <component name="RunManager" selected="Python.EqulibriumIndex">
+    <configuration name="EqulibriumIndex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/EqulibriumIndex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="FloorCielingArrary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,23 +238,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/MajorityElement.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="MaximumAverage" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/MaximumAverage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.MaximumAverage" />
-      <item index="1" class="java.lang.String" itemvalue="Python.PeakElement" />
-      <item index="2" class="java.lang.String" itemvalue="Python.MajorityElement" />
-      <item index="3" class="java.lang.String" itemvalue="Python.FloorCielingArrary" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LeadersArray" />
+      <item index="0" class="java.lang.String" itemvalue="Python.PeakElement" />
+      <item index="1" class="java.lang.String" itemvalue="Python.MajorityElement" />
+      <item index="2" class="java.lang.String" itemvalue="Python.FloorCielingArrary" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LeadersArray" />
+      <item index="4" class="java.lang.String" itemvalue="Python.EqulibriumIndex" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LeadersArray" />
-        <item index="1" class="java.lang.String" itemvalue="Python.FloorCielingArrary" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MajorityElement" />
-        <item index="3" class="java.lang.String" itemvalue="Python.PeakElement" />
-        <item index="4" class="java.lang.String" itemvalue="Python.MaximumAverage" />
+        <item index="0" class="java.lang.String" itemvalue="Python.EqulibriumIndex" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LeadersArray" />
+        <item index="2" class="java.lang.String" itemvalue="Python.FloorCielingArrary" />
+        <item index="3" class="java.lang.String" itemvalue="Python.MajorityElement" />
+        <item index="4" class="java.lang.String" itemvalue="Python.PeakElement" />
       </list>
     </recent_temporary>
   </component>
@@ -456,13 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/ValidNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/SumNumberString.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -855,6 +848,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/EqulibriumIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
           <folding />
         </state>
       </provider>
