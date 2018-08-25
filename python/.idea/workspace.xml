@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SumNotCommonElements.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/SumNotCommonElements.py">
+      <file leaf-file-name="GroupMultipleOccurences.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/GroupMultipleOccurences.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+            <state relative-caret-position="493">
+              <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -54,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/DiffLargeNum.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SumNumberString.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MaxNumericVal.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MaxValue.py" />
@@ -105,6 +104,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/OneElelementArray.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SortElements.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SumNotCommonElements.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/GroupMultipleOccurences.py" />
       </list>
     </option>
   </component>
@@ -173,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SumNotCommonElements">
+  <component name="RunManager" selected="Python.GroupMultipleOccurences">
     <configuration name="EqulibriumIndex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,7 +191,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LeadersArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="GroupMultipleOccurences" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -203,7 +203,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeadersArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/GroupMultipleOccurences.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LeadersArray" />
-      <item index="1" class="java.lang.String" itemvalue="Python.EqulibriumIndex" />
-      <item index="2" class="java.lang.String" itemvalue="Python.OneElelementArray" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SortElements" />
-      <item index="4" class="java.lang.String" itemvalue="Python.SumNotCommonElements" />
+      <item index="0" class="java.lang.String" itemvalue="Python.EqulibriumIndex" />
+      <item index="1" class="java.lang.String" itemvalue="Python.OneElelementArray" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SortElements" />
+      <item index="3" class="java.lang.String" itemvalue="Python.SumNotCommonElements" />
+      <item index="4" class="java.lang.String" itemvalue="Python.GroupMultipleOccurences" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.SumNotCommonElements" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SortElements" />
-        <item index="2" class="java.lang.String" itemvalue="Python.OneElelementArray" />
-        <item index="3" class="java.lang.String" itemvalue="Python.EqulibriumIndex" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LeadersArray" />
+        <item index="0" class="java.lang.String" itemvalue="Python.GroupMultipleOccurences" />
+        <item index="1" class="java.lang.String" itemvalue="Python.SumNotCommonElements" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SortElements" />
+        <item index="3" class="java.lang.String" itemvalue="Python.OneElelementArray" />
+        <item index="4" class="java.lang.String" itemvalue="Python.EqulibriumIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -409,8 +409,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29479167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29479167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25581396" sideWeight="0.5395833" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -455,13 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/MoveSpaces.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/PutSpaces.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -857,6 +851,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/GroupMultipleOccurences.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
           <folding />
         </state>
       </provider>
