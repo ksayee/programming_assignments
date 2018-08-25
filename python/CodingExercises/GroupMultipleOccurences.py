@@ -27,7 +27,7 @@ def GroupMultipleOccurences(ary):
             fnl_lst.append(key)
             n=n+1
     return fnl_lst
-    
+
 def main():
     
     ary=[5, 3, 5, 1, 3, 3]

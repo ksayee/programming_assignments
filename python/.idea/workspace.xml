@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GroupMultipleOccurences.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/GroupMultipleOccurences.py">
+      <file leaf-file-name="CummulativeFrequency.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/CummulativeFrequency.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -54,8 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/SumNumberString.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/MaxNumericVal.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MaxValue.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MoveSpaces.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PutSpaces.py" />
@@ -105,6 +103,8 @@
         <option value="$PROJECT_DIR$/CodingExercises/SortElements.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SumNotCommonElements.py" />
         <option value="$PROJECT_DIR$/CodingExercises/GroupMultipleOccurences.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PairsProduct.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/CummulativeFrequency.py" />
       </list>
     </option>
   </component>
@@ -173,8 +173,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.GroupMultipleOccurences">
-    <configuration name="EqulibriumIndex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.CummulativeFrequency">
+    <configuration name="CummulativeFrequency" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -186,7 +186,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/EqulibriumIndex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/CummulativeFrequency.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +208,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="OneElelementArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PairsProduct" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -220,7 +220,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/OneElelementArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PairsProduct.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.EqulibriumIndex" />
-      <item index="1" class="java.lang.String" itemvalue="Python.OneElelementArray" />
-      <item index="2" class="java.lang.String" itemvalue="Python.SortElements" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SumNotCommonElements" />
-      <item index="4" class="java.lang.String" itemvalue="Python.GroupMultipleOccurences" />
+      <item index="0" class="java.lang.String" itemvalue="Python.SortElements" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SumNotCommonElements" />
+      <item index="2" class="java.lang.String" itemvalue="Python.GroupMultipleOccurences" />
+      <item index="3" class="java.lang.String" itemvalue="Python.PairsProduct" />
+      <item index="4" class="java.lang.String" itemvalue="Python.CummulativeFrequency" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.GroupMultipleOccurences" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SumNotCommonElements" />
-        <item index="2" class="java.lang.String" itemvalue="Python.SortElements" />
-        <item index="3" class="java.lang.String" itemvalue="Python.OneElelementArray" />
-        <item index="4" class="java.lang.String" itemvalue="Python.EqulibriumIndex" />
+        <item index="0" class="java.lang.String" itemvalue="Python.CummulativeFrequency" />
+        <item index="1" class="java.lang.String" itemvalue="Python.PairsProduct" />
+        <item index="2" class="java.lang.String" itemvalue="Python.GroupMultipleOccurences" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SumNotCommonElements" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SortElements" />
       </list>
     </recent_temporary>
   </component>
@@ -456,21 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/PutSpaces.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/RemoveExtraSpaces.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/testing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -859,6 +844,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PairsProduct.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/CummulativeFrequency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
