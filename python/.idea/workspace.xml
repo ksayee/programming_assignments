@@ -19,31 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PrintStringSpecChar.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/PrintStringSpecChar.py">
+      <file leaf-file-name="TwoOutputStrings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/TwoOutputStrings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintAccending123.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/PrintAccending123.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommonChars.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/CommonChars.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <caret line="25" column="75" lean-forward="false" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -74,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/StringSlicing.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SlicingRotate.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SecondRepeated.py" />
         <option value="$PROJECT_DIR$/CodingExercises/UncommonCharacters.py" />
@@ -125,6 +104,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/PrintStringSpecChar.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PrintAccending123.py" />
         <option value="$PROJECT_DIR$/CodingExercises/CommonChars.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/TwoOutputStrings.py" />
       </list>
     </option>
   </component>
@@ -193,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CommonChars">
+  <component name="RunManager" selected="Python.TwoOutputStrings">
     <configuration name="CommonChars" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,23 +208,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="OccurencesCharTogether" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/OccurencesCharTogether.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="PrintAccending123" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,6 +238,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PrintStringSpecChar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="TwoOutputStrings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/TwoOutputStrings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -395,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.OccurencesCharTogether" />
-      <item index="1" class="java.lang.String" itemvalue="Python.PrintStringSpecChar" />
-      <item index="2" class="java.lang.String" itemvalue="Python.GroupOccurencesChar" />
-      <item index="3" class="java.lang.String" itemvalue="Python.PrintAccending123" />
-      <item index="4" class="java.lang.String" itemvalue="Python.CommonChars" />
+      <item index="0" class="java.lang.String" itemvalue="Python.PrintStringSpecChar" />
+      <item index="1" class="java.lang.String" itemvalue="Python.GroupOccurencesChar" />
+      <item index="2" class="java.lang.String" itemvalue="Python.PrintAccending123" />
+      <item index="3" class="java.lang.String" itemvalue="Python.CommonChars" />
+      <item index="4" class="java.lang.String" itemvalue="Python.TwoOutputStrings" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.CommonChars" />
-        <item index="1" class="java.lang.String" itemvalue="Python.PrintAccending123" />
-        <item index="2" class="java.lang.String" itemvalue="Python.PrintStringSpecChar" />
-        <item index="3" class="java.lang.String" itemvalue="Python.GroupOccurencesChar" />
-        <item index="4" class="java.lang.String" itemvalue="Python.OccurencesCharTogether" />
+        <item index="0" class="java.lang.String" itemvalue="Python.TwoOutputStrings" />
+        <item index="1" class="java.lang.String" itemvalue="Python.CommonChars" />
+        <item index="2" class="java.lang.String" itemvalue="Python.PrintAccending123" />
+        <item index="3" class="java.lang.String" itemvalue="Python.PrintStringSpecChar" />
+        <item index="4" class="java.lang.String" itemvalue="Python.GroupOccurencesChar" />
       </list>
     </recent_temporary>
   </component>
@@ -476,20 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/Election.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="84" lean-forward="false" selection-start-line="23" selection-start-column="84" selection-end-line="23" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/ConsecutiveOnes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/UncommonCharacters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -848,6 +814,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/GroupingAnagrams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/TwoOutputStrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="75" lean-forward="false" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
           <folding />
         </state>
       </provider>
