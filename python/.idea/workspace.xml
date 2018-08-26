@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EmployeeManager.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/EmployeeManager.py">
+      <file leaf-file-name="ContigiousIntegers.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/ContigiousIntegers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -54,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/StringRotations.py" />
         <option value="$PROJECT_DIR$/CodingExercises/RotationsDivisible.py" />
         <option value="$PROJECT_DIR$/CodingExercises/StringReverse.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ReverseIndividualWords.py" />
@@ -105,6 +104,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/LexicoNextString.py" />
         <option value="$PROJECT_DIR$/CodingExercises/RearrangeString.py" />
         <option value="$PROJECT_DIR$/CodingExercises/EmployeeManager.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/ContigiousIntegers.py" />
       </list>
     </option>
   </component>
@@ -173,7 +173,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.EmployeeManager">
+  <component name="RunManager" selected="Python.ContigiousIntegers">
+    <configuration name="ContigiousIntegers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/ContigiousIntegers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="ConvertArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,23 +238,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LexicoNextString.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="MostOccurrencesKnumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/MostOccurrencesKnumbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.MostOccurrencesKnumbers" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ConvertArray" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LexicoNextString" />
-      <item index="3" class="java.lang.String" itemvalue="Python.RearrangeString" />
-      <item index="4" class="java.lang.String" itemvalue="Python.EmployeeManager" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ConvertArray" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LexicoNextString" />
+      <item index="2" class="java.lang.String" itemvalue="Python.RearrangeString" />
+      <item index="3" class="java.lang.String" itemvalue="Python.EmployeeManager" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ContigiousIntegers" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.EmployeeManager" />
-        <item index="1" class="java.lang.String" itemvalue="Python.RearrangeString" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LexicoNextString" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ConvertArray" />
-        <item index="4" class="java.lang.String" itemvalue="Python.MostOccurrencesKnumbers" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ContigiousIntegers" />
+        <item index="1" class="java.lang.String" itemvalue="Python.EmployeeManager" />
+        <item index="2" class="java.lang.String" itemvalue="Python.RearrangeString" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LexicoNextString" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ConvertArray" />
       </list>
     </recent_temporary>
   </component>
@@ -456,13 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/ReverseStringRemoveVowels.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/ReverseStringNumberWords.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -809,6 +802,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/ContigiousIntegers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
