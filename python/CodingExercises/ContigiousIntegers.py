@@ -18,13 +18,42 @@ def ContigousIntegers(ary):
     else:
         return "No"
 
+def ContigousIntegersHashmap(ary):
+
+    dict={}
+
+    for l in ary:
+        if l not in dict.keys():
+            dict[l]=1
+
+    cnt=1
+
+    key=ary[0]+1
+
+    while key in dict.keys():
+        cnt=cnt+1
+        key=key+1
+
+    key=ary[0]-1
+
+    while key in dict.keys():
+        cnt=cnt+1
+        key=key-1
+
+    if cnt==len(set(ary)):
+        return "Yes"
+    else:
+        return "No"
+
 def main():
     
     ary=[5, 2, 3, 6, 4, 4, 6, 6]
     print(ContigousIntegers(ary))
+    print(ContigousIntegersHashmap(ary))
 
     ary = [10, 14, 10, 12, 12, 13, 15]
     print(ContigousIntegers(ary))
+    print(ContigousIntegersHashmap(ary))
 
 if __name__=='__main__':
     main()
