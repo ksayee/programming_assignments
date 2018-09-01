@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ContigiousIntegers.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/ContigiousIntegers.py">
+      <file leaf-file-name="PairFourElementSum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/PairFourElementSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -54,8 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/MaximumAverage.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/PeakElement.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MajorityElement.py" />
         <option value="$PROJECT_DIR$/CodingExercises/FloorCielingArrary.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeadersArray.py" />
@@ -105,6 +103,8 @@
         <option value="$PROJECT_DIR$/CodingExercises/LongestConsecutiveSubsequence.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DistinctElementsWindowSizeK.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ContigiousIntegers.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/SubArraryGivenSum.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PairFourElementSum.py" />
       </list>
     </option>
   </component>
@@ -173,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ContigiousIntegers">
+  <component name="RunManager" selected="Python.PairFourElementSum">
     <configuration name="ContigiousIntegers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,7 +225,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LongestIncreasingConsecutiveSubsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PairFourElementSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -237,12 +237,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LongestIncreasingConsecutiveSubsequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PairFourElementSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LongestSubsequenceAdjDiffOne" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SubArraryGivenSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -254,7 +254,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LongestSubsequenceAdjDiffOne.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SubArraryGivenSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LongestIncreasingConsecutiveSubsequence" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LongestSubsequenceAdjDiffOne" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LongestConsecutiveSubsequence" />
-      <item index="3" class="java.lang.String" itemvalue="Python.DistinctElementsWindowSizeK" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ContigiousIntegers" />
+      <item index="0" class="java.lang.String" itemvalue="Python.LongestConsecutiveSubsequence" />
+      <item index="1" class="java.lang.String" itemvalue="Python.DistinctElementsWindowSizeK" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ContigiousIntegers" />
+      <item index="3" class="java.lang.String" itemvalue="Python.SubArraryGivenSum" />
+      <item index="4" class="java.lang.String" itemvalue="Python.PairFourElementSum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ContigiousIntegers" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DistinctElementsWindowSizeK" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LongestConsecutiveSubsequence" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LongestSubsequenceAdjDiffOne" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LongestIncreasingConsecutiveSubsequence" />
+        <item index="0" class="java.lang.String" itemvalue="Python.PairFourElementSum" />
+        <item index="1" class="java.lang.String" itemvalue="Python.SubArraryGivenSum" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ContigiousIntegers" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DistinctElementsWindowSizeK" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LongestConsecutiveSubsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -456,20 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/SumNotCommonElements.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/GroupMultipleOccurences.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/CummulativeFrequency.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -845,6 +831,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
           <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/SubArraryGivenSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="35" lean-forward="false" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PairFourElementSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
