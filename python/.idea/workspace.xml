@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OnlyPositiveElementArray.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/OnlyPositiveElementArray.py">
+      <file leaf-file-name="PairSumTwoArray.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/PairSumTwoArray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -54,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/SortElements.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SumNotCommonElements.py" />
         <option value="$PROJECT_DIR$/CodingExercises/GroupMultipleOccurences.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PairsProduct.py" />
@@ -105,6 +104,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/CheckPalindromeCharReplacement.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ThreeElmentSumThreeArray.py" />
         <option value="$PROJECT_DIR$/CodingExercises/OnlyPositiveElementArray.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PairSumTwoArray.py" />
       </list>
     </option>
   </component>
@@ -173,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.OnlyPositiveElementArray">
+  <component name="RunManager" selected="Python.PairSumTwoArray">
     <configuration name="CheckPalindromeCharReplacement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,7 +225,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="PalindromeMinimumInsertions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PairSumTwoArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -237,7 +237,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PalindromeMinimumInsertions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PairSumTwoArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.PalindromeMinimumInsertions" />
-      <item index="1" class="java.lang.String" itemvalue="Python.MaxDiffFreqTwoElement" />
-      <item index="2" class="java.lang.String" itemvalue="Python.CheckPalindromeCharReplacement" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ThreeElmentSumThreeArray" />
-      <item index="4" class="java.lang.String" itemvalue="Python.OnlyPositiveElementArray" />
+      <item index="0" class="java.lang.String" itemvalue="Python.MaxDiffFreqTwoElement" />
+      <item index="1" class="java.lang.String" itemvalue="Python.CheckPalindromeCharReplacement" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ThreeElmentSumThreeArray" />
+      <item index="3" class="java.lang.String" itemvalue="Python.OnlyPositiveElementArray" />
+      <item index="4" class="java.lang.String" itemvalue="Python.PairSumTwoArray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.OnlyPositiveElementArray" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ThreeElmentSumThreeArray" />
-        <item index="2" class="java.lang.String" itemvalue="Python.CheckPalindromeCharReplacement" />
-        <item index="3" class="java.lang.String" itemvalue="Python.MaxDiffFreqTwoElement" />
-        <item index="4" class="java.lang.String" itemvalue="Python.PalindromeMinimumInsertions" />
+        <item index="0" class="java.lang.String" itemvalue="Python.PairSumTwoArray" />
+        <item index="1" class="java.lang.String" itemvalue="Python.OnlyPositiveElementArray" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ThreeElmentSumThreeArray" />
+        <item index="3" class="java.lang.String" itemvalue="Python.CheckPalindromeCharReplacement" />
+        <item index="4" class="java.lang.String" itemvalue="Python.MaxDiffFreqTwoElement" />
       </list>
     </recent_temporary>
   </component>
@@ -456,13 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/DistinctElements.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/KthDistinctElement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -858,6 +851,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PairSumTwoArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
