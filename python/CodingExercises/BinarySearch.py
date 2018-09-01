@@ -18,7 +18,7 @@ def BinarySearch(ary,k):
 
     return "Not Found"
 
-    
+
 def main():
 
     ary=[2, 3, 4, 10, 40]
