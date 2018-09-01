@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ThreeElmentSumThreeArray.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/ThreeElmentSumThreeArray.py">
+      <file leaf-file-name="OnlyPositiveElementArray.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/OnlyPositiveElementArray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+            <state relative-caret-position="374">
+              <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -54,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/OneElelementArray.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SortElements.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SumNotCommonElements.py" />
         <option value="$PROJECT_DIR$/CodingExercises/GroupMultipleOccurences.py" />
@@ -105,6 +104,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/MaxDiffFreqTwoElement.py" />
         <option value="$PROJECT_DIR$/CodingExercises/CheckPalindromeCharReplacement.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ThreeElmentSumThreeArray.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/OnlyPositiveElementArray.py" />
       </list>
     </option>
   </component>
@@ -173,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ThreeElmentSumThreeArray">
+  <component name="RunManager" selected="Python.OnlyPositiveElementArray">
     <configuration name="CheckPalindromeCharReplacement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,7 +208,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="PairFourElementSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="OnlyPositiveElementArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -220,7 +220,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PairFourElementSum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/OnlyPositiveElementArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.PairFourElementSum" />
-      <item index="1" class="java.lang.String" itemvalue="Python.PalindromeMinimumInsertions" />
-      <item index="2" class="java.lang.String" itemvalue="Python.MaxDiffFreqTwoElement" />
-      <item index="3" class="java.lang.String" itemvalue="Python.CheckPalindromeCharReplacement" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ThreeElmentSumThreeArray" />
+      <item index="0" class="java.lang.String" itemvalue="Python.PalindromeMinimumInsertions" />
+      <item index="1" class="java.lang.String" itemvalue="Python.MaxDiffFreqTwoElement" />
+      <item index="2" class="java.lang.String" itemvalue="Python.CheckPalindromeCharReplacement" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ThreeElmentSumThreeArray" />
+      <item index="4" class="java.lang.String" itemvalue="Python.OnlyPositiveElementArray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ThreeElmentSumThreeArray" />
-        <item index="1" class="java.lang.String" itemvalue="Python.CheckPalindromeCharReplacement" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MaxDiffFreqTwoElement" />
-        <item index="3" class="java.lang.String" itemvalue="Python.PalindromeMinimumInsertions" />
-        <item index="4" class="java.lang.String" itemvalue="Python.PairFourElementSum" />
+        <item index="0" class="java.lang.String" itemvalue="Python.OnlyPositiveElementArray" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ThreeElmentSumThreeArray" />
+        <item index="2" class="java.lang.String" itemvalue="Python.CheckPalindromeCharReplacement" />
+        <item index="3" class="java.lang.String" itemvalue="Python.MaxDiffFreqTwoElement" />
+        <item index="4" class="java.lang.String" itemvalue="Python.PalindromeMinimumInsertions" />
       </list>
     </recent_temporary>
   </component>
@@ -456,13 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/PairsProduct.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/DistinctElements.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -857,6 +850,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/OnlyPositiveElementArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
           <folding />
         </state>
       </provider>
