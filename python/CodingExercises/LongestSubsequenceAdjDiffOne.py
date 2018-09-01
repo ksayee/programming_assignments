@@ -14,7 +14,7 @@ def LongestSubsequenceAdjDiffOne(ary):
 
                 if tmp>sub[i]:
                     sub[i]=tmp
-                    
+
     return sorted(sub,reverse=True)[0]
 
 def main():
