@@ -19,11 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="nSmallestElementsArrayOriginalOrder.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/nSmallestElementsArrayOriginalOrder.py">
+      <file leaf-file-name="SubArraryMaxSum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/SubArraryMaxSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="272">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LargestSumContigousSubArray.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LargestSumContigousSubArray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -54,8 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/MinimumDelete.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/MaximumDistanceElements.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DuplicateElementsKDistance.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MissingElementsRange.py" />
         <option value="$PROJECT_DIR$/CodingExercises/FacebookFriends.py" />
@@ -105,6 +113,8 @@
         <option value="$PROJECT_DIR$/CodingExercises/ClosestNumberArray.py" />
         <option value="$PROJECT_DIR$/CodingExercises/FindValueDoubleSearch.py" />
         <option value="$PROJECT_DIR$/CodingExercises/nSmallestElementsArrayOriginalOrder.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LargestSumContigousSubArray.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/SubArraryMaxSum.py" />
       </list>
     </option>
   </component>
@@ -173,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.nSmallestElementsArrayOriginalOrder">
+  <component name="RunManager" selected="Python.SubArraryMaxSum">
     <configuration name="ClosestNumberArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,7 +218,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LastDuplicateElementSortedArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LargestSumContigousSubArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -220,12 +230,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LastDuplicateElementSortedArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LargestSumContigousSubArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="SegregateEvenOddNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SubArraryMaxSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -237,7 +247,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SegregateEvenOddNumbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SubArraryMaxSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +385,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.SegregateEvenOddNumbers" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LastDuplicateElementSortedArray" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ClosestNumberArray" />
-      <item index="3" class="java.lang.String" itemvalue="Python.FindValueDoubleSearch" />
-      <item index="4" class="java.lang.String" itemvalue="Python.nSmallestElementsArrayOriginalOrder" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ClosestNumberArray" />
+      <item index="1" class="java.lang.String" itemvalue="Python.FindValueDoubleSearch" />
+      <item index="2" class="java.lang.String" itemvalue="Python.nSmallestElementsArrayOriginalOrder" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LargestSumContigousSubArray" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SubArraryMaxSum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.nSmallestElementsArrayOriginalOrder" />
-        <item index="1" class="java.lang.String" itemvalue="Python.FindValueDoubleSearch" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ClosestNumberArray" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LastDuplicateElementSortedArray" />
-        <item index="4" class="java.lang.String" itemvalue="Python.SegregateEvenOddNumbers" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SubArraryMaxSum" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LargestSumContigousSubArray" />
+        <item index="2" class="java.lang.String" itemvalue="Python.nSmallestElementsArrayOriginalOrder" />
+        <item index="3" class="java.lang.String" itemvalue="Python.FindValueDoubleSearch" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ClosestNumberArray" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +424,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29479167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25581396" sideWeight="0.5416667" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25581396" sideWeight="0.45833334" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25581396" sideWeight="0.45833334" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -456,22 +466,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/ReorderArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/MaximumAverage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/MultiplicationPreviousNext.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -860,6 +854,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LargestSumContigousSubArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/SubArraryMaxSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding />
         </state>
       </provider>
