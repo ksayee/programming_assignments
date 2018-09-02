@@ -33,5 +33,8 @@ def main():
     ary = [1, -2, 1, 1, -2, 1]
     print(LargestSumContigousSubArray(ary))
 
+    ary = [-2, 7, -6, -1, 5, 6, -3]
+    print(LargestSumContigousSubArray(ary))
+
 if __name__=='__main__':
     main()

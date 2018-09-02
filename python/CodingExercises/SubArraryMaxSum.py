@@ -33,5 +33,8 @@ def main():
     ary = [-2, -3, 4, -1, -2, 1, 5, -3 ]
     print(SubArraryMaxSum(ary))
 
+    ary = [-2,7,-6,-1,5,6,-3]
+    print(SubArraryMaxSum(ary))
+
 if __name__=='__main__':
     main()
