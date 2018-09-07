@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MaxDistance2OccurencesElementArray.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/MaxDistance2OccurencesElementArray.py">
+      <file leaf-file-name="SmallSubArrayMostFrequentElement.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/SmallSubArrayMostFrequentElement.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="527">
+              <caret line="31" column="49" lean-forward="false" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -54,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LongestIncreasingConsecutiveSubsequence.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LongestSubsequenceAdjDiffOne.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LongestConsecutiveSubsequence.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DistinctElementsWindowSizeK.py" />
@@ -105,6 +104,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/PairSumOneArray.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MinimumOperationsArrayEqual.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MaxDistance2OccurencesElementArray.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/SmallSubArrayMostFrequentElement.py" />
       </list>
     </option>
   </component>
@@ -173,24 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MaxDistance2OccurencesElementArray">
-    <configuration name="ArraySubset" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/ArraySubset.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.SmallSubArrayMostFrequentElement">
     <configuration name="MaxDistance2OccurencesElementArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,6 +221,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PairSumOneArray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="SmallSubArrayMostFrequentElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SmallSubArrayMostFrequentElement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ArraySubset" />
-      <item index="1" class="java.lang.String" itemvalue="Python.UnionIntersectionList" />
-      <item index="2" class="java.lang.String" itemvalue="Python.PairSumOneArray" />
-      <item index="3" class="java.lang.String" itemvalue="Python.MinimumOperationsArrayEqual" />
-      <item index="4" class="java.lang.String" itemvalue="Python.MaxDistance2OccurencesElementArray" />
+      <item index="0" class="java.lang.String" itemvalue="Python.UnionIntersectionList" />
+      <item index="1" class="java.lang.String" itemvalue="Python.PairSumOneArray" />
+      <item index="2" class="java.lang.String" itemvalue="Python.MinimumOperationsArrayEqual" />
+      <item index="3" class="java.lang.String" itemvalue="Python.MaxDistance2OccurencesElementArray" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SmallSubArrayMostFrequentElement" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.MaxDistance2OccurencesElementArray" />
-        <item index="1" class="java.lang.String" itemvalue="Python.MinimumOperationsArrayEqual" />
-        <item index="2" class="java.lang.String" itemvalue="Python.PairSumOneArray" />
-        <item index="3" class="java.lang.String" itemvalue="Python.UnionIntersectionList" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ArraySubset" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SmallSubArrayMostFrequentElement" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MaxDistance2OccurencesElementArray" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MinimumOperationsArrayEqual" />
+        <item index="3" class="java.lang.String" itemvalue="Python.PairSumOneArray" />
+        <item index="4" class="java.lang.String" itemvalue="Python.UnionIntersectionList" />
       </list>
     </recent_temporary>
   </component>
@@ -456,13 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/DistinctElementsWindowSizeK.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/ContigiousIntegers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
@@ -809,6 +802,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/SmallSubArrayMostFrequentElement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="49" lean-forward="false" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
           <folding />
         </state>
       </provider>
