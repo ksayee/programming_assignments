@@ -19,21 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NumOfDistinctPermutationsString.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/NumOfDistinctPermutationsString.py">
+      <file leaf-file-name="PairSumOneArray.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/PairSumOneArray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmployeeManager.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/EmployeeManager.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+            <state relative-caret-position="289">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -64,9 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/ItinearyTickets.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/DivisiblePairs.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/PairsDivided.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LongestSubarrayDivisibleK.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LongestIncreasingSubsequence.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LongestIncreasingConsecutiveSubsequence.py" />
@@ -115,6 +102,9 @@
         <option value="$PROJECT_DIR$/CodingExercises/CombinationList.py" />
         <option value="$PROJECT_DIR$/CodingExercises/NumOfDistinctPermutationsString.py" />
         <option value="$PROJECT_DIR$/CodingExercises/EmployeeManager.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/ArraySubset.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/UnionIntersectionList.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PairSumOneArray.py" />
       </list>
     </option>
   </component>
@@ -182,8 +172,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.EmployeeManager">
-    <configuration name="CombinationList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.PairSumOneArray">
+    <configuration name="ArraySubset" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -195,7 +185,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/CombinationList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/ArraySubset.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +224,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="PermutationsList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PairSumOneArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -246,12 +236,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PermutationsList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PairSumOneArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="PermutationsString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="UnionIntersectionList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -263,7 +253,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PermutationsString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/UnionIntersectionList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -384,19 +374,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.PermutationsString" />
-      <item index="1" class="java.lang.String" itemvalue="Python.NumOfDistinctPermutationsString" />
-      <item index="2" class="java.lang.String" itemvalue="Python.PermutationsList" />
-      <item index="3" class="java.lang.String" itemvalue="Python.CombinationList" />
-      <item index="4" class="java.lang.String" itemvalue="Python.EmployeeManager" />
+      <item index="0" class="java.lang.String" itemvalue="Python.NumOfDistinctPermutationsString" />
+      <item index="1" class="java.lang.String" itemvalue="Python.EmployeeManager" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ArraySubset" />
+      <item index="3" class="java.lang.String" itemvalue="Python.UnionIntersectionList" />
+      <item index="4" class="java.lang.String" itemvalue="Python.PairSumOneArray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.EmployeeManager" />
-        <item index="1" class="java.lang.String" itemvalue="Python.NumOfDistinctPermutationsString" />
-        <item index="2" class="java.lang.String" itemvalue="Python.CombinationList" />
-        <item index="3" class="java.lang.String" itemvalue="Python.PermutationsList" />
-        <item index="4" class="java.lang.String" itemvalue="Python.PermutationsString" />
+        <item index="0" class="java.lang.String" itemvalue="Python.PairSumOneArray" />
+        <item index="1" class="java.lang.String" itemvalue="Python.UnionIntersectionList" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ArraySubset" />
+        <item index="3" class="java.lang.String" itemvalue="Python.EmployeeManager" />
+        <item index="4" class="java.lang.String" itemvalue="Python.NumOfDistinctPermutationsString" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +413,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25052083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31606767" sideWeight="0.55" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31606767" sideWeight="0.45" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31606767" sideWeight="0.45" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -465,27 +455,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/PrintStringSpecChar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LongestIncreasingSubsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LongestIncreasingConsecutiveSubsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LongestSubsequenceAdjDiffOne.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -813,6 +782,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/ArraySubset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/UnionIntersectionList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PairSumOneArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
