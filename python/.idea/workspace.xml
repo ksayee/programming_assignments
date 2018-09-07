@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GreatestProductArray.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/GreatestProductArray.py">
+      <file leaf-file-name="KthMissingElementIncreasingSequence.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/KthMissingElementIncreasingSequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -54,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/PalindromeMinimumInsertions.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MaxDiffFreqTwoElement.py" />
         <option value="$PROJECT_DIR$/CodingExercises/CheckPalindromeCharReplacement.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ThreeElmentSumThreeArray.py" />
@@ -105,6 +104,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/CommonElementsRowsMatrix.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PairSumMatrixDifferentRow.py" />
         <option value="$PROJECT_DIR$/CodingExercises/GreatestProductArray.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/KthMissingElementIncreasingSequence.py" />
       </list>
     </option>
   </component>
@@ -173,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.GreatestProductArray">
+  <component name="RunManager" selected="Python.KthMissingElementIncreasingSequence">
     <configuration name="CommonElementsRowsMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,7 +225,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="NonOverlappingSumTwoList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="KthMissingElementIncreasingSequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -237,7 +237,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/NonOverlappingSumTwoList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/KthMissingElementIncreasingSequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.NonOverlappingSumTwoList" />
-      <item index="1" class="java.lang.String" itemvalue="Python.DisjointSets" />
-      <item index="2" class="java.lang.String" itemvalue="Python.CommonElementsRowsMatrix" />
-      <item index="3" class="java.lang.String" itemvalue="Python.PairSumMatrixDifferentRow" />
-      <item index="4" class="java.lang.String" itemvalue="Python.GreatestProductArray" />
+      <item index="0" class="java.lang.String" itemvalue="Python.DisjointSets" />
+      <item index="1" class="java.lang.String" itemvalue="Python.CommonElementsRowsMatrix" />
+      <item index="2" class="java.lang.String" itemvalue="Python.PairSumMatrixDifferentRow" />
+      <item index="3" class="java.lang.String" itemvalue="Python.GreatestProductArray" />
+      <item index="4" class="java.lang.String" itemvalue="Python.KthMissingElementIncreasingSequence" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.GreatestProductArray" />
-        <item index="1" class="java.lang.String" itemvalue="Python.PairSumMatrixDifferentRow" />
-        <item index="2" class="java.lang.String" itemvalue="Python.CommonElementsRowsMatrix" />
-        <item index="3" class="java.lang.String" itemvalue="Python.DisjointSets" />
-        <item index="4" class="java.lang.String" itemvalue="Python.NonOverlappingSumTwoList" />
+        <item index="0" class="java.lang.String" itemvalue="Python.KthMissingElementIncreasingSequence" />
+        <item index="1" class="java.lang.String" itemvalue="Python.GreatestProductArray" />
+        <item index="2" class="java.lang.String" itemvalue="Python.PairSumMatrixDifferentRow" />
+        <item index="3" class="java.lang.String" itemvalue="Python.CommonElementsRowsMatrix" />
+        <item index="4" class="java.lang.String" itemvalue="Python.DisjointSets" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +414,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25052083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31606767" sideWeight="0.55" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31606767" sideWeight="0.45" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31606767" sideWeight="0.45" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -456,13 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/OnlyPositiveElementArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/PairSumTwoArray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -816,6 +809,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/KthMissingElementIncreasingSequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
