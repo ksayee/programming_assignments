@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SmallSubArrayMostFrequentElement.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/SmallSubArrayMostFrequentElement.py">
+      <file leaf-file-name="DisjointSets.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/DisjointSets.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="49" lean-forward="false" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+            <state relative-caret-position="374">
+              <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -54,9 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LongestSubsequenceAdjDiffOne.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LongestConsecutiveSubsequence.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/DistinctElementsWindowSizeK.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ContigiousIntegers.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SubArraryGivenSum.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PairFourElementSum.py" />
@@ -105,6 +102,9 @@
         <option value="$PROJECT_DIR$/CodingExercises/MinimumOperationsArrayEqual.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MaxDistance2OccurencesElementArray.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SmallSubArrayMostFrequentElement.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/OverlappingSumTwoList.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/NonOverlappingSumTwoList.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/DisjointSets.py" />
       </list>
     </option>
   </component>
@@ -173,7 +173,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SmallSubArrayMostFrequentElement">
+  <component name="RunManager" selected="Python.DisjointSets">
+    <configuration name="DisjointSets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DisjointSets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="MaxDistance2OccurencesElementArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,7 +225,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="PairSumOneArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="NonOverlappingSumTwoList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -220,7 +237,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PairSumOneArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/NonOverlappingSumTwoList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,23 +255,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SmallSubArrayMostFrequentElement.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="UnionIntersectionList" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/UnionIntersectionList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.UnionIntersectionList" />
-      <item index="1" class="java.lang.String" itemvalue="Python.PairSumOneArray" />
-      <item index="2" class="java.lang.String" itemvalue="Python.MinimumOperationsArrayEqual" />
-      <item index="3" class="java.lang.String" itemvalue="Python.MaxDistance2OccurencesElementArray" />
-      <item index="4" class="java.lang.String" itemvalue="Python.SmallSubArrayMostFrequentElement" />
+      <item index="0" class="java.lang.String" itemvalue="Python.MinimumOperationsArrayEqual" />
+      <item index="1" class="java.lang.String" itemvalue="Python.MaxDistance2OccurencesElementArray" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SmallSubArrayMostFrequentElement" />
+      <item index="3" class="java.lang.String" itemvalue="Python.NonOverlappingSumTwoList" />
+      <item index="4" class="java.lang.String" itemvalue="Python.DisjointSets" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.SmallSubArrayMostFrequentElement" />
-        <item index="1" class="java.lang.String" itemvalue="Python.MaxDistance2OccurencesElementArray" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MinimumOperationsArrayEqual" />
-        <item index="3" class="java.lang.String" itemvalue="Python.PairSumOneArray" />
-        <item index="4" class="java.lang.String" itemvalue="Python.UnionIntersectionList" />
+        <item index="0" class="java.lang.String" itemvalue="Python.DisjointSets" />
+        <item index="1" class="java.lang.String" itemvalue="Python.NonOverlappingSumTwoList" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SmallSubArrayMostFrequentElement" />
+        <item index="3" class="java.lang.String" itemvalue="Python.MaxDistance2OccurencesElementArray" />
+        <item index="4" class="java.lang.String" itemvalue="Python.MinimumOperationsArrayEqual" />
       </list>
     </recent_temporary>
   </component>
@@ -456,27 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/ContigiousIntegers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/SubArraryGivenSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="35" lean-forward="false" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/PairFourElementSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/PalindromeMinimumInsertions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -810,6 +789,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="49" lean-forward="false" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/OverlappingSumTwoList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="42" column="34" lean-forward="false" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/NonOverlappingSumTwoList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DisjointSets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
           <folding />
         </state>
       </provider>
