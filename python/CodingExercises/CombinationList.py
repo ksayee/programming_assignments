@@ -8,11 +8,9 @@ def CombinationList(ary):
 
     lst=[]
     cnt=[]
-
     for key,val in dict.items():
         lst.append(key)
         cnt.append(val)
-
     res=[]
     fnl_lst=[]
     CombinationList_recur(lst,cnt,res,len(ary),fnl_lst)
