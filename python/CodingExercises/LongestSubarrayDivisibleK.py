@@ -4,37 +4,33 @@
 
 def LongestSubarryDivisibleK(ary,k):
 
+    dict={}
+
     fnl_lst=[]
 
-    dict={}
-    sum=0
-    for i in range(0,len(ary)):
-        sum=sum+ary[i]
+    curr_sum=0
 
-        if sum%k==0:
-            tup=(0,i)
-            fnl_lst.append(tup)
+    for i in range(0,len(ary)):
+        curr_sum=curr_sum+ary[i]
+
+        if curr_sum%k==0:
+            fnl_lst.append(ary[0:i+1])
         else:
-            rem=sum%k
+
+            rem=curr_sum%k
 
             if rem in dict.keys():
                 val=dict[rem]
-                for idx in val:
-                    tup=(idx+1,i)
-                    fnl_lst.append(tup)
-                dict[rem].append(i)
+                for itm in val:
+                    tmp=ary[itm+1:i+1]
+                    if len(tmp)>0:
+                        fnl_lst.append(tmp)
             else:
                 tmp=[]
                 tmp.append(i)
                 dict[rem]=tmp
 
-    max=0
-    for l in fnl_lst:
-        if l[1]-l[0]>max:
-            max=l[1]-l[0]
-            tup=l
-
-    return ary[tup[0]:tup[1]+1]
+    return fnl_lst
 
 def main():
 

@@ -19,11 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SubArraryGivenSum.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/SubArraryGivenSum.py">
+      <file leaf-file-name="LargestSubArraySumZero.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LargestSubArraySumZero.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="187">
+              <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestSubarrayDivisibleK.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LongestSubarrayDivisibleK.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -54,8 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/ThreeElmentSumThreeArray.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/OnlyPositiveElementArray.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PairSumTwoArray.py" />
         <option value="$PROJECT_DIR$/CodingExercises/NextGreaterElement.py" />
         <option value="$PROJECT_DIR$/CodingExercises/CountIncreasingSubArray.py" />
@@ -105,6 +113,8 @@
         <option value="$PROJECT_DIR$/CodingExercises/KthMissingElementIncreasingSequence.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PairGivenProduct.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SubArraryGivenSum.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LargestSubArraySumZero.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LongestSubarrayDivisibleK.py" />
       </list>
     </option>
   </component>
@@ -173,24 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SubArraryGivenSum">
-    <configuration name="GreatestProductArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/GreatestProductArray.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.LongestSubarrayDivisibleK">
     <configuration name="KthMissingElementIncreasingSequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,6 +201,40 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="LargestSubArraySumZero" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LargestSubArraySumZero.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="LongestSubarrayDivisibleK" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LongestSubarrayDivisibleK.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="PairGivenProduct" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,23 +248,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PairGivenProduct.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="PairSumMatrixDifferentRow" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PairSumMatrixDifferentRow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +385,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.PairSumMatrixDifferentRow" />
-      <item index="1" class="java.lang.String" itemvalue="Python.GreatestProductArray" />
-      <item index="2" class="java.lang.String" itemvalue="Python.KthMissingElementIncreasingSequence" />
-      <item index="3" class="java.lang.String" itemvalue="Python.PairGivenProduct" />
-      <item index="4" class="java.lang.String" itemvalue="Python.SubArraryGivenSum" />
+      <item index="0" class="java.lang.String" itemvalue="Python.KthMissingElementIncreasingSequence" />
+      <item index="1" class="java.lang.String" itemvalue="Python.PairGivenProduct" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SubArraryGivenSum" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LargestSubArraySumZero" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LongestSubarrayDivisibleK" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.SubArraryGivenSum" />
-        <item index="1" class="java.lang.String" itemvalue="Python.PairGivenProduct" />
-        <item index="2" class="java.lang.String" itemvalue="Python.KthMissingElementIncreasingSequence" />
-        <item index="3" class="java.lang.String" itemvalue="Python.GreatestProductArray" />
-        <item index="4" class="java.lang.String" itemvalue="Python.PairSumMatrixDifferentRow" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LongestSubarrayDivisibleK" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LargestSubArraySumZero" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SubArraryGivenSum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.PairGivenProduct" />
+        <item index="4" class="java.lang.String" itemvalue="Python.KthMissingElementIncreasingSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -456,27 +466,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/CountIncreasingSubArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/Median.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/MedianMinElementAddedEqualX.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/ClosestPairsSortedArrays.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -695,14 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/EmployeeManager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/ArraySubset.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -819,6 +800,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/ItinearyTickets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/EmployeeManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LargestSubArraySumZero.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LongestSubarrayDivisibleK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
           <folding />
         </state>
       </provider>
