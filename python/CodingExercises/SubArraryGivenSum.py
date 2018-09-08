@@ -5,34 +5,37 @@
 def SubArrayGivenSum(ary,k):
 
     dict={}
-
     curr_sum=0
     fnl_lst=[]
+
     for i in range(0,len(ary)):
 
         curr_sum=curr_sum+ary[i]
 
         if curr_sum==k:
-            tup=(0,i)
-            fnl_lst.append(ary[tup[0]:tup[1]+1])
+            fnl_lst.append(ary[0:i+1])
         else:
-            diff=curr_sum-k
-
-            if diff in dict.keys():
-                val=dict[diff]
-                for idx in val:
-                    tup=(idx+1,i)
-                    fnl_lst.append(ary[tup[0]:tup[1]+1])
-                dict[diff].append(i)
+            if curr_sum in dict.keys():
+                dict[curr_sum].append(i)
             else:
                 tmp=[]
                 tmp.append(i)
                 dict[curr_sum]=tmp
+
+            diff=curr_sum-k
+
+            if diff in dict.keys():
+                val=dict[diff]
+                for itm in val:
+                    tmp=ary[itm+1:i+1]
+                    if len(tmp)>0:
+                        fnl_lst.append(ary[itm+1:i+1])
+
     return fnl_lst
 
 def main():
 
-    ary=[1, 4, 20, 3, 10, 5]
+    ary=[9, 4, 20, 3, 10, 5]
     k=33
     print(SubArrayGivenSum(ary,k))
 
