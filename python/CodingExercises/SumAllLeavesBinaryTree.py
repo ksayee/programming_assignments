@@ -1,4 +1,4 @@
-# Sum of all elements in a binary tree
+# Sum of All leaves in a Binary Tree
 
 class Node(object):
     def __init__(self,value):
@@ -40,50 +40,48 @@ class BinaryTree(object):
         elif traversal_type=='postorder':
             return self.postorder(self.root,'')
 
-    def CalculateSum(self,start,tmp):
+    def CaculateSum(self,start,tmp):
 
         if start is None:
             return
-        tmp.append(start.value)
-        self.CalculateSum(start.left,tmp)
-        self.CalculateSum(start.right,tmp)
+        if start.left is  None and start.right is None:
+            tmp.append(start.value)
+            return
+        self.CaculateSum(start.left,tmp)
+        self.CaculateSum(start.right,tmp)
 
-    def SumAllLevelsBinaryTree(self):
+    def SumAllLeavesBinaryTree(self):
 
         tmp=[]
-        self.CalculateSum(self.root,tmp)
+        self.CaculateSum(self.root,tmp)
         sum=0
         for l in tmp:
             sum=sum+l
         return sum
 
-    def SumAllLevelsBinaryTreeWithoutRecurrsion(self):
-
-        node_lst=[]
-        num_lst=[]
+    def SumAllLeavesBinaryTreeWithoutRecurrsion(self):
 
         start=self.root
+        node_lst=[]
+        num_lst=[]
         node_lst.append(start)
-
         while len(node_lst)>0:
-
             tmp=[]
             while len(node_lst)>0:
-
                 n=node_lst[-1]
                 node_lst.pop()
-                num_lst.append(n.value)
+                if n.left is None and n.right is None:
+                    num_lst.append(n.value)
+
                 if n.left!=None:
                     tmp.append(n.left)
                 if n.right!=None:
                     tmp.append(n.right)
 
             node_lst=tmp
-
         sum=0
         for l in num_lst:
             sum=sum+l
-
         return sum
 
 def main():
@@ -106,8 +104,8 @@ def main():
     print(tree.print_tree('preorder'))
     print(tree.print_tree('inorder'))
     print(tree.print_tree('postorder'))
-    print(tree.SumAllLevelsBinaryTree())
-    print(tree.SumAllLevelsBinaryTreeWithoutRecurrsion())
+    print(tree.SumAllLeavesBinaryTree())
+    print(tree.SumAllLeavesBinaryTreeWithoutRecurrsion())
 
 if __name__=='__main__':
     main()

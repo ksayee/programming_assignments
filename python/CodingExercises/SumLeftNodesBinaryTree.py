@@ -44,11 +44,12 @@ class BinaryTree(object):
 
         if start is None:
             return
-        tmp.append(start.value)
+        if start.left!=None:
+            tmp.append(start.left.value)
         self.CalculateSum(start.left,tmp)
         self.CalculateSum(start.right,tmp)
 
-    def SumAllLevelsBinaryTree(self):
+    def LeftNodesBinaryTree(self):
 
         tmp=[]
         self.CalculateSum(self.root,tmp)
@@ -57,7 +58,7 @@ class BinaryTree(object):
             sum=sum+l
         return sum
 
-    def SumAllLevelsBinaryTreeWithoutRecurrsion(self):
+    def LeftNodesBinaryTreeWithoutRecurrsion(self):
 
         node_lst=[]
         num_lst=[]
@@ -72,7 +73,8 @@ class BinaryTree(object):
 
                 n=node_lst[-1]
                 node_lst.pop()
-                num_lst.append(n.value)
+                if n.left!=None:
+                    num_lst.append(n.left.value)
                 if n.left!=None:
                     tmp.append(n.left)
                 if n.right!=None:
@@ -106,8 +108,8 @@ def main():
     print(tree.print_tree('preorder'))
     print(tree.print_tree('inorder'))
     print(tree.print_tree('postorder'))
-    print(tree.SumAllLevelsBinaryTree())
-    print(tree.SumAllLevelsBinaryTreeWithoutRecurrsion())
+    print(tree.LeftNodesBinaryTree())
+    print(tree.LeftNodesBinaryTreeWithoutRecurrsion())
 
 if __name__=='__main__':
     main()
