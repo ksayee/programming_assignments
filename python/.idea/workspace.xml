@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LevelSumBinaryTree.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/LevelSumBinaryTree.py">
+      <file leaf-file-name="SumAllLevelsBinaryTree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/SumAllLevelsBinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="80" column="16" lean-forward="false" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
+            <state relative-caret-position="1156">
+              <caret line="68" column="30" lean-forward="false" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -54,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/MedianMinElementAddedEqualX.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SmallestGreaterElementWholeArray.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ClosestPairsSortedArrays.py" />
         <option value="$PROJECT_DIR$/CodingExercises/BinarySearch.py" />
@@ -105,10 +104,11 @@
         <option value="$PROJECT_DIR$/CodingExercises/RearrangeArrayMaxMinForm.py" />
         <option value="$PROJECT_DIR$/CodingExercises/BinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LevelSumBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/SumAllLevelsBinaryTree.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="188" />
     <option name="width" value="160" />
     <option name="height" value="39" />
@@ -173,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LevelSumBinaryTree">
+  <component name="RunManager" selected="Python.SumAllLevelsBinaryTree">
     <configuration name="BinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,23 +225,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LongestSubarrayDivisibleK" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LongestSubarrayDivisibleK.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="RearrangeArrayMaxMinForm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,6 +238,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/RearrangeArrayMaxMinForm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="SumAllLevelsBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SumAllLevelsBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LongestSubarrayDivisibleK" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LongestConsecutiveSubsequence" />
-      <item index="2" class="java.lang.String" itemvalue="Python.RearrangeArrayMaxMinForm" />
-      <item index="3" class="java.lang.String" itemvalue="Python.BinaryTree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LevelSumBinaryTree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.LongestConsecutiveSubsequence" />
+      <item index="1" class="java.lang.String" itemvalue="Python.RearrangeArrayMaxMinForm" />
+      <item index="2" class="java.lang.String" itemvalue="Python.BinaryTree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LevelSumBinaryTree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SumAllLevelsBinaryTree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LevelSumBinaryTree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.BinaryTree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.RearrangeArrayMaxMinForm" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LongestConsecutiveSubsequence" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LongestSubarrayDivisibleK" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SumAllLevelsBinaryTree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LevelSumBinaryTree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.BinaryTree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.RearrangeArrayMaxMinForm" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LongestConsecutiveSubsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -408,9 +408,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25052083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25052083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31606767" sideWeight="0.55" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31606767" sideWeight="0.45" order="2" side_tool="false" content_ui="tabs" />
@@ -455,13 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/TrappingRainWater.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="17" lean-forward="false" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/Top3RepeatedElements.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -826,6 +820,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="80" column="16" lean-forward="false" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/SumAllLevelsBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="30" lean-forward="false" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
           <folding />
         </state>
       </provider>
