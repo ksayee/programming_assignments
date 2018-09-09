@@ -27,7 +27,7 @@ def main():
 
     ary=[1, 2, 3, 4, 5, 6, 7]
     print(RearrangeArrayMaxMinForm(ary))
-    
+
     ary = [1, 2, 3, 4, 5, 6]
     print(RearrangeArrayMaxMinForm(ary))
 
