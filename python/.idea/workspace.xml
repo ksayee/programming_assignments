@@ -19,21 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SumRightLeavesBinaryTree.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/SumRightLeavesBinaryTree.py">
+      <file leaf-file-name="PrintRightToLeftLeavesIterative.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/PrintRightToLeftLeavesIterative.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SumRightNodesBinaryTree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/SumRightNodesBinaryTree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1156">
-              <caret line="110" column="29" lean-forward="true" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
+            <state relative-caret-position="35">
+              <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -64,9 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/TripletSumValue.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/TrappingRainWater.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/SegregateEvenOddNumbers.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LastDuplicateElementSortedArray.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ClosestNumberArray.py" />
         <option value="$PROJECT_DIR$/CodingExercises/FindValueDoubleSearch.py" />
@@ -115,10 +102,13 @@
         <option value="$PROJECT_DIR$/CodingExercises/SumRightNodesBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SumLeftLeavesBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SumRightLeavesBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeafTraversal2BinaryTreeSame.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PreOrderLeftToRightLeavesIterative.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PrintRightToLeftLeavesIterative.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="188" />
     <option name="width" value="160" />
     <option name="height" value="39" />
@@ -183,8 +173,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SumRightLeavesBinaryTree">
-    <configuration name="SumAllLeavesBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.PrintRightToLeftLeavesIterative">
+    <configuration name="LeafTraversal2BinaryTreeSame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -196,7 +186,41 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SumAllLeavesBinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeafTraversal2BinaryTreeSame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="PreOrderLeftToRightLeavesIterative" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PreOrderLeftToRightLeavesIterative.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="PrintRightToLeftLeavesIterative" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PrintRightToLeftLeavesIterative.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,23 +242,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="SumLeftNodesBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SumLeftNodesBinaryTree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="SumRightLeavesBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,23 +255,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SumRightLeavesBinaryTree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="SumRightNodesBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SumRightNodesBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -385,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.SumAllLeavesBinaryTree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.SumLeftLeavesBinaryTree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.SumLeftNodesBinaryTree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SumRightNodesBinaryTree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.SumRightLeavesBinaryTree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.SumLeftLeavesBinaryTree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SumRightLeavesBinaryTree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.LeafTraversal2BinaryTreeSame" />
+      <item index="3" class="java.lang.String" itemvalue="Python.PreOrderLeftToRightLeavesIterative" />
+      <item index="4" class="java.lang.String" itemvalue="Python.PrintRightToLeftLeavesIterative" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.SumRightLeavesBinaryTree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SumLeftLeavesBinaryTree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.SumRightNodesBinaryTree" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SumLeftNodesBinaryTree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.SumAllLeavesBinaryTree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.PrintRightToLeftLeavesIterative" />
+        <item index="1" class="java.lang.String" itemvalue="Python.PreOrderLeftToRightLeavesIterative" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LeafTraversal2BinaryTreeSame" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SumRightLeavesBinaryTree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SumLeftLeavesBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -418,7 +408,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25052083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -466,21 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/SubArraryMaxSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/MinimumDiffTwoElementsArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/SmallestSubArraySumGreaterValue.py" />
     <entry file="file://$PROJECT_DIR$/CodingExercises/SmallestGreaterElementWholeArray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -833,6 +808,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/SumRightLeavesBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/SumRightNodesBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1156">
@@ -841,10 +824,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/SumRightLeavesBinaryTree.py">
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeafTraversal2BinaryTreeSame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        <state relative-caret-position="307">
+          <caret line="43" column="23" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PreOrderLeftToRightLeavesIterative.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="56" column="39" lean-forward="false" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PrintRightToLeftLeavesIterative.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
           <folding />
         </state>
       </provider>
