@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PrintRightToLeftLeavesIterative.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/PrintRightToLeftLeavesIterative.py">
+      <file leaf-file-name="StringPatternDictionary.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/StringPatternDictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+            <state relative-caret-position="460">
+              <caret line="50" column="4" lean-forward="false" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -54,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LastDuplicateElementSortedArray.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ClosestNumberArray.py" />
         <option value="$PROJECT_DIR$/CodingExercises/FindValueDoubleSearch.py" />
         <option value="$PROJECT_DIR$/CodingExercises/nSmallestElementsArrayOriginalOrder.py" />
@@ -105,6 +104,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/LeafTraversal2BinaryTreeSame.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PreOrderLeftToRightLeavesIterative.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PrintRightToLeftLeavesIterative.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/StringPatternDictionary.py" />
       </list>
     </option>
   </component>
@@ -173,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PrintRightToLeftLeavesIterative">
+  <component name="RunManager" selected="Python.StringPatternDictionary">
     <configuration name="LeafTraversal2BinaryTreeSame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,7 +225,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="SumLeftLeavesBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="StringPatternDictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -237,7 +237,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SumLeftLeavesBinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/StringPatternDictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.SumLeftLeavesBinaryTree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.SumRightLeavesBinaryTree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LeafTraversal2BinaryTreeSame" />
-      <item index="3" class="java.lang.String" itemvalue="Python.PreOrderLeftToRightLeavesIterative" />
-      <item index="4" class="java.lang.String" itemvalue="Python.PrintRightToLeftLeavesIterative" />
+      <item index="0" class="java.lang.String" itemvalue="Python.SumRightLeavesBinaryTree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LeafTraversal2BinaryTreeSame" />
+      <item index="2" class="java.lang.String" itemvalue="Python.PreOrderLeftToRightLeavesIterative" />
+      <item index="3" class="java.lang.String" itemvalue="Python.PrintRightToLeftLeavesIterative" />
+      <item index="4" class="java.lang.String" itemvalue="Python.StringPatternDictionary" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.PrintRightToLeftLeavesIterative" />
-        <item index="1" class="java.lang.String" itemvalue="Python.PreOrderLeftToRightLeavesIterative" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LeafTraversal2BinaryTreeSame" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SumRightLeavesBinaryTree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.SumLeftLeavesBinaryTree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.StringPatternDictionary" />
+        <item index="1" class="java.lang.String" itemvalue="Python.PrintRightToLeftLeavesIterative" />
+        <item index="2" class="java.lang.String" itemvalue="Python.PreOrderLeftToRightLeavesIterative" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LeafTraversal2BinaryTreeSame" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SumRightLeavesBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +414,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25052083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31606767" sideWeight="0.55625" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31606767" sideWeight="0.44375" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31606767" sideWeight="0.44375" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -456,20 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/SmallestGreaterElementWholeArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/CountCharSamePosEngAlpabets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/Testing.py" />
     <entry file="file://$PROJECT_DIR$/CodingExercises/ThreeElmentSumThreeArray.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -842,8 +828,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/PrintRightToLeftLeavesIterative.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
+        <state relative-caret-position="476">
           <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PutSpaces.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/StringPatternDictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="50" column="4" lean-forward="false" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
           <folding />
         </state>
       </provider>
