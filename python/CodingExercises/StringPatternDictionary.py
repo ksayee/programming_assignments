@@ -48,6 +48,6 @@ def main():
     lst = ["abab", "aba", "xyz", "xyx"]
     ptrn = 'aba'
     print(StringPatternDictionary(lst, ptrn))
-    
+
 if __name__=='__main__':
     main()
