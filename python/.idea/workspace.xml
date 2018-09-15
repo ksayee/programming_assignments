@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IntegerSubstringDivisibleBy6.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/IntegerSubstringDivisibleBy6.py">
+      <file leaf-file-name="LeetCode2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            <state relative-caret-position="657">
+              <caret line="57" column="21" lean-forward="false" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -54,8 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/CountCharSamePosEngAlpabets.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/Testing.py" />
         <option value="$PROJECT_DIR$/CodingExercises/FindMissingNumbers.py" />
         <option value="$PROJECT_DIR$/CodingExercises/FindMissingNumbersBinarySearch.py" />
         <option value="$PROJECT_DIR$/CodingExercises/CharactersFrequencyOrderOccurence.py" />
@@ -105,6 +103,8 @@
         <option value="$PROJECT_DIR$/CodingExercises/DivisibleBy11.py" />
         <option value="$PROJECT_DIR$/CodingExercises/BinaryStringDivisibleBy5.py" />
         <option value="$PROJECT_DIR$/CodingExercises/IntegerSubstringDivisibleBy6.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode2.py" />
       </list>
     </option>
   </component>
@@ -173,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.IntegerSubstringDivisibleBy6">
+  <component name="RunManager" selected="Python.LeetCode2">
     <configuration name="BinaryStringDivisibleBy5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,23 +208,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="DivisibleBy4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DivisibleBy4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="IntegerSubstringDivisibleBy6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,7 +225,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="RemoveNodesDontLiePathSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -254,7 +237,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/RemoveNodesDontLiePathSum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="LeetCode2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.RemoveNodesDontLiePathSum" />
-      <item index="1" class="java.lang.String" itemvalue="Python.DivisibleBy4" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DivisibleBy11" />
-      <item index="3" class="java.lang.String" itemvalue="Python.BinaryStringDivisibleBy5" />
-      <item index="4" class="java.lang.String" itemvalue="Python.IntegerSubstringDivisibleBy6" />
+      <item index="0" class="java.lang.String" itemvalue="Python.DivisibleBy11" />
+      <item index="1" class="java.lang.String" itemvalue="Python.BinaryStringDivisibleBy5" />
+      <item index="2" class="java.lang.String" itemvalue="Python.IntegerSubstringDivisibleBy6" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.IntegerSubstringDivisibleBy6" />
-        <item index="1" class="java.lang.String" itemvalue="Python.BinaryStringDivisibleBy5" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DivisibleBy11" />
-        <item index="3" class="java.lang.String" itemvalue="Python.DivisibleBy4" />
-        <item index="4" class="java.lang.String" itemvalue="Python.RemoveNodesDontLiePathSum" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.IntegerSubstringDivisibleBy6" />
+        <item index="3" class="java.lang.String" itemvalue="Python.BinaryStringDivisibleBy5" />
+        <item index="4" class="java.lang.String" itemvalue="Python.DivisibleBy11" />
       </list>
     </recent_temporary>
   </component>
@@ -456,20 +456,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/Factorial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/PermutationsList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/PermutationsString.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -807,8 +793,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/IntegerSubstringDivisibleBy6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        <state relative-caret-position="595">
+          <caret line="35" column="36" lean-forward="false" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="57" column="21" lean-forward="false" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
           <folding />
         </state>
       </provider>
