@@ -60,9 +60,7 @@ def LeetCode17(str1):
 
     return fnl_lst
 
-
 def Combinations_recur(lst,cnt,res_lst,tmp):
-
 
     for i in range(0,len(lst)):
         if cnt[i]==0:
@@ -73,7 +71,6 @@ def Combinations_recur(lst,cnt,res_lst,tmp):
         Combinations_recur(lst, cnt, res_lst, tmp)
         tmp.pop()
         cnt[i]=cnt[i]+1
-
 
 def main():
 
