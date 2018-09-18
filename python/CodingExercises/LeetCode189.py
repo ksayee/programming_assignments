@@ -22,7 +22,10 @@ rotate 2 steps to the right: [3,99,-1,-100]
 
 def LeetCode189(ary,k):
 
-    return ary[-k:]+ary[:k]
+    while k>len(ary):
+        k=k-len(ary)
+
+    return ary[-k:]+ary[:len(ary)-k]
 
 def main():
 
@@ -35,11 +38,27 @@ def main():
     print(LeetCode189(ary, k))
 
     ary = [1, 2, 3, 4, 5, 6, 7]
-    k = 3
+    k =5
     print(LeetCode189(ary, k))
 
     ary = [1, 2, 3, 4, 5, 6, 7]
-    k = 3
+    k = 6
+    print(LeetCode189(ary, k))
+
+    ary = [1, 2, 3, 4, 5, 6, 7]
+    k = 7
+    print(LeetCode189(ary, k))
+
+    ary = [1, 2, 3, 4, 5, 6, 7]
+    k = 10
+    print(LeetCode189(ary, k))
+
+    ary = [1, 2, 3, 4, 5, 6, 7]
+    k = 15
+    print(LeetCode189(ary, k))
+
+    ary = [1, 2, 3, 4, 5, 6, 7]
+    k = 1
     print(LeetCode189(ary, k))
 
 if __name__=='__main__':
