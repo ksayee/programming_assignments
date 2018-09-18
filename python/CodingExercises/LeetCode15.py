@@ -40,10 +40,47 @@ def LeetCode15(ary):
 
     return fnl_lst
 
+import collections
+def LeetCode15_recur(ary):
+
+    dict=collections.Counter(ary)
+
+    lst=[]
+    cnt=[]
+    for key,val in dict.items():
+        lst.append(key)
+        cnt.append(val)
+    fnl_lst=[]
+    tmp=[]
+
+    Combinations_recur(lst,cnt,fnl_lst,tmp)
+
+    return fnl_lst
+
+def Combinations_recur(lst,cnt,fnl_lst,tmp):
+
+    if len(tmp)==3:
+        sum=0
+        for l in tmp:
+            sum=sum+l
+        if sum==0:
+            if sorted(tmp) not in fnl_lst:
+                fnl_lst.append(sorted(tmp.copy()))
+
+    for i in range(0,len(lst)):
+        if cnt[i]==0:
+            continue
+        tmp.append(lst[i])
+        cnt[i]=cnt[i]-1
+        Combinations_recur(lst, cnt, fnl_lst, tmp)
+        tmp.pop()
+        cnt[i]=cnt[i]+1
+
 def main():
     
     ary=[-1, 0, 1, 2, -1, -4]
     print(LeetCode15(ary))
+    print(LeetCode15_recur(ary))
 
 if __name__=='__main__':
     main()
