@@ -44,7 +44,7 @@ def Combinations_recur(coins,fnl_lst,tmp,amt):
     if amt==0:
         if sorted(tmp) not in fnl_lst:
             fnl_lst.append(sorted(tmp.copy()))
-            
+
     for i in range(0,len(coins)):
         if coins[i]>amt:
             break
