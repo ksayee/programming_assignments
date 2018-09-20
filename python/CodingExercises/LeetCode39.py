@@ -50,7 +50,7 @@ def Combinations_recur(ary,fnl_lst,tmp,k):
         tmp.append(ary[i])
         Combinations_recur(ary, fnl_lst, tmp, k-ary[i])
         tmp.pop()
-            
+
 def main():
 
     ary=[2,3,6,7]
