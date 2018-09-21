@@ -24,18 +24,22 @@ def LeetCode167(ary,k):
     fnl_lst=[]
     for i in range(0,len(ary)):
         key=ary[i]
-
         diff=k-key
-
         if diff!=key:
+
             if diff in dict.keys():
-                idx=dict[diff]
-                tup=(idx+1,i+1)
-                fnl_lst.append(tup)
+                tmp=[]
+                for l in dict[diff]:
+                    tmp.append(l+1)
+                tmp.append(i+1)
+                fnl_lst.append(tmp)
+            elif key not in dict.keys():
+                tmp=[]
+                tmp.append(i)
+                dict[key]=tmp
             else:
-                dict[key]=i
-        else:
-            dict[key]=i
+                dict[key].append(i)
+
     return fnl_lst
 
 def main():
