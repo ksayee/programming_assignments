@@ -25,26 +25,34 @@ Both numbers with value 2 are both considered as second maximum.
 
 def LeetCode414(ary):
 
-    cnt=1
-    tmp_max=-999
-    max=-999
+    first=ary[0]
+    second=-9999
+    third=-9999
 
-    for i in range(0,len(ary)):
+    for i in range(1,len(ary)):
         key=ary[i]
-        if i==0:
-            max=key
-            tmp_max=key
-        else:
-            if key<=tmp_max and cnt<=3:
-                tmp_max=key
-                cnt=cnt+1
-            if key>max:
-                max=key
+        if key>first:
+            third=second
+            second=first
+            first=key
+        elif key>second:
+            if key==first:
+                continue
+            else:
+                third=second
+                second=key
+        elif key>third:
+            if key==second:
+                continue
+            else:
+                third=key
 
-    if cnt==3:
-        return tmp_max
+
+    if third==-9999:
+        return first
     else:
-        return max
+        return third
+
 def main():
 
     ary=[3, 2, 1]
@@ -53,7 +61,7 @@ def main():
     ary = [1, 2]
     print(LeetCode414(ary))
 
-    ary = [2, 2, 3, 1]
+    ary = [2,2, 3, 1]
     print(LeetCode414(ary))
 
 if __name__=='__main__':
