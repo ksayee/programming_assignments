@@ -48,5 +48,7 @@ def main():
     k=9
     print(LeetCode167(ary,k))
 
+    print(bin(2))
+
 if __name__=='__main__':
     main()
