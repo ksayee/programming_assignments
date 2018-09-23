@@ -28,7 +28,7 @@ def LeetCode445(ary1,ary2):
 
     j=len(sml_lst)-1
     carry=0
-    
+
     for i in range(len(big_lst)-1,-1,-1):
 
         if j>=0:
