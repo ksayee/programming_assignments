@@ -18,18 +18,7 @@
     <favorites_list name="python" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SerializeBinaryTree.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/SerializeBinaryTree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -54,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode496.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode500.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode91.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode241.py" />
@@ -105,6 +93,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/BalancedParenthesesCombinations.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ReverseDigits.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SerializeBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/DeSerializeBinaryTree.py" />
       </list>
     </option>
   </component>
@@ -173,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SerializeBinaryTree">
+  <component name="RunManager" selected="Python.DeSerializeBinaryTree">
     <configuration name="BalancedParenthesesCombinations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,7 +180,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="ChildrenSumBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DeSerializeBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -203,7 +192,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/ChildrenSumBinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DeSerializeBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +364,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ChildrenSumBinaryTree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.SumTreeBinaryTree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.BalancedParenthesesCombinations" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ReverseDigits" />
-      <item index="4" class="java.lang.String" itemvalue="Python.SerializeBinaryTree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.SumTreeBinaryTree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.BalancedParenthesesCombinations" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ReverseDigits" />
+      <item index="3" class="java.lang.String" itemvalue="Python.SerializeBinaryTree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.DeSerializeBinaryTree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.SerializeBinaryTree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ReverseDigits" />
-        <item index="2" class="java.lang.String" itemvalue="Python.BalancedParenthesesCombinations" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SumTreeBinaryTree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ChildrenSumBinaryTree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.DeSerializeBinaryTree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.SerializeBinaryTree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ReverseDigits" />
+        <item index="3" class="java.lang.String" itemvalue="Python.BalancedParenthesesCombinations" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SumTreeBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -409,9 +398,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33509514" sideWeight="0.559375" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -456,14 +444,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode336.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="18" lean-forward="false" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode532.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
@@ -858,8 +838,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/SerializeBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+        <state relative-caret-position="238">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DeSerializeBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="52" column="44" lean-forward="false" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
           <folding />
         </state>
       </provider>
