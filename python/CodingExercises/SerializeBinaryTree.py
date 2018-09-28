@@ -14,7 +14,7 @@ class BinaryTree(object):
     def preorder(self,start,tmp):
         if start is None:
             return
-        tmp.append(str(start.value)+'-')
+        tmp.append(str(start.value))
         self.preorder(start.left,tmp)
         self.preorder(start.right,tmp)
 
@@ -23,7 +23,7 @@ class BinaryTree(object):
             tmp=[]
             start=self.root
             self.preorder(start,tmp)
-            return ''.join(tmp)
+            return ' '.join(tmp)
         elif traversal_type=='inorder':
             return self.inorder(self.root,'')
         elif traversal_type=='postorder':
@@ -32,9 +32,9 @@ class BinaryTree(object):
     def Serialize_recur(self,start,tmp):
 
         if start is None:
-            tmp.append(str(-1)+' ')
+            tmp.append(str('#'))
             return
-        tmp.append(str(start.value)+' ')
+        tmp.append(str(start.value))
         self.Serialize_recur(start.left,tmp)
         self.Serialize_recur(start.right, tmp)
 
@@ -43,7 +43,7 @@ class BinaryTree(object):
         tmp=[]
         start=self.root
         self.Serialize_recur(start,tmp)
-        return ''.join(tmp)
+        return ' '.join(tmp)
 
 def main():
 
