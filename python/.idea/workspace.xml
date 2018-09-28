@@ -19,11 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MaxSumLeafBinaryTree.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/MaxSumLeafBinaryTree.py">
+      <file leaf-file-name="SumNodesMaxDepthBinaryTree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/SumNodesMaxDepthBinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="73" column="4" lean-forward="false" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+            <state relative-caret-position="374">
+              <caret line="65" column="11" lean-forward="false" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeightOfBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/HeightOfBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -54,7 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode167.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode190.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode532.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode507.py" />
@@ -105,6 +114,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/SideViewLeft&amp;RightBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/HeightOfBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MaxSumLeafBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/SumNodesMaxDepthBinaryTree.py" />
       </list>
     </option>
   </component>
@@ -173,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MaxSumLeafBinaryTree">
+  <component name="RunManager" selected="Python.SumNodesMaxDepthBinaryTree">
     <configuration name="HeightOfBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,7 +252,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="VerticalOrderTraversalBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SumNodesMaxDepthBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -254,7 +264,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/VerticalOrderTraversalBinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SumNodesMaxDepthBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,18 +386,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.LevelOrderTraversalBinaryTree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.VerticalOrderTraversalBinaryTree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.SideViewLeft&amp;RightBinaryTree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.HeightOfBinaryTree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.MaxSumLeafBinaryTree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SideViewLeft&amp;RightBinaryTree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.HeightOfBinaryTree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.MaxSumLeafBinaryTree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SumNodesMaxDepthBinaryTree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.MaxSumLeafBinaryTree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SumNodesMaxDepthBinaryTree" />
         <item index="1" class="java.lang.String" itemvalue="Python.HeightOfBinaryTree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.SideViewLeft&amp;RightBinaryTree" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LevelOrderTraversalBinaryTree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.VerticalOrderTraversalBinaryTree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MaxSumLeafBinaryTree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SideViewLeft&amp;RightBinaryTree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LevelOrderTraversalBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -456,14 +466,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode26.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="47" column="14" lean-forward="false" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode665.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -848,18 +850,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/MaxSumLeafBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="73" column="4" lean-forward="false" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/HeightOfBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="408">
           <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/MaxSumLeafBinaryTree.py">
+    <entry file="file://$PROJECT_DIR$/CodingExercises/SumNodesMaxDepthBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="73" column="4" lean-forward="false" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+        <state relative-caret-position="374">
+          <caret line="65" column="11" lean-forward="false" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
           <folding />
         </state>
       </provider>
