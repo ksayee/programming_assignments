@@ -35,6 +35,7 @@ def LeetCode186(ary):
         elif ary[i]==' ':
             reverse(ary,left,i-1)
             left=i+1
+
     reverse(ary,0,len(ary)-1)
     return ''.join(ary)
 
