@@ -19,11 +19,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DailyCodingProblem-99.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-99.py">
+      <file leaf-file-name="CousinsBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/CousinsBinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            <state relative-caret-position="522">
+              <caret line="83" column="27" lean-forward="false" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PerfectBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/PerfectBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5">
+              <caret line="58" column="28" lean-forward="false" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeafsSameLevelBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeafsSameLevelBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="95" column="29" lean-forward="false" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CousinsGivenNodeBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/CousinsGivenNodeBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="87" column="22" lean-forward="false" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintRootToLeafPathBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/PrintRootToLeafPathBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="77" column="43" lean-forward="false" selection-start-line="77" selection-start-column="43" selection-end-line="77" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintTopViewBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/PrintTopViewBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1066">
+              <caret line="129" column="19" lean-forward="false" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintLevelSortedBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/PrintLevelSortedBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="103" column="4" lean-forward="false" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NodesNoSiblingsBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/NodesNoSiblingsBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="51" column="18" lean-forward="false" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PreOrderTraversalIterativeBinaryTree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/PreOrderTraversalIterativeBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,19 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode53.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode560.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode370.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode325.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode907.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode643.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode422.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode840.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode445.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-2.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-1.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode43.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode491.py" />
         <option value="$PROJECT_DIR$/CodingExercises/FlattenList.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ChildrenSumBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SumTreeBinaryTree.py" />
@@ -106,6 +173,19 @@
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode155.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-11.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-99.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/ExcerciseBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/SumCoveredUnCoveredNodesBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/CousinsBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PerfectBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeafsSameLevelBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/CousinsGivenNodeBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PrintRootToLeafPathBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/RootToLeafGivenSeqBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PrintTopViewBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PrintLevelSortedBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/NodesNoSiblingsBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PreOrderTraversalIterativeBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PrintRootToLeafIterativeBinaryTree.py" />
       </list>
     </option>
   </component>
@@ -175,8 +255,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DailyCodingProblem-99">
-    <configuration name="DailyCodingProblem-11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.PrintRootToLeafIterativeBinaryTree">
+    <configuration name="NodesNoSiblingsBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -188,12 +268,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/NodesNoSiblingsBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="DailyCodingProblem-99" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PreOrderTraversalIterativeBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -205,12 +285,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-99.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PreOrderTraversalIterativeBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LeetCode155" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PrintLevelSortedBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -222,12 +302,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode155.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PrintLevelSortedBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LeetCode870" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PrintRootToLeafIterativeBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -239,12 +319,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode870.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PrintRootToLeafIterativeBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LeetCode895" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PrintTopViewBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -256,7 +336,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode895.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PrintTopViewBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -377,19 +457,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode870" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode895" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LeetCode155" />
-      <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-11" />
-      <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-99" />
+      <item index="0" class="java.lang.String" itemvalue="Python.PrintTopViewBinaryTree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.PrintLevelSortedBinaryTree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.NodesNoSiblingsBinaryTree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.PreOrderTraversalIterativeBinaryTree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.PrintRootToLeafIterativeBinaryTree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-99" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-11" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode155" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode895" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode870" />
+        <item index="0" class="java.lang.String" itemvalue="Python.PrintRootToLeafIterativeBinaryTree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.PreOrderTraversalIterativeBinaryTree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.NodesNoSiblingsBinaryTree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.PrintLevelSortedBinaryTree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.PrintTopViewBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -463,119 +543,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode567.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode575.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode581.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode604.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode605.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode611.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode624.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode633.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode634.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode560.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode189.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode647.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode657.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode665.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode680.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode643.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -828,8 +795,136 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-99.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
+        <state relative-caret-position="136">
           <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/CheckInteger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/ChildrenSumBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeafTraversal2BinaryTreeSame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/ExcerciseBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="106" column="5" lean-forward="false" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/SumCoveredUnCoveredNodesBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="90" column="21" lean-forward="true" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PerfectBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="58" column="28" lean-forward="false" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeafsSameLevelBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="95" column="29" lean-forward="false" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/CousinsBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="83" column="27" lean-forward="false" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/CousinsGivenNodeBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="87" column="22" lean-forward="false" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/RootToLeafGivenSeqBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="54" column="12" lean-forward="false" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PrintTopViewBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1066">
+          <caret line="129" column="19" lean-forward="false" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PrintLevelSortedBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="103" column="4" lean-forward="false" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PrintRootToLeafPathBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="77" column="43" lean-forward="false" selection-start-line="77" selection-start-column="43" selection-end-line="77" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/NodesNoSiblingsBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="51" column="18" lean-forward="false" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PrintRootToLeafIterativeBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="62" column="8" lean-forward="false" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PreOrderTraversalIterativeBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
       </provider>
