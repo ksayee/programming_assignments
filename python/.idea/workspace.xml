@@ -19,21 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PrintFullNodesBinaryTree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/PrintFullNodesBinaryTree.py">
+      <file leaf-file-name="PrintPathFromRootToGivenNodeBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/PrintPathFromRootToGivenNodeBinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="61" column="18" lean-forward="false" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+            <state relative-caret-position="420">
+              <caret line="79" column="50" lean-forward="true" selection-start-line="79" selection-start-column="50" selection-end-line="79" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintNodesOddLevelsBinaryTree.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/PrintNodesOddLevelsBinaryTree.py">
+      <file leaf-file-name="CheckFullBinaryTree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/CheckFullBinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="78" column="4" lean-forward="false" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
+            <state relative-caret-position="321">
+              <caret line="79" column="33" lean-forward="true" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -65,8 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/HeightOfBinaryTree.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/MaxSumLeafBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SumNodesMaxDepthBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SumNumbersFormedRootToLeafPath.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode91.py" />
@@ -99,7 +97,6 @@
         <option value="$PROJECT_DIR$/CodingExercises/PerfectBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeafsSameLevelBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/CousinsGivenNodeBinaryTree.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/PrintRootToLeafPathBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/RootToLeafGivenSeqBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PrintTopViewBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PrintLevelSortedBinaryTree.py" />
@@ -116,6 +113,9 @@
         <option value="$PROJECT_DIR$/CodingExercises/PrintNodesBetweenGivenLevelNumbersBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PrintFullNodesBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PrintNodesOddLevelsBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PrintRootToLeafPathBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PrintPathFromRootToGivenNodeBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/CheckFullBinaryTree.py" />
       </list>
     </option>
   </component>
@@ -185,8 +185,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PrintNodesOddLevelsBinaryTree">
-    <configuration name="PrintFullNodesBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.CheckFullBinaryTree">
+    <configuration name="CheckFullBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -198,58 +198,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PrintFullNodesBinaryTree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="PrintLeafNodesLeftToRightBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PrintLeafNodesLeftToRightBinaryTree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="PrintNodesBetweenGivenLevelNumbersBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PrintNodesBetweenGivenLevelNumbersBinaryTree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="PrintNodesKDistanceFromRootNodeBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PrintNodesKDistanceFromRootNodeBinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/CheckFullBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,6 +216,57 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PrintNodesOddLevelsBinaryTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="PrintPathFromRootToGivenNodeBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PrintPathFromRootToGivenNodeBinaryTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="PrintRightToLeftLeavesIterative" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PrintRightToLeftLeavesIterative.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="PrintRootToLeafPathBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PrintRootToLeafPathBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -387,19 +387,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.PrintLeafNodesLeftToRightBinaryTree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.PrintNodesKDistanceFromRootNodeBinaryTree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.PrintNodesBetweenGivenLevelNumbersBinaryTree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.PrintFullNodesBinaryTree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.PrintNodesOddLevelsBinaryTree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.PrintNodesOddLevelsBinaryTree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.PrintPathFromRootToGivenNodeBinaryTree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.PrintRightToLeftLeavesIterative" />
+      <item index="3" class="java.lang.String" itemvalue="Python.PrintRootToLeafPathBinaryTree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.CheckFullBinaryTree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.PrintNodesOddLevelsBinaryTree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.PrintFullNodesBinaryTree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.PrintNodesBetweenGivenLevelNumbersBinaryTree" />
-        <item index="3" class="java.lang.String" itemvalue="Python.PrintNodesKDistanceFromRootNodeBinaryTree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.PrintLeafNodesLeftToRightBinaryTree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.CheckFullBinaryTree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.PrintPathFromRootToGivenNodeBinaryTree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.PrintRootToLeafPathBinaryTree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.PrintRightToLeftLeavesIterative" />
+        <item index="4" class="java.lang.String" itemvalue="Python.PrintNodesOddLevelsBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -473,20 +473,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode43.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode804.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode811.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-102">
@@ -747,14 +733,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/PrintRootToLeafPathBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="77" column="43" lean-forward="false" selection-start-line="77" selection-start-column="43" selection-end-line="77" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/NodesNoSiblingsBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
@@ -819,14 +797,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/PrintRightToLeftLeavesIterative.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/PrintLeafNodesLeftToRightBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -863,6 +833,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
           <caret line="78" column="4" lean-forward="false" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PrintRightToLeftLeavesIterative.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PrintRootToLeafPathBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="69" column="8" lean-forward="true" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PrintPathFromRootToGivenNodeBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="79" column="50" lean-forward="true" selection-start-line="79" selection-start-column="50" selection-end-line="79" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/CheckFullBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="79" column="33" lean-forward="true" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
           <folding />
         </state>
       </provider>

@@ -76,7 +76,7 @@ class BinaryTree(object):
             if key[0]%2!=0:
                 out_lst.extend(key[1])
         return out_lst
-    
+
 def main():
 
     tree=BinaryTree(1)
