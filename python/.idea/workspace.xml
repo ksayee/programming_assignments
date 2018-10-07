@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MaximumWidthBinaryTree.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/MaximumWidthBinaryTree.py">
+      <file leaf-file-name="FindNextRightNodeBinaryTree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/FindNextRightNodeBinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="82" column="45" lean-forward="false" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
+            <state relative-caret-position="165">
+              <caret line="71" column="35" lean-forward="false" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -55,8 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode186.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode243.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode245.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode268.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode373.py" />
@@ -106,6 +104,8 @@
         <option value="$PROJECT_DIR$/CodingExercises/DiagonalSumBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/CountSingleValuedSubTreesBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MaximumWidthBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/MaxImumLeftNodeBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/FindNextRightNodeBinaryTree.py" />
       </list>
     </option>
   </component>
@@ -174,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MaximumWidthBinaryTree">
+  <component name="RunManager" selected="Python.FindNextRightNodeBinaryTree">
     <configuration name="CountSingleValuedSubTreesBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,7 +209,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="DiffBetweenOddAndEvenLevelsBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FindNextRightNodeBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -221,12 +221,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DiffBetweenOddAndEvenLevelsBinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/FindNextRightNodeBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="KSumPathsBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MaxImumLeftNodeBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -238,7 +238,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/KSumPathsBinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/MaxImumLeftNodeBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,19 +376,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.DiffBetweenOddAndEvenLevelsBinaryTree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.KSumPathsBinaryTree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DiagonalSumBinaryTree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.CountSingleValuedSubTreesBinaryTree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.MaximumWidthBinaryTree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.DiagonalSumBinaryTree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.CountSingleValuedSubTreesBinaryTree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.MaximumWidthBinaryTree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.MaxImumLeftNodeBinaryTree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.FindNextRightNodeBinaryTree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.MaximumWidthBinaryTree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.CountSingleValuedSubTreesBinaryTree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DiagonalSumBinaryTree" />
-        <item index="3" class="java.lang.String" itemvalue="Python.KSumPathsBinaryTree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.DiffBetweenOddAndEvenLevelsBinaryTree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.FindNextRightNodeBinaryTree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MaxImumLeftNodeBinaryTree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MaximumWidthBinaryTree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.CountSingleValuedSubTreesBinaryTree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.DiagonalSumBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -472,20 +472,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode886.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode905.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode907.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -801,8 +787,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/MaximumWidthBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="760">
           <caret line="82" column="45" lean-forward="false" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/MaxImumLeftNodeBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="90" column="31" lean-forward="false" selection-start-line="90" selection-start-column="31" selection-end-line="90" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/FindNextRightNodeBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="71" column="35" lean-forward="false" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="35" />
           <folding />
         </state>
       </provider>
