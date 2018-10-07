@@ -19,11 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CheckDuplicateSubtreesBinaryTree.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/CheckDuplicateSubtreesBinaryTree.py">
+      <file leaf-file-name="MaxLevelSumBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/MaxLevelSumBinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="83" column="27" lean-forward="false" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
+            <state relative-caret-position="335">
+              <caret line="82" column="35" lean-forward="false" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DiffBetweenOddAndEvenLevelsBinaryTree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/DiffBetweenOddAndEvenLevelsBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="78" column="8" lean-forward="false" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -55,10 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode22.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode16.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode29.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode30.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode31.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode78.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode162.py" />
@@ -106,6 +112,10 @@
         <option value="$PROJECT_DIR$/CodingExercises/SumCoveredUnCoveredNodesVerticalOrderTraversalBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SumCoveredUnCoveredNodesBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/CheckDuplicateSubtreesBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/VerticalSumBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/RootToLeafSumGivenNumberBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/MaxLevelSumBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/DiffBetweenOddAndEvenLevelsBinaryTree.py" />
       </list>
     </option>
   </component>
@@ -175,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CheckDuplicateSubtreesBinaryTree">
+  <component name="RunManager" selected="Python.DiffBetweenOddAndEvenLevelsBinaryTree">
     <configuration name="CheckDuplicateSubtreesBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,7 +203,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="CheckDuplicateValuesBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DiffBetweenOddAndEvenLevelsBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -205,12 +215,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/CheckDuplicateValuesBinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DiffBetweenOddAndEvenLevelsBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="CheckFullBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MaxLevelSumBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -222,12 +232,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/CheckFullBinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/MaxLevelSumBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="RootToLeafGivenSequenceBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RootToLeafSumGivenNumberBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -239,12 +249,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/RootToLeafGivenSequenceBinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/RootToLeafSumGivenNumberBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="SumCoveredUnCoveredNodesVerticalOrderTraversalBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="VerticalSumBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -256,7 +266,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SumCoveredUnCoveredNodesVerticalOrderTraversalBinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/VerticalSumBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -377,19 +387,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.CheckFullBinaryTree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.RootToLeafGivenSequenceBinaryTree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.CheckDuplicateValuesBinaryTree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SumCoveredUnCoveredNodesVerticalOrderTraversalBinaryTree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.CheckDuplicateSubtreesBinaryTree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.CheckDuplicateSubtreesBinaryTree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.VerticalSumBinaryTree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.RootToLeafSumGivenNumberBinaryTree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.MaxLevelSumBinaryTree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.DiffBetweenOddAndEvenLevelsBinaryTree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.CheckDuplicateSubtreesBinaryTree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SumCoveredUnCoveredNodesVerticalOrderTraversalBinaryTree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.CheckDuplicateValuesBinaryTree" />
-        <item index="3" class="java.lang.String" itemvalue="Python.RootToLeafGivenSequenceBinaryTree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.CheckFullBinaryTree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.DiffBetweenOddAndEvenLevelsBinaryTree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MaxLevelSumBinaryTree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.RootToLeafSumGivenNumberBinaryTree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.VerticalSumBinaryTree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.CheckDuplicateSubtreesBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +426,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37632135" sideWeight="0.56354165" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37632135" sideWeight="0.43645832" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37632135" sideWeight="0.43645832" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -463,34 +473,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode870.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode876.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode884.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode890.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode896.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -857,8 +839,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/CheckDuplicateSubtreesBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="83" column="27" lean-forward="false" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
+        <state relative-caret-position="593">
+          <caret line="83" column="24" lean-forward="false" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/VerticalSumBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/RootToLeafSumGivenNumberBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="67" column="23" lean-forward="true" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/MaxLevelSumBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="82" column="35" lean-forward="false" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DiffBetweenOddAndEvenLevelsBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="78" column="8" lean-forward="false" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
           <folding />
         </state>
       </provider>

@@ -81,7 +81,7 @@ class BinaryTree(object):
         if len(flg_lst)>0:
             return True
         else:
-            return Falsegit
+            return False
 
 
 def main():
