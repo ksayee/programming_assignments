@@ -76,7 +76,7 @@ class BinaryTree(object):
                 for l in val:
                     sum=sum+l
                 odd_sum=odd_sum+sum
-        
+
         for key, val in dict.items():
             if key%2==0:
                 sum=0
