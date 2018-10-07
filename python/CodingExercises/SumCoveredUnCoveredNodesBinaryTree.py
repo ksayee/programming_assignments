@@ -94,7 +94,6 @@ class BinaryTree(object):
             lsum=lsum+l
         for l in right_lst:
             rsum=rsum+l
-
         return sum-(lsum+rsum-start.value)
 
 def main():
