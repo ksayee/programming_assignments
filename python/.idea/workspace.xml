@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindNextRightNodeBinaryTree.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/FindNextRightNodeBinaryTree.py">
+      <file leaf-file-name="DeepestLeftLeafNodeBinaryTree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/DeepestLeftLeafNodeBinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="71" column="35" lean-forward="false" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="35" />
+            <state relative-caret-position="505">
+              <caret line="72" column="28" lean-forward="false" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -55,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode245.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode268.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode373.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode456.py" />
@@ -106,6 +105,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/MaximumWidthBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MaxImumLeftNodeBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/FindNextRightNodeBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/DeepestLeftLeafNodeBinaryTree.py" />
       </list>
     </option>
   </component>
@@ -174,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FindNextRightNodeBinaryTree">
+  <component name="RunManager" selected="Python.DeepestLeftLeafNodeBinaryTree">
     <configuration name="CountSingleValuedSubTreesBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,7 +192,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="DiagonalSumBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DeepestLeftLeafNodeBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -204,7 +204,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DiagonalSumBinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DeepestLeftLeafNodeBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,19 +376,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.DiagonalSumBinaryTree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.CountSingleValuedSubTreesBinaryTree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.MaximumWidthBinaryTree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.MaxImumLeftNodeBinaryTree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.FindNextRightNodeBinaryTree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.CountSingleValuedSubTreesBinaryTree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.MaximumWidthBinaryTree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.MaxImumLeftNodeBinaryTree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.FindNextRightNodeBinaryTree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.DeepestLeftLeafNodeBinaryTree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.FindNextRightNodeBinaryTree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.MaxImumLeftNodeBinaryTree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MaximumWidthBinaryTree" />
-        <item index="3" class="java.lang.String" itemvalue="Python.CountSingleValuedSubTreesBinaryTree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.DiagonalSumBinaryTree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.DeepestLeftLeafNodeBinaryTree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.FindNextRightNodeBinaryTree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MaxImumLeftNodeBinaryTree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.MaximumWidthBinaryTree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.CountSingleValuedSubTreesBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -472,13 +472,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode907.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode523.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -805,6 +798,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="71" column="35" lean-forward="false" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DeepestLeftLeafNodeBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="72" column="28" lean-forward="false" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
           <folding />
         </state>
       </provider>
