@@ -19,21 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LeetCode545.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode545.py">
+      <file leaf-file-name="DepthDeepestOddLevelLeafNodeBinaryTree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/DepthDeepestOddLevelLeafNodeBinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="136" column="71" lean-forward="false" selection-start-line="136" selection-start-column="71" selection-end-line="136" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode199.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode199.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+            <state relative-caret-position="192">
+              <caret line="92" column="29" lean-forward="false" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -65,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode895.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode155.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-11.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-99.py" />
@@ -116,6 +105,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode94.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode545.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode199.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/DepthDeepestOddLevelLeafNodeBinaryTree.py" />
       </list>
     </option>
   </component>
@@ -184,7 +174,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LeetCode199">
+  <component name="RunManager" selected="Python.DepthDeepestOddLevelLeafNodeBinaryTree">
+    <configuration name="DepthDeepestOddLevelLeafNodeBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DepthDeepestOddLevelLeafNodeBinaryTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="LeetCode199" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,23 +222,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode257.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="LeetCode429" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode429.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -386,19 +376,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode429" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode257" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LeetCode94" />
-      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode545" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode199" />
+      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode257" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode94" />
+      <item index="2" class="java.lang.String" itemvalue="Python.LeetCode545" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode199" />
+      <item index="4" class="java.lang.String" itemvalue="Python.DepthDeepestOddLevelLeafNodeBinaryTree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode199" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode545" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode94" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode257" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode429" />
+        <item index="0" class="java.lang.String" itemvalue="Python.DepthDeepestOddLevelLeafNodeBinaryTree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode199" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode545" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode94" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode257" />
       </list>
     </recent_temporary>
   </component>
@@ -482,13 +472,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeafTraversal2BinaryTreeSame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/ExcerciseBinaryTree.py" />
     <entry file="file://$PROJECT_DIR$/CodingExercises/PerfectBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -824,6 +807,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DepthDeepestOddLevelLeafNodeBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="92" column="29" lean-forward="false" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
           <folding />
         </state>
       </provider>
