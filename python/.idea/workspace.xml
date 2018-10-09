@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CountSubtreesSumUpGivenValueBinaryTree.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/CountSubtreesSumUpGivenValueBinaryTree.py">
+      <file leaf-file-name="LeetCode671.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode671.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="85" column="46" lean-forward="false" selection-start-line="85" selection-start-column="46" selection-end-line="85" selection-end-column="46" />
+            <state relative-caret-position="481">
+              <caret line="89" column="14" lean-forward="false" selection-start-line="89" selection-start-column="14" selection-end-line="89" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -55,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/CousinsBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PerfectBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeafsSameLevelBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/CousinsGivenNodeBinaryTree.py" />
@@ -105,6 +104,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/PostOrderTraversalIterativeBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SumOfNodesLongestPathRootToLeafBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SubTreeGivenSumBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode671.py" />
         <option value="$PROJECT_DIR$/CodingExercises/CountSubtreesSumUpGivenValueBinaryTree.py" />
       </list>
     </option>
@@ -192,7 +192,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="DepthDeepestOddLevelLeafNodeBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode671" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -204,7 +204,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DepthDeepestOddLevelLeafNodeBinaryTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode671.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,19 +376,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.DepthDeepestOddLevelLeafNodeBinaryTree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.PostOrderTraversalIterativeBinaryTree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.SumOfNodesLongestPathRootToLeafBinaryTree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.SubTreeGivenSumBinaryTree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.CountSubtreesSumUpGivenValueBinaryTree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.PostOrderTraversalIterativeBinaryTree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SumOfNodesLongestPathRootToLeafBinaryTree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SubTreeGivenSumBinaryTree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.CountSubtreesSumUpGivenValueBinaryTree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode671" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.CountSubtreesSumUpGivenValueBinaryTree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SubTreeGivenSumBinaryTree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.SumOfNodesLongestPathRootToLeafBinaryTree" />
-        <item index="3" class="java.lang.String" itemvalue="Python.PostOrderTraversalIterativeBinaryTree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.DepthDeepestOddLevelLeafNodeBinaryTree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode671" />
+        <item index="2" class="java.lang.String" itemvalue="Python.SubTreeGivenSumBinaryTree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.SumOfNodesLongestPathRootToLeafBinaryTree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.PostOrderTraversalIterativeBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -472,7 +472,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/RootToLeafGivenSeqBinaryTree.py" />
     <entry file="file://$PROJECT_DIR$/CodingExercises/PrintTopViewBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1066">
@@ -824,8 +823,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/CountSubtreesSumUpGivenValueBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="85" column="46" lean-forward="false" selection-start-line="85" selection-start-column="46" selection-end-line="85" selection-end-column="46" />
+        <state relative-caret-position="498">
+          <caret line="114" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode671.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="89" column="14" lean-forward="false" selection-start-line="89" selection-start-column="14" selection-end-line="89" selection-end-column="14" />
           <folding />
         </state>
       </provider>

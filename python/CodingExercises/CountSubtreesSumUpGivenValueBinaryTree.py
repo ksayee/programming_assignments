@@ -108,7 +108,7 @@ def main():
     tree1.root.left.left=Node(9)
     tree1.root.left.right=Node(8)
     tree1.root.right.left=Node(4)
-    tree1.root.right.left = Node(7)
+    tree1.root.right.right = Node(7)
     print(tree1.print_tree('preorder'))
     k=7
     print(tree1.CountSubTreesSumUpGivenValueBinaryTree(k))
