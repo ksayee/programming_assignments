@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DepthDeepestOddLevelLeafNodeBinaryTree.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/DepthDeepestOddLevelLeafNodeBinaryTree.py">
+      <file leaf-file-name="PostOrderTraversalIterativeBinaryTree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/PostOrderTraversalIterativeBinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="92" column="29" lean-forward="false" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
+            <state relative-caret-position="243">
+              <caret line="54" column="20" lean-forward="false" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -55,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode155.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-11.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-99.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ExcerciseBinaryTree.py" />
@@ -106,6 +105,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode545.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode199.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DepthDeepestOddLevelLeafNodeBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PostOrderTraversalIterativeBinaryTree.py" />
       </list>
     </option>
   </component>
@@ -174,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DepthDeepestOddLevelLeafNodeBinaryTree">
+  <component name="RunManager" selected="Python.PostOrderTraversalIterativeBinaryTree">
     <configuration name="DepthDeepestOddLevelLeafNodeBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,23 +209,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LeetCode257" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode257.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="LeetCode545" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,6 +239,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode94.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="PostOrderTraversalIterativeBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PostOrderTraversalIterativeBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,19 +376,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode257" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode94" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LeetCode545" />
-      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode199" />
-      <item index="4" class="java.lang.String" itemvalue="Python.DepthDeepestOddLevelLeafNodeBinaryTree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode94" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode545" />
+      <item index="2" class="java.lang.String" itemvalue="Python.LeetCode199" />
+      <item index="3" class="java.lang.String" itemvalue="Python.DepthDeepestOddLevelLeafNodeBinaryTree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.PostOrderTraversalIterativeBinaryTree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.DepthDeepestOddLevelLeafNodeBinaryTree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode199" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode545" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode94" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode257" />
+        <item index="0" class="java.lang.String" itemvalue="Python.PostOrderTraversalIterativeBinaryTree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.DepthDeepestOddLevelLeafNodeBinaryTree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode199" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode545" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode94" />
       </list>
     </recent_temporary>
   </component>
@@ -472,14 +472,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/ExcerciseBinaryTree.py" />
-    <entry file="file://$PROJECT_DIR$/CodingExercises/PerfectBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="58" column="28" lean-forward="false" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeafsSameLevelBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
@@ -813,8 +805,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/DepthDeepestOddLevelLeafNodeBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="92" column="29" lean-forward="false" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
+        <state relative-caret-position="450">
+          <caret line="110" column="10" lean-forward="false" selection-start-line="110" selection-start-column="10" selection-end-line="110" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PreOrderLeftToRightLeavesIterative.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PostOrderTraversalIterativeBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="54" column="20" lean-forward="false" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
           <folding />
         </state>
       </provider>
