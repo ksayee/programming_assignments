@@ -22,38 +22,18 @@
       <file leaf-file-name="NoTwoCharactersAdjacentToEachOther.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/NoTwoCharactersAdjacentToEachOther.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="42" column="27" lean-forward="false" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="43" />
+            <state relative-caret-position="102">
+              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaxDiffBetween2SubsetsOfMElements.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/MaxDiffBetween2SubsetsOfMElements.py">
+      <file leaf-file-name="DailyCodingProblem-22.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-22.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxDistinctElementsAfterRemovingKElements.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/MaxDistinctElementsAfterRemovingKElements.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="51" column="8" lean-forward="false" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindKNumbersWithMostOccurencesGivenArray.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/FindKNumbersWithMostOccurencesGivenArray.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state relative-caret-position="492">
+              <caret line="49" column="4" lean-forward="false" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -85,8 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/PrintNodesKDistanceFromRootNodeBinaryTree.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/PrintNodesBetweenGivenLevelNumbersBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PrintFullNodesBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PrintNodesOddLevelsBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PrintRootToLeafPathBinaryTree.py" />
@@ -136,6 +114,8 @@
         <option value="$PROJECT_DIR$/CodingExercises/MaxDiffBetween2SubsetsOfMElements.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MaxDistinctElementsAfterRemovingKElements.py" />
         <option value="$PROJECT_DIR$/CodingExercises/FindKNumbersWithMostOccurencesGivenArray.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-12.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-22.py" />
       </list>
     </option>
   </component>
@@ -204,7 +184,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FindKNumbersWithMostOccurencesGivenArray">
+  <component name="RunManager" selected="Python.DailyCodingProblem-22">
+    <configuration name="DailyCodingProblem-22" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-22.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="FindKNumbersWithMostOccurencesGivenArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,23 +266,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/NoTwoCharactersAdjacentToEachOther.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="PriorityQueue" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PriorityQueue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -406,19 +386,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.PriorityQueue" />
-      <item index="1" class="java.lang.String" itemvalue="Python.NoTwoCharactersAdjacentToEachOther" />
-      <item index="2" class="java.lang.String" itemvalue="Python.MaxDiffBetween2SubsetsOfMElements" />
-      <item index="3" class="java.lang.String" itemvalue="Python.MaxDistinctElementsAfterRemovingKElements" />
-      <item index="4" class="java.lang.String" itemvalue="Python.FindKNumbersWithMostOccurencesGivenArray" />
+      <item index="0" class="java.lang.String" itemvalue="Python.NoTwoCharactersAdjacentToEachOther" />
+      <item index="1" class="java.lang.String" itemvalue="Python.MaxDiffBetween2SubsetsOfMElements" />
+      <item index="2" class="java.lang.String" itemvalue="Python.MaxDistinctElementsAfterRemovingKElements" />
+      <item index="3" class="java.lang.String" itemvalue="Python.FindKNumbersWithMostOccurencesGivenArray" />
+      <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-22" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.FindKNumbersWithMostOccurencesGivenArray" />
-        <item index="1" class="java.lang.String" itemvalue="Python.MaxDistinctElementsAfterRemovingKElements" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MaxDiffBetween2SubsetsOfMElements" />
-        <item index="3" class="java.lang.String" itemvalue="Python.NoTwoCharactersAdjacentToEachOther" />
-        <item index="4" class="java.lang.String" itemvalue="Python.PriorityQueue" />
+        <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-22" />
+        <item index="1" class="java.lang.String" itemvalue="Python.NoTwoCharactersAdjacentToEachOther" />
+        <item index="2" class="java.lang.String" itemvalue="Python.FindKNumbersWithMostOccurencesGivenArray" />
+        <item index="3" class="java.lang.String" itemvalue="Python.MaxDistinctElementsAfterRemovingKElements" />
+        <item index="4" class="java.lang.String" itemvalue="Python.MaxDiffBetween2SubsetsOfMElements" />
       </list>
     </recent_temporary>
   </component>
@@ -447,7 +427,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28224102" sideWeight="0.46822917" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28224102" sideWeight="0.5317708" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28224102" sideWeight="0.5317708" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -502,14 +482,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/SumCoveredUnCoveredNodesVerticalOrderTraversalBinaryTree.py" />
-    <entry file="file://$PROJECT_DIR$/CodingExercises/SumCoveredUnCoveredNodesBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="95" column="23" lean-forward="false" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/CheckDuplicateSubtreesBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="593">
@@ -826,18 +798,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/MaxDiffBetween2SubsetsOfMElements.py">
+    <entry file="file://$PROJECT_DIR$/CodingExercises/FindKNumbersWithMostOccurencesGivenArray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/NoTwoCharactersAdjacentToEachOther.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="42" column="27" lean-forward="false" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="43" />
+        <state relative-caret-position="274">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -850,10 +814,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/FindKNumbersWithMostOccurencesGivenArray.py">
+    <entry file="file://$PROJECT_DIR$/CodingExercises/MaxDiffBetween2SubsetsOfMElements.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/NoTwoCharactersAdjacentToEachOther.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="49" column="4" lean-forward="false" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
           <folding />
         </state>
       </provider>
