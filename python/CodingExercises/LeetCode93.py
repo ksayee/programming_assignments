@@ -11,30 +11,48 @@ Output: ["255.255.11.135", "255.255.111.35"]
 
 def LeetCode93(str1):
 
+    tmp=[0]*(len(str1)*2)
     fnl_lst=[]
-    tmp=[]
-    for i in range(0,len(str1)):
+    idx=0
+    op_idx=0
+    Combinations_recur(str1, tmp, fnl_lst,idx,op_idx)
 
-        key=str1[i]
+    return fnl_lst
 
-        if len(tmp)<2:
-            tmp.append(key)
-        else:
-            tmp.append(key)
-            if int(''.join(tmp))<=255:
-                fnl_lst.append(''.join(tmp))
-                tmp=[]
+def Validate(ip):
+
+    flg=True
+
+    if len(ip.split('.'))!=4:
+        return False
+    else:
+        lst=ip.split('.')
+        for key in lst:
+            if len(key)<=3:
+                if int(key)>=0 and int(key)<=255:
+                    continue
+                else:
+                    flg=False
+                    break
             else:
-                tmp.pop()
-                fnl_lst.append(''.join(tmp))
-                tmp=[]
-                tmp.append(key)
+                flg=False
+                break
+    return flg
 
-    if len(tmp)>0:
-        fnl_lst.append(''.join(tmp))
+def Combinations_recur(str1, tmp, fnl_lst, idx, op_idx):
 
-    return '.'.join(fnl_lst)
+    if idx==len(str1):
+        flg=Validate(''.join(tmp).strip('.'))
+        if flg==True:
+            fnl_lst.append(''.join(tmp).strip('.'))
+        return
 
+    tmp[op_idx]=str1[idx]
+    tmp[op_idx+1]='.'
+    Combinations_recur(str1, tmp, fnl_lst, idx+1, op_idx+2)
+
+    if idx+1<len(str1):
+        Combinations_recur(str1, tmp, fnl_lst, idx + 1, op_idx + 1)
 
 def main():
     

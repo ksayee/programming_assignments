@@ -47,6 +47,6 @@ def main():
     ary = ['bed', 'bath', 'bedbath', 'and', 'beyond']
     str1 = 'bedbathandbeyond'
     print(DailyCodingProblem22(ary, str1))
-    
+
 if __name__=='__main__':
     main()
