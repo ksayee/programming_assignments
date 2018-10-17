@@ -32,11 +32,9 @@ def Validate(ip):
                 if int(key)>=0 and int(key)<=255:
                     continue
                 else:
-                    flg=False
-                    break
+                    return False
             else:
-                flg=False
-                break
+                return False
     return flg
 
 def Combinations_recur(str1, tmp, fnl_lst, idx, op_idx):
