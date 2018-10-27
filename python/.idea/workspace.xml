@@ -89,11 +89,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DailyCodingProblem-69.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DailyCodingProblem-69.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-69.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="441">
               <caret line="36" column="68" lean-forward="false" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode670.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode670.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="509">
+              <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -136,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode331.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode429.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode257.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode94.py" />
@@ -187,10 +196,11 @@
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-70.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-77.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-69.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode670.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="195" />
     <option name="width" value="160" />
     <option name="height" value="39" />
@@ -255,7 +265,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DailyCodingProblem-69">
+  <component name="RunManager" selected="Python.LeetCode670">
     <configuration name="DailyCodingProblem-69" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,7 +334,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="DailyCodingProblem-95" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode670" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -336,7 +346,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-95.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode670.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -457,19 +467,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-95" />
-      <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-75" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-70" />
-      <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-77" />
-      <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-69" />
+      <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-75" />
+      <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-70" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-77" />
+      <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-69" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode670" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-69" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-77" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-70" />
-        <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-75" />
-        <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-95" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode670" />
+        <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-69" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-77" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-70" />
+        <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-75" />
       </list>
     </recent_temporary>
   </component>
@@ -490,13 +500,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.196875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28224102" sideWeight="0.46822917" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28224102" sideWeight="0.5317708" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28224102" sideWeight="0.5317708" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -553,13 +563,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode111.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="80" column="55" lean-forward="false" selection-start-line="80" selection-start-column="55" selection-end-line="80" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode104.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -920,6 +923,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="36" column="68" lean-forward="false" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode670.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding />
         </state>
       </provider>
