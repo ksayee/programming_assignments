@@ -22,8 +22,8 @@
       <file leaf-file-name="Testing.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/Testing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="444" column="16" lean-forward="true" selection-start-line="444" selection-start-column="16" selection-end-line="444" selection-end-column="16" />
+            <state relative-caret-position="200">
+              <caret line="290" column="22" lean-forward="false" selection-start-line="290" selection-start-column="18" selection-end-line="290" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -69,11 +69,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidateIPAddress.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ValidateIPAddress.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/ValidateIPAddress.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="663">
               <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AverageLengthWordsString.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/AverageLengthWordsString.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -100,12 +110,12 @@
       <find>dict</find>
       <find>key,va</find>
       <find>peek</find>
+      <find>word</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/KSumPathsBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DiagonalSumBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/CountSingleValuedSubTreesBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MaximumWidthBinaryTree.py" />
@@ -156,6 +166,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-21.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-27.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ValidateIPAddress.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/AverageLengthWordsString.py" />
       </list>
     </option>
   </component>
@@ -224,7 +235,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ValidateIPAddress">
+  <component name="RunManager" selected="Python.AverageLengthWordsString">
+    <configuration name="AverageLengthWordsString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/AverageLengthWordsString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="DailyCodingProblem-21" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,23 +283,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-27.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="DailyCodingProblem-33" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-33.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -426,19 +437,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-33" />
-      <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-96" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-21" />
-      <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-27" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ValidateIPAddress" />
+      <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-96" />
+      <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-21" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-27" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ValidateIPAddress" />
+      <item index="4" class="java.lang.String" itemvalue="Python.AverageLengthWordsString" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ValidateIPAddress" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-27" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-21" />
-        <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-96" />
-        <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-33" />
+        <item index="0" class="java.lang.String" itemvalue="Python.AverageLengthWordsString" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ValidateIPAddress" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-27" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-21" />
+        <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-96" />
       </list>
     </recent_temporary>
   </component>
@@ -522,13 +533,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode545.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="136" column="71" lean-forward="false" selection-start-line="136" selection-start-column="71" selection-end-line="136" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/DepthDeepestOddLevelLeafNodeBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -772,14 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/Testing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="444" column="16" lean-forward="true" selection-start-line="444" selection-start-column="16" selection-end-line="444" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-33.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
@@ -876,10 +872,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/Testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="290" column="22" lean-forward="false" selection-start-line="290" selection-start-column="18" selection-end-line="290" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/ValidateIPAddress.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/AverageLengthWordsString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding />
         </state>
       </provider>
