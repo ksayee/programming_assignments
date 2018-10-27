@@ -29,61 +29,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DailyCodingProblem-99.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-99.py">
+      <file leaf-file-name="DailyCodingProblem-81.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-81.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="492">
+              <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DailyCodingProblem-22.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-22.py">
+      <file leaf-file-name="LeetCode17.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode17.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DailyCodingProblem-27.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-27.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DailyCodingProblem-29.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-29.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ValidateIPAddress.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/ValidateIPAddress.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AverageLengthWordsString.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/AverageLengthWordsString.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            <state relative-caret-position="-579">
+              <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="26" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -116,8 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/DiagonalSumBinaryTree.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/CountSingleValuedSubTreesBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MaximumWidthBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MaxImumLeftNodeBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/FindNextRightNodeBinaryTree.py" />
@@ -167,6 +125,8 @@
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-27.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ValidateIPAddress.py" />
         <option value="$PROJECT_DIR$/CodingExercises/AverageLengthWordsString.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode917.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-81.py" />
       </list>
     </option>
   </component>
@@ -235,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.AverageLengthWordsString">
+  <component name="RunManager" selected="Python.DailyCodingProblem-81">
     <configuration name="AverageLengthWordsString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,23 +209,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/AverageLengthWordsString.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="DailyCodingProblem-21" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,7 +230,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="DailyCodingProblem-96" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DailyCodingProblem-81" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -299,7 +242,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-96.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-81.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="LeetCode917" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode917.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -437,19 +397,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-96" />
-      <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-21" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-27" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ValidateIPAddress" />
-      <item index="4" class="java.lang.String" itemvalue="Python.AverageLengthWordsString" />
+      <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-27" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ValidateIPAddress" />
+      <item index="2" class="java.lang.String" itemvalue="Python.AverageLengthWordsString" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode917" />
+      <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-81" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.AverageLengthWordsString" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ValidateIPAddress" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-27" />
-        <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-21" />
-        <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-96" />
+        <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-81" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode917" />
+        <item index="2" class="java.lang.String" itemvalue="Python.AverageLengthWordsString" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ValidateIPAddress" />
+        <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-27" />
       </list>
     </recent_temporary>
   </component>
@@ -533,27 +493,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/DepthDeepestOddLevelLeafNodeBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="110" column="10" lean-forward="false" selection-start-line="110" selection-start-column="10" selection-end-line="110" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/PreOrderLeftToRightLeavesIterative.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/PostOrderTraversalIterativeBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="54" column="20" lean-forward="false" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/SumOfNodesLongestPathRootToLeafBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -872,14 +811,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/Testing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="290" column="22" lean-forward="false" selection-start-line="290" selection-start-column="18" selection-end-line="290" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/ValidateIPAddress.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
@@ -892,6 +823,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/Testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="290" column="22" lean-forward="false" selection-start-line="290" selection-start-column="18" selection-end-line="290" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode917.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-579">
+          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="26" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-81.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
           <folding />
         </state>
       </provider>
