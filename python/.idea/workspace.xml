@@ -59,8 +59,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DailyCodingProblem-29.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DailyCodingProblem-29.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-29.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidateIPAddress.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/ValidateIPAddress.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="663">
               <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
@@ -95,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/DiffBetweenOddAndEvenLevelsBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/KSumPathsBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DiagonalSumBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/CountSingleValuedSubTreesBinaryTree.py" />
@@ -146,10 +155,11 @@
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-96.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-21.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-27.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/ValidateIPAddress.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="195" />
     <option name="width" value="160" />
     <option name="height" value="39" />
@@ -214,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DailyCodingProblem-27">
+  <component name="RunManager" selected="Python.ValidateIPAddress">
     <configuration name="DailyCodingProblem-21" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,7 +293,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ValidateIPAddress" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -295,7 +305,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/Testing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/ValidateIPAddress.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -416,19 +426,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Testing" />
-      <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-33" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-96" />
-      <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-21" />
-      <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-27" />
+      <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-33" />
+      <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-96" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-21" />
+      <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-27" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ValidateIPAddress" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-27" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-21" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-96" />
-        <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-33" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Testing" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ValidateIPAddress" />
+        <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-27" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-21" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-96" />
+        <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-33" />
       </list>
     </recent_temporary>
   </component>
@@ -449,13 +459,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.196875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28224102" sideWeight="0.46822917" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28224102" sideWeight="0.5317708" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28224102" sideWeight="0.5317708" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -512,13 +522,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode94.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode545.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -866,6 +869,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-29.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/ValidateIPAddress.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
