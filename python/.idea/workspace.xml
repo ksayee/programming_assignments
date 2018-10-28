@@ -49,11 +49,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode287.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeetCode287.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode287.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="461">
               <caret line="30" column="14" lean-forward="false" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode306.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode306.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,7 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode199.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DepthDeepestOddLevelLeafNodeBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PostOrderTraversalIterativeBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SumOfNodesLongestPathRootToLeafBinaryTree.py" />
@@ -137,6 +146,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode217.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-37.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode287.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode306.py" />
       </list>
     </option>
   </component>
@@ -205,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LeetCode287">
+  <component name="RunManager" selected="Python.LeetCode306">
     <configuration name="DailyCodingProblem-37" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,7 +267,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LeetCode670" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode306" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -269,7 +279,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode670.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode306.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -407,19 +417,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode670" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode673" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LeetCode217" />
-      <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-37" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode287" />
+      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode673" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode217" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-37" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode287" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode306" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode287" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-37" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode217" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode673" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode670" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode306" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode287" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-37" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode217" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode673" />
       </list>
     </recent_temporary>
   </component>
@@ -503,13 +513,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode199.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode101.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="498">
@@ -881,6 +884,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="461">
           <caret line="30" column="14" lean-forward="false" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode306.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding />
         </state>
       </provider>
