@@ -36,9 +36,6 @@ def LeetCode415(num1,num2):
     fnl_lst.reverse()
     return ''.join(fnl_lst)
 
-
-
-
 def main():
 
     num1='345'
