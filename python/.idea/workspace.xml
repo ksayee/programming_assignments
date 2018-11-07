@@ -19,31 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GetClusters.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/GetClusters.py">
+      <file leaf-file-name="LeetCode437.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode437.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DailyCodingProblem-42.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-42.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DailyCodingProblem-43.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-43.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="45" column="29" lean-forward="false" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+            <state relative-caret-position="475">
+              <caret line="95" column="30" lean-forward="false" selection-start-line="95" selection-start-column="30" selection-end-line="95" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -76,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode111.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode104.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode742.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode101.py" />
@@ -127,6 +106,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/GetClusters.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-42.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-43.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode437.py" />
       </list>
     </option>
   </component>
@@ -195,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DailyCodingProblem-43">
+  <component name="RunManager" selected="Python.LeetCode437">
     <configuration name="DailyCodingProblem-42" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,7 +227,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LeetCode415" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode437" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -259,7 +239,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode415.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode437.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -397,19 +377,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode415" />
-      <item index="1" class="java.lang.String" itemvalue="Python.SerializeBinaryTree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.GetClusters" />
-      <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-42" />
-      <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-43" />
+      <item index="0" class="java.lang.String" itemvalue="Python.SerializeBinaryTree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.GetClusters" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-42" />
+      <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-43" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode437" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-43" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-42" />
-        <item index="2" class="java.lang.String" itemvalue="Python.GetClusters" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SerializeBinaryTree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode415" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode437" />
+        <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-43" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-42" />
+        <item index="3" class="java.lang.String" itemvalue="Python.GetClusters" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SerializeBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -493,7 +473,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-12.py" />
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode91.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -866,26 +845,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/GetClusters.py">
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-43.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="390">
+          <caret line="45" column="29" lean-forward="false" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-42.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
+        <state relative-caret-position="493">
           <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-43.py">
+    <entry file="file://$PROJECT_DIR$/CodingExercises/GetClusters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="45" column="29" lean-forward="false" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        <state relative-caret-position="322">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode437.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="95" column="30" lean-forward="false" selection-start-line="95" selection-start-column="30" selection-end-line="95" selection-end-column="30" />
           <folding />
         </state>
       </provider>
