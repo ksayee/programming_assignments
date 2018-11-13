@@ -1,4 +1,4 @@
-# Build a queue class with Enqueu and Dequeue methods
+# Build a queue class with Enqueue and Dequeue methods
 # The queue should store an unbounded number of elements, but each built-in collection or list you use shoud hold at most 5 elements
 
 class QueueUnboundedNumElements(object):
@@ -8,7 +8,6 @@ class QueueUnboundedNumElements(object):
         self.dict={}
 
     def enqueue(self,value):
-
         if len(self.stk)==0:
             n=0
             self.dict[n]=[]
@@ -26,7 +25,6 @@ class QueueUnboundedNumElements(object):
                 self.stk.append(n)
 
     def dequeue(self):
-
         if len(self.stk)==0:
             print('Nothing to Dequeue')
         else:
@@ -39,7 +37,6 @@ class QueueUnboundedNumElements(object):
             return element
 
     def printQueue(self):
-
         if len(self.stk)==0:
             print('Queue is Empty')
         else:
