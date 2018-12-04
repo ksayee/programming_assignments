@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RearrangeListintoSubListNoDuplicates.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/RearrangeListintoSubListNoDuplicates.py">
+      <file leaf-file-name="SmallestThreedigitNumberFromBigNumber.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/SmallestThreedigitNumberFromBigNumber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -56,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-12.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-22.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode91.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode784.py" />
@@ -107,6 +106,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-50.py" />
         <option value="$PROJECT_DIR$/CodingExercises/QueueUnboundedNumElements.py" />
         <option value="$PROJECT_DIR$/CodingExercises/RearrangeListintoSubListNoDuplicates.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/SmallestThreedigitNumberFromBigNumber.py" />
       </list>
     </option>
   </component>
@@ -130,8 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,6 +146,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RearrangeListintoSubListNoDuplicates">
+  <component name="RunManager" selected="Python.SmallestThreedigitNumberFromBigNumber">
     <configuration name="DailyCodingProblem-50" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,23 +189,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-50.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="FibonaciSeries" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/FibonaciSeries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,6 +240,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/RearrangeListintoSubListNoDuplicates.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="SmallestThreedigitNumberFromBigNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SmallestThreedigitNumberFromBigNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -377,19 +377,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.FibonaciSeries" />
-      <item index="1" class="java.lang.String" itemvalue="Python.RandomReturn" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-50" />
-      <item index="3" class="java.lang.String" itemvalue="Python.QueueUnboundedNumElements" />
-      <item index="4" class="java.lang.String" itemvalue="Python.RearrangeListintoSubListNoDuplicates" />
+      <item index="0" class="java.lang.String" itemvalue="Python.RandomReturn" />
+      <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-50" />
+      <item index="2" class="java.lang.String" itemvalue="Python.QueueUnboundedNumElements" />
+      <item index="3" class="java.lang.String" itemvalue="Python.RearrangeListintoSubListNoDuplicates" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SmallestThreedigitNumberFromBigNumber" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.RearrangeListintoSubListNoDuplicates" />
-        <item index="1" class="java.lang.String" itemvalue="Python.QueueUnboundedNumElements" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-50" />
-        <item index="3" class="java.lang.String" itemvalue="Python.RandomReturn" />
-        <item index="4" class="java.lang.String" itemvalue="Python.FibonaciSeries" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SmallestThreedigitNumberFromBigNumber" />
+        <item index="1" class="java.lang.String" itemvalue="Python.RearrangeListintoSubListNoDuplicates" />
+        <item index="2" class="java.lang.String" itemvalue="Python.QueueUnboundedNumElements" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-50" />
+        <item index="4" class="java.lang.String" itemvalue="Python.RandomReturn" />
       </list>
     </recent_temporary>
   </component>
@@ -473,13 +473,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-33.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -564,13 +557,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/Testing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="290" column="22" lean-forward="false" selection-start-line="290" selection-start-column="18" selection-end-line="290" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/Testing.py" />
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode17.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-579">
@@ -596,13 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="32" column="18" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-69.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="36" column="68" lean-forward="false" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -807,22 +787,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="79">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-50.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="37" column="31" lean-forward="false" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-50.py" />
     <entry file="file://$PROJECT_DIR$/CodingExercises/RearrangeListintoSubListNoDuplicates.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        <state relative-caret-position="850">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-69.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="36" column="68" lean-forward="false" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/SmallestThreedigitNumberFromBigNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
           <folding />
         </state>
       </provider>
