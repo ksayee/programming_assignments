@@ -61,7 +61,7 @@ class BinaryTree(object):
                 node_lst.append('NONE')
         print(dict)
         return sorted(dict.items(),key=lambda x:x[0],reverse=True)[0][1]
-        
+
 def main():
 
     tree=BinaryTree('A')
