@@ -22,14 +22,13 @@ def GetItem(key,val,dict,fnl_lst):
 def DailyCodingProblem92(dict):
 
     fnl_lst=[]
-
     for key,val in dict.items():
         GetItem(key,val,dict,fnl_lst)
     return fnl_lst
 
 def main():
 
-    dict={'CSC300': ['CSC100', 'CSC200'], 'CSC200': ['CSC100'], 'CSC100': [],'CSC400': ['CSC300', 'CSC200']}
+    dict={'CSC400': ['CSC300', 'CSC200'],'CSC300': ['CSC100', 'CSC200'], 'CSC200': ['CSC100'], 'CSC100': []}
     print(DailyCodingProblem92(dict))
 
 if __name__=='__main__':
