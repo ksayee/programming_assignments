@@ -39,11 +39,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntegerToBinary.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IntegerToBinary.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/IntegerToBinary.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="254">
               <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinarySearchTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/BinarySearchTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BSTfromPreorder.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/BSTfromPreorder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -76,8 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode144.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode145.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-29.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ChangeStringCharacter.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-30.py" />
@@ -127,6 +145,8 @@
         <option value="$PROJECT_DIR$/CodingExercises/ExtractStringLiterals.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-92.py" />
         <option value="$PROJECT_DIR$/CodingExercises/IntegerToBinary.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/BinarySearchTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/BSTfromPreorder.py" />
       </list>
     </option>
   </component>
@@ -195,8 +215,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.IntegerToBinary">
-    <configuration name="DailyCodingProblem-80" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.BSTfromPreorder">
+    <configuration name="BSTfromPreorder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -208,7 +228,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-80.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/BSTfromPreorder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="BinarySearchTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/BinarySearchTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,23 +297,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/IntegerToBinary.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="RearrangeAryEvenOddEachEnd" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/RearrangeAryEvenOddEachEnd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -397,19 +417,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.RearrangeAryEvenOddEachEnd" />
-      <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-80" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-92" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ExtractStringLiterals" />
-      <item index="4" class="java.lang.String" itemvalue="Python.IntegerToBinary" />
+      <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-92" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ExtractStringLiterals" />
+      <item index="2" class="java.lang.String" itemvalue="Python.IntegerToBinary" />
+      <item index="3" class="java.lang.String" itemvalue="Python.BinarySearchTree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.BSTfromPreorder" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.IntegerToBinary" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-92" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ExtractStringLiterals" />
-        <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-80" />
-        <item index="4" class="java.lang.String" itemvalue="Python.RearrangeAryEvenOddEachEnd" />
+        <item index="0" class="java.lang.String" itemvalue="Python.BSTfromPreorder" />
+        <item index="1" class="java.lang.String" itemvalue="Python.BinarySearchTree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.IntegerToBinary" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-92" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ExtractStringLiterals" />
       </list>
     </recent_temporary>
   </component>
@@ -493,20 +513,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-22.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-27.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -794,6 +800,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
           <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -832,6 +839,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/BinarySearchTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/BSTfromPreorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
           <folding />
         </state>
       </provider>
