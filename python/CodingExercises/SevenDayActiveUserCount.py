@@ -15,9 +15,7 @@ rollup = {'overall': ['ChromeWeb', 'iOS', 'androidOS', 'Firefox'],
 '''
 
 def SevenDayActiveUserCount(device_dict,rollup_dict):
-
     fnl_lst=[]
-
     for key,val in rollup_dict.items():
         tmp=[]
         for device in val:
@@ -36,7 +34,6 @@ def SevenDayActiveUserCount(device_dict,rollup_dict):
     return fnl_lst
 
 def main():
-
     device_dict = {'ChromeWeb': [1, 0, 0, 1, 1, 1, 0],
                       'iOS': [1, 0, 0, 1, 1, 1, 0],
                       'androidOS': [1, 0, 0, 1, 0, 1, 0],
