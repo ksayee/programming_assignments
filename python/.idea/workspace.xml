@@ -22,18 +22,18 @@
       <file leaf-file-name="DailyCodingProblem-138.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-138.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            <state relative-caret-position="16">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="49" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DailyCodingProblem-135.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-135.py">
+      <file leaf-file-name="GetAverageTimeFB.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/GetAverageTimeFB.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="47" column="20" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+            <state relative-caret-position="272">
+              <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -66,7 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/ValidateIPAddress.py" />
         <option value="$PROJECT_DIR$/CodingExercises/AverageLengthWordsString.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode917.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-81.py" />
@@ -117,6 +116,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-139.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-138.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-135.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/GetAverageTimeFB.py" />
       </list>
     </option>
   </component>
@@ -185,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DailyCodingProblem-135">
+  <component name="RunManager" selected="Python.GetAverageTimeFB">
     <configuration name="DailyCodingProblem-127" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,7 +254,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="DailyCodingProblem-140" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="GetAverageTimeFB" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -266,7 +266,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-140.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/GetAverageTimeFB.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -388,18 +388,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-127" />
-      <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-140" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-139" />
-      <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-138" />
-      <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-135" />
+      <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-139" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-138" />
+      <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-135" />
+      <item index="4" class="java.lang.String" itemvalue="Python.GetAverageTimeFB" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-135" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-138" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-139" />
-        <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-140" />
-        <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-127" />
+        <item index="0" class="java.lang.String" itemvalue="Python.GetAverageTimeFB" />
+        <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-127" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-135" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-138" />
+        <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-139" />
       </list>
     </recent_temporary>
   </component>
@@ -483,13 +483,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode670.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-95.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="713">
@@ -776,6 +769,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="35" column="11" lean-forward="false" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -817,18 +811,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-138.py">
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-135.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="493">
+          <caret line="47" column="20" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-135.py">
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-138.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="47" column="20" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        <state relative-caret-position="16">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="49" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/GetAverageTimeFB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
           <folding />
         </state>
       </provider>
