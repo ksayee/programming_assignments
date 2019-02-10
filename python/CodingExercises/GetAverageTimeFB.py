@@ -34,7 +34,7 @@ def GetAverageTimeFB(streams):
 
         if cust in dict.keys():
             if step in dict[cust].keys():
-                if lst[3]>dict[cust][step]:
+                if lst[3]<dict[cust][step]:
                     dict[cust][step]=lst[3]
             else:
                 dict[cust][step]=lst[3]
@@ -42,6 +42,8 @@ def GetAverageTimeFB(streams):
             tmp={}
             tmp[step]=lst[3]
             dict[cust]=tmp
+    for key,val in dict.items():
+        print(key,val)
 
     sort_dict={}
     for key,val in dict.items():
