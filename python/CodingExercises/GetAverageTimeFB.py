@@ -51,7 +51,7 @@ def GetAverageTimeFB(streams):
         for key1,val1 in val.items():
             tup=(key1,val1)
             tmp.append(tup)
-        sort_dict[key]=sorted(tmp.copy(),key=lambda x:[0])
+        sort_dict[key]=sorted(tmp.copy(),key=lambda x:x[0])
 
     res_dict={}
     for key,val in sort_dict.items():
