@@ -97,6 +97,7 @@ class PriorityQueue(object):
     def CreateList(self,ary):
 
         self.CreateQueue(ary)
+        print("Input List: ",ary)
         fnl_lst=[]
         while True:
             lst=self.pop()
@@ -120,23 +121,68 @@ class PriorityQueue(object):
                 break
         return fnl_lst
 
+def RecurrsiveSolution(ary):
+
+    dict=collections.Counter(ary)
+
+    lst=[]
+    cnt=[]
+    for key,val in dict.items():
+        lst.append(key)
+        cnt.append(val)
+    fnl_lst=[]
+    tmp=[]
+    Combinations_recur(lst,cnt,tmp,fnl_lst,ary)
+    return fnl_lst
+
+def ValidateList(tmp):
+
+    flg=True
+    for i in range(1,len(tmp)):
+        if tmp[i-1]==tmp[i]:
+            flg=False
+            break
+    return flg
+
+def Combinations_recur(lst,cnt,tmp,fnl_lst,ary):
+
+    if len(tmp)==len(ary):
+        flg=ValidateList(tmp)
+        if flg==True:
+            if tmp not in fnl_lst:
+                fnl_lst.append(tmp.copy())
+        return
+
+    for i in range(0,len(lst)):
+        if cnt[i]==0:
+            continue
+        tmp.append(lst[i])
+        cnt[i]=cnt[i]-1
+        Combinations_recur(lst, cnt, tmp, fnl_lst,ary)
+        tmp.pop()
+        cnt[i]=cnt[i]+1
+
 def main():
 
     ary=[1,1,1,1,2,2,3,3]
     stk=PriorityQueue()
-    print(stk.CreateList(ary))
+    print('Priority Queue Output List: ',stk.CreateList(ary))
+    print('Recurrsive Output List: ',RecurrsiveSolution(ary))
 
     ary = [1,1,1,2,2,2]
     stk = PriorityQueue()
-    print(stk.CreateList(ary))
+    print('Priority Queue Output List: ', stk.CreateList(ary))
+    print('Recurrsive Output List: ', RecurrsiveSolution(ary))
 
     ary=list('aaabc')
     stk = PriorityQueue()
-    print(stk.CreateList(ary))
+    print('Priority Queue Output List: ', stk.CreateList(ary))
+    print('Recurrsive Output List: ', RecurrsiveSolution(ary))
 
     ary = list('aaabb')
     stk = PriorityQueue()
-    print(stk.CreateList(ary))
+    print('Priority Queue Output List: ', stk.CreateList(ary))
+    print('Recurrsive Output List: ', RecurrsiveSolution(ary))
 
 if __name__=='__main__':
     main()
