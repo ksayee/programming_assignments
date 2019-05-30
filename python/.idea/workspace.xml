@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LeetCode1054.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1054.py">
+      <file leaf-file-name="CandyCrush-Bloomberg.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/CandyCrush-Bloomberg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="184" column="62" lean-forward="false" selection-start-line="184" selection-start-column="62" selection-end-line="184" selection-end-column="62" />
+            <state relative-caret-position="1428">
+              <caret line="68" column="26" lean-forward="false" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -56,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode306.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode345.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode347.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode350.py" />
@@ -107,6 +106,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/StripeInterview.py" />
         <option value="$PROJECT_DIR$/CodingExercises/HashTable.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode1054.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/CandyCrush-Bloomberg.py" />
       </list>
     </option>
   </component>
@@ -176,8 +176,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LeetCode1054">
-    <configuration name="CommonElementsRowsMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.CandyCrush-Bloomberg">
+    <configuration name="CandyCrush-Bloomberg" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -189,7 +189,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/CommonElementsRowsMatrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/CandyCrush-Bloomberg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,19 +378,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.CommonElementsRowsMatrix" />
-      <item index="1" class="java.lang.String" itemvalue="Python.SubArrarysEqualToSumK" />
-      <item index="2" class="java.lang.String" itemvalue="Python.StripeInterview" />
-      <item index="3" class="java.lang.String" itemvalue="Python.HashTable" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode1054" />
+      <item index="0" class="java.lang.String" itemvalue="Python.SubArrarysEqualToSumK" />
+      <item index="1" class="java.lang.String" itemvalue="Python.StripeInterview" />
+      <item index="2" class="java.lang.String" itemvalue="Python.HashTable" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode1054" />
+      <item index="4" class="java.lang.String" itemvalue="Python.CandyCrush-Bloomberg" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode1054" />
-        <item index="1" class="java.lang.String" itemvalue="Python.HashTable" />
-        <item index="2" class="java.lang.String" itemvalue="Python.StripeInterview" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SubArrarysEqualToSumK" />
-        <item index="4" class="java.lang.String" itemvalue="Python.CommonElementsRowsMatrix" />
+        <item index="0" class="java.lang.String" itemvalue="Python.CandyCrush-Bloomberg" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode1054" />
+        <item index="2" class="java.lang.String" itemvalue="Python.HashTable" />
+        <item index="3" class="java.lang.String" itemvalue="Python.StripeInterview" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SubArrarysEqualToSumK" />
       </list>
     </recent_temporary>
   </component>
@@ -474,13 +474,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/GetClusters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode437.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -824,6 +817,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="543">
           <caret line="184" column="62" lean-forward="false" selection-start-line="184" selection-start-column="62" selection-end-line="184" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/CandyCrush-Bloomberg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="68" column="26" lean-forward="false" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
           <folding />
         </state>
       </provider>
