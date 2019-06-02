@@ -53,7 +53,7 @@ def Combinations_recur(lst,tmp,fnl_lst,idx,out):
 
     if idx+1<len(lst):
         Combinations_recur(lst, tmp, fnl_lst, idx+1, out+1)
-    
+
 def main():
 
     str1='abc'
