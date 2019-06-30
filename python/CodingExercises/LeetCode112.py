@@ -63,7 +63,7 @@ class BinaryTree(object):
                 out_lst.append(lst.copy())
 
         return out_lst
-    
+
 def main():
 
     tree=BinaryTree(5)
