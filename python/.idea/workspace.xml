@@ -79,11 +79,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode819.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeetCode819.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode819.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="341">
               <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode648.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode648.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -116,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-92.py" />
         <option value="$PROJECT_DIR$/CodingExercises/IntegerToBinary.py" />
         <option value="$PROJECT_DIR$/CodingExercises/BinarySearchTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/BSTfromPreorder.py" />
@@ -167,6 +176,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode692.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode472.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode819.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode648.py" />
       </list>
     </option>
   </component>
@@ -236,24 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LeetCode819">
-    <configuration name="LeetCode140" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode140.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.LeetCode648">
     <configuration name="LeetCode472" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,6 +260,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode472.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="LeetCode648" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode648.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -438,19 +448,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode140" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode916" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LeetCode692" />
-      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode472" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode819" />
+      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode916" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode692" />
+      <item index="2" class="java.lang.String" itemvalue="Python.LeetCode472" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode819" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode648" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode819" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode472" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode692" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode916" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode140" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode648" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode819" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode472" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode692" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode916" />
       </list>
     </recent_temporary>
   </component>
@@ -534,13 +544,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/BinarySearchTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/BSTfromPreorder.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1">
@@ -888,6 +891,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
           <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode648.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
