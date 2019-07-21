@@ -27,7 +27,7 @@ def LeetCode583(word1,word2):
         else:
             cnt=cnt+(-1*val)
     return cnt
-        
+
 def main():
 
     word1="sea"
