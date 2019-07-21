@@ -56,7 +56,7 @@ def LeetCode1099(ary, k):
     Combinations_recur(lst,cnt,tmp,fnl_lst,k)
 
     return sorted(fnl_lst,reverse=True)[0]
-    
+
 def main():
 
     ary=[34,23,1,24,75,33,54,8]
