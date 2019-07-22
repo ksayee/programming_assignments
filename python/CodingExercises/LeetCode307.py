@@ -33,6 +33,6 @@ def main():
     print(sumRange(ary,0,2))
     update(ary,1, 2)
     print(sumRange(ary,0, 2))
-    
+
 if __name__=='__main__':
     main()
