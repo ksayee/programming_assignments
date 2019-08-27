@@ -37,15 +37,12 @@ def LeetCode30(str1, words):
     Combinations_recur(lst,cnt,tmp,res_lst,words)
 
     for l in res_lst:
-
         key=''.join(l)
-
         try:
             idx=str1.index(key)
         except:
             continue
         fnl_lst.append(idx)
-
     return fnl_lst
 
 def Combinations_recur(lst,cnt,tmp,res_lst,words):
@@ -61,11 +58,6 @@ def Combinations_recur(lst,cnt,tmp,res_lst,words):
         Combinations_recur(lst, cnt, tmp,res_lst, words)
         tmp.pop()
         cnt[i]=cnt[i]+1
-
-
-
-
-
 
 def main():
     
