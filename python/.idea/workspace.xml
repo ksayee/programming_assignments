@@ -19,11 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ConstructCompleteBinaryTreeFromList.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/ConstructCompleteBinaryTreeFromList.py">
+      <file leaf-file-name="CheckBinaryTreeCompleteOrNot.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/CheckBinaryTreeCompleteOrNot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state relative-caret-position="405">
+              <caret line="63" column="25" lean-forward="false" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeapSort.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/HeapSort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="53" column="11" lean-forward="true" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -56,8 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode984.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode989.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode981.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode1009.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode1017.py" />
@@ -107,6 +115,8 @@
         <option value="$PROJECT_DIR$/CodingExercises/ConnectedComponentsApple.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode205.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ConstructCompleteBinaryTreeFromList.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/CheckBinaryTreeCompleteOrNot.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/HeapSort.py" />
       </list>
     </option>
   </component>
@@ -176,7 +186,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ConstructCompleteBinaryTreeFromList">
+  <component name="RunManager" selected="Python.HeapSort">
+    <configuration name="CheckBinaryTreeCompleteOrNot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/CheckBinaryTreeCompleteOrNot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="ConnectedComponentsApple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,7 +238,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LeetCode118" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HeapSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -223,24 +250,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode118.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="LeetCode119" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode119.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/HeapSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,19 +388,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode118" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode119" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ConnectedComponentsApple" />
-      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode205" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ConstructCompleteBinaryTreeFromList" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ConnectedComponentsApple" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode205" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ConstructCompleteBinaryTreeFromList" />
+      <item index="3" class="java.lang.String" itemvalue="Python.CheckBinaryTreeCompleteOrNot" />
+      <item index="4" class="java.lang.String" itemvalue="Python.HeapSort" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ConstructCompleteBinaryTreeFromList" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode205" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ConnectedComponentsApple" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode118" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode119" />
+        <item index="0" class="java.lang.String" itemvalue="Python.HeapSort" />
+        <item index="1" class="java.lang.String" itemvalue="Python.CheckBinaryTreeCompleteOrNot" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ConstructCompleteBinaryTreeFromList" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode205" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ConnectedComponentsApple" />
       </list>
     </recent_temporary>
   </component>
@@ -474,20 +484,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode981.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1009.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1017.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
@@ -825,8 +821,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/ConstructCompleteBinaryTreeFromList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state relative-caret-position="626">
+          <caret line="57" column="39" lean-forward="false" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/CheckBinaryTreeCompleteOrNot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="63" column="25" lean-forward="false" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/HeapSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="53" column="11" lean-forward="true" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
           <folding />
         </state>
       </provider>

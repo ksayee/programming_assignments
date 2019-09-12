@@ -52,5 +52,11 @@ def main():
     lst=[10,12,15,25,30,36]
     print(ConstructCompleteBinaryTreeFromList(lst))
 
+    lst = [1, 2, 3, 4, 5, 6]
+    print(ConstructCompleteBinaryTreeFromList(lst))
+
+    lst = [1, 2, 3, 4, 5, 6, 6, 6, 6, 6]
+    print(ConstructCompleteBinaryTreeFromList(lst))
+
 if __name__=='__main__':
     main()
