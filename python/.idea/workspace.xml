@@ -19,7 +19,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HeapSort.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HeapSort.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/HeapSort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="576">
@@ -29,11 +29,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PermutationsCaseChanging.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/PermutationsCaseChanging.py">
+      <file leaf-file-name="DeleteBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/DeleteBinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="499">
-              <caret line="72" column="51" lean-forward="false" selection-start-line="72" selection-start-column="51" selection-end-line="72" selection-end-column="51" />
+              <caret line="46" column="22" lean-forward="false" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeleteBinaryTreeNonRecurrsive.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/DeleteBinaryTreeNonRecurrsive.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="793">
+              <caret line="65" column="35" lean-forward="false" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeleteLeafNodesBinaryTreeWithValueX.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/DeleteLeafNodesBinaryTreeWithValueX.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="562">
+              <caret line="61" column="20" lean-forward="false" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximumDepthBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/MaximumDepthBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="38" column="50" lean-forward="false" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeightBalancedBinaryTree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/HeightBalancedBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -66,12 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1009.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1017.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1018.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1002.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1010.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1047.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode1053.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode944.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode925.py" />
@@ -117,6 +151,12 @@
         <option value="$PROJECT_DIR$/CodingExercises/CheckBinaryTreeCompleteOrNot.py" />
         <option value="$PROJECT_DIR$/CodingExercises/HeapSort.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PermutationsCaseChanging.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/SuccinctEncodingBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/DeleteBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/DeleteBinaryTreeNonRecurrsive.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/DeleteLeafNodesBinaryTreeWithValueX.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/MaximumDepthBinaryTree.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/HeightBalancedBinaryTree.py" />
       </list>
     </option>
   </component>
@@ -186,8 +226,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PermutationsCaseChanging">
-    <configuration name="CheckBinaryTreeCompleteOrNot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.HeightBalancedBinaryTree">
+    <configuration name="DeleteBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -199,12 +239,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/CheckBinaryTreeCompleteOrNot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DeleteBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="ConstructCompleteBinaryTreeFromList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DeleteBinaryTreeNonRecurrsive" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -216,12 +256,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/ConstructCompleteBinaryTreeFromList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DeleteBinaryTreeNonRecurrsive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="HeapSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DeleteLeafNodesBinaryTreeWithValueX" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -233,12 +273,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/HeapSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DeleteLeafNodesBinaryTreeWithValueX.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LeetCode205" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="HeightBalancedBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -250,12 +290,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode205.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/HeightBalancedBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="PermutationsCaseChanging" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MaximumDepthBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -267,7 +307,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PermutationsCaseChanging.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/MaximumDepthBinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -388,19 +428,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode205" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ConstructCompleteBinaryTreeFromList" />
-      <item index="2" class="java.lang.String" itemvalue="Python.CheckBinaryTreeCompleteOrNot" />
-      <item index="3" class="java.lang.String" itemvalue="Python.HeapSort" />
-      <item index="4" class="java.lang.String" itemvalue="Python.PermutationsCaseChanging" />
+      <item index="0" class="java.lang.String" itemvalue="Python.DeleteBinaryTree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.DeleteBinaryTreeNonRecurrsive" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DeleteLeafNodesBinaryTreeWithValueX" />
+      <item index="3" class="java.lang.String" itemvalue="Python.MaximumDepthBinaryTree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.HeightBalancedBinaryTree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.PermutationsCaseChanging" />
-        <item index="1" class="java.lang.String" itemvalue="Python.HeapSort" />
-        <item index="2" class="java.lang.String" itemvalue="Python.CheckBinaryTreeCompleteOrNot" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ConstructCompleteBinaryTreeFromList" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode205" />
+        <item index="0" class="java.lang.String" itemvalue="Python.HeightBalancedBinaryTree" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MaximumDepthBinaryTree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DeleteLeafNodesBinaryTreeWithValueX" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DeleteBinaryTreeNonRecurrsive" />
+        <item index="4" class="java.lang.String" itemvalue="Python.DeleteBinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -484,48 +524,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/AverageLengthWordsString.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1018.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1002.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1010.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1047.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="834">
-          <caret line="53" column="11" lean-forward="false" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1053.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="84" column="17" lean-forward="false" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode944.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
@@ -811,6 +809,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="626">
           <caret line="57" column="39" lean-forward="false" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -834,6 +833,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="53" column="11" lean-forward="false" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/SuccinctEncodingBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="74" column="36" lean-forward="true" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DeleteBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="46" column="22" lean-forward="false" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DeleteBinaryTreeNonRecurrsive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="793">
+          <caret line="65" column="35" lean-forward="false" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DeleteLeafNodesBinaryTreeWithValueX.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="61" column="20" lean-forward="false" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/MaximumDepthBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="38" column="50" lean-forward="false" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/HeightBalancedBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
           <folding />
         </state>
       </provider>
