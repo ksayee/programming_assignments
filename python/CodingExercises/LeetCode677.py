@@ -29,7 +29,7 @@ class MapSum(object):
             if key.startswith(str1):
                 sum=sum+val
         return sum
-                
+
 def main():
 
     ms=MapSum()
