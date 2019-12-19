@@ -83,6 +83,7 @@ class BinaryTree(object):
         self.UnCoverLeftSum(start,left_lst)
         self.UnCoverRightSum(start, right_lst)
         self.CompleteSum(start,lst)
+        print(left_lst,right_lst)
 
         sum=0
         lsum=0
