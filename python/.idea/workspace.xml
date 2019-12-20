@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LeetCode958.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode958.py">
+      <file leaf-file-name="LeetCode1288.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1288.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+            <state relative-caret-position="442">
+              <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -56,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode923.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode233.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode493.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode726.py" />
@@ -107,6 +106,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-395.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-394.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode958.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1288.py" />
       </list>
     </option>
   </component>
@@ -176,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LeetCode958">
+  <component name="RunManager" selected="Python.LeetCode1288">
     <configuration name="DailyCodingProblem-394" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,7 +211,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="KLargestElementsInArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode1288" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -223,7 +223,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/KLargestElementsInArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode1288.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,19 +378,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.KLargestElementsInArray" />
-      <item index="1" class="java.lang.String" itemvalue="Python.MergeTwoBinaryMaxHeap" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-395" />
-      <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-394" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode958" />
+      <item index="0" class="java.lang.String" itemvalue="Python.MergeTwoBinaryMaxHeap" />
+      <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-395" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-394" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode958" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode1288" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode958" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-394" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-395" />
-        <item index="3" class="java.lang.String" itemvalue="Python.MergeTwoBinaryMaxHeap" />
-        <item index="4" class="java.lang.String" itemvalue="Python.KLargestElementsInArray" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode1288" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode958" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-394" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-395" />
+        <item index="4" class="java.lang.String" itemvalue="Python.MergeTwoBinaryMaxHeap" />
       </list>
     </recent_temporary>
   </component>
@@ -474,13 +474,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/ConnectedComponentsApple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode205.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
@@ -814,8 +807,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode958.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
+        <state relative-caret-position="799">
           <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1288.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
           <folding />
         </state>
       </provider>
