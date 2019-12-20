@@ -24,7 +24,7 @@ def LeetCode1288(ary):
             output_list.append(tmp_list.copy())
             k=k+1
     return output_list
-        
+
 def main():
 
     ary=[[1,4],[3,6],[2,8]]
