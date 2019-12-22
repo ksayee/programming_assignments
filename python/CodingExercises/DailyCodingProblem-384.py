@@ -15,8 +15,6 @@ def Combinations_recur(ary,tmp,fnl_lst,target):
         return
 
     for i in range(0,len(ary)):
-        if len(fnl_lst)>0:
-            break
         if ary[i]>target:
             break
         tmp.append(ary[i])
@@ -27,10 +25,7 @@ def DailyCodingProblem384(ary,k):
 
     tmp=[]
     fnl_lst=[]
-    ary=sorted(ary,reverse=True)
-    print(ary)
     Combinations_recur(ary,tmp,fnl_lst,k)
-    print(fnl_lst)
     return sorted(fnl_lst,key=lambda x:len(x))[0]
 
 def main():
