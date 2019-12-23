@@ -19,21 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RearrangeBinaryStringXYOccurrences.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/RearrangeBinaryStringXYOccurrences.py">
+      <file leaf-file-name="MostFrequentDigitWithoutUsingArrayString.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/MostFrequentDigitWithoutUsingArrayString.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="55" column="13" lean-forward="false" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrintStringIgnoringAlternateOccurencesCharacter.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/PrintStringIgnoringAlternateOccurencesCharacter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+            <state relative-caret-position="366">
+              <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -66,8 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/EvaluateExpressionBinaryTree.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1207.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode1209.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode1200.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode1190.py" />
@@ -117,6 +105,8 @@
         <option value="$PROJECT_DIR$/CodingExercises/ReplaceOccurencesOfStringNoExtraSpace.py" />
         <option value="$PROJECT_DIR$/CodingExercises/RearrangeBinaryStringXYOccurrences.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PrintStringIgnoringAlternateOccurencesCharacter.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/RemoveRecurringDigitsNumber.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/MostFrequentDigitWithoutUsingArrayString.py" />
       </list>
     </option>
   </component>
@@ -186,8 +176,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PrintStringIgnoringAlternateOccurencesCharacter">
-    <configuration name="MoveSpacesFrontString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.MostFrequentDigitWithoutUsingArrayString">
+    <configuration name="MostFrequentDigitWithoutUsingArrayString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -199,7 +189,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/MoveSpacesFrontString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/MostFrequentDigitWithoutUsingArrayString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,6 +228,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="RemoveRecurringDigitsNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/RemoveRecurringDigitsNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="ReplaceOccurencesOfStringNoExtraSpace" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,23 +258,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/ReplaceOccurencesOfStringNoExtraSpace.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="WordMatchingCamelCaseNotation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/WordMatchingCamelCaseNotation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -388,19 +378,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.WordMatchingCamelCaseNotation" />
-      <item index="1" class="java.lang.String" itemvalue="Python.MoveSpacesFrontString" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ReplaceOccurencesOfStringNoExtraSpace" />
-      <item index="3" class="java.lang.String" itemvalue="Python.RearrangeBinaryStringXYOccurrences" />
-      <item index="4" class="java.lang.String" itemvalue="Python.PrintStringIgnoringAlternateOccurencesCharacter" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ReplaceOccurencesOfStringNoExtraSpace" />
+      <item index="1" class="java.lang.String" itemvalue="Python.RearrangeBinaryStringXYOccurrences" />
+      <item index="2" class="java.lang.String" itemvalue="Python.PrintStringIgnoringAlternateOccurencesCharacter" />
+      <item index="3" class="java.lang.String" itemvalue="Python.RemoveRecurringDigitsNumber" />
+      <item index="4" class="java.lang.String" itemvalue="Python.MostFrequentDigitWithoutUsingArrayString" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.PrintStringIgnoringAlternateOccurencesCharacter" />
-        <item index="1" class="java.lang.String" itemvalue="Python.RearrangeBinaryStringXYOccurrences" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ReplaceOccurencesOfStringNoExtraSpace" />
-        <item index="3" class="java.lang.String" itemvalue="Python.MoveSpacesFrontString" />
-        <item index="4" class="java.lang.String" itemvalue="Python.WordMatchingCamelCaseNotation" />
+        <item index="0" class="java.lang.String" itemvalue="Python.MostFrequentDigitWithoutUsingArrayString" />
+        <item index="1" class="java.lang.String" itemvalue="Python.RemoveRecurringDigitsNumber" />
+        <item index="2" class="java.lang.String" itemvalue="Python.PrintStringIgnoringAlternateOccurencesCharacter" />
+        <item index="3" class="java.lang.String" itemvalue="Python.RearrangeBinaryStringXYOccurrences" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ReplaceOccurencesOfStringNoExtraSpace" />
       </list>
     </recent_temporary>
   </component>
@@ -484,20 +474,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1190.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1220.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="90" column="23" lean-forward="false" selection-start-line="90" selection-start-column="23" selection-end-line="90" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1161.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
@@ -851,6 +827,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/RemoveRecurringDigitsNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/MostFrequentDigitWithoutUsingArrayString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
           <folding />
         </state>
       </provider>
