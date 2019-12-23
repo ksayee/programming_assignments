@@ -28,15 +28,38 @@ def DailyCodingProblem384(ary,k):
     Combinations_recur(ary,tmp,fnl_lst,k)
     return sorted(fnl_lst,key=lambda x:len(x))[0]
 
+def DailyCodingProblem384_DP(ary, k):
+
+    cache=[]
+    for i in range(0,k+1):
+        cache.append(float('inf'))
+
+    for element in ary:
+        if element<len(cache):
+            cache[element]=1
+
+    for i in range(1,k+1):
+        if i-element>=0:
+            lst=[]
+            for d in ary:
+                lst.append(cache[i-d])
+            cache[i]=min(lst)+1
+
+    if cache[k]==float('inf'):
+        return 'NONE'
+    return cache[k]
+
 def main():
 
     ary=[1, 5, 10]
     k=56
     print(DailyCodingProblem384(ary,k))
+    print(DailyCodingProblem384_DP(ary, k))
 
     ary = [5, 8]
     k = 15
     print(DailyCodingProblem384(ary, k))
+    print(DailyCodingProblem384_DP(ary, k))
 
 if __name__=='__main__':
     main()

@@ -19,11 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DailyCodingProblem-384.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-384.py">
+      <file leaf-file-name="WordMatchingCamelCaseNotation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/WordMatchingCamelCaseNotation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="459">
+              <caret line="51" column="39" lean-forward="false" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoveSpacesFrontString.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/MoveSpacesFrontString.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -56,18 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode205.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/ConstructCompleteBinaryTreeFromList.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/CheckBinaryTreeCompleteOrNot.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/HeapSort.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/PermutationsCaseChanging.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/SuccinctEncodingBinaryTree.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/DeleteBinaryTree.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/DeleteBinaryTreeNonRecurrsive.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/DeleteLeafNodesBinaryTreeWithValueX.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/MaximumDepthBinaryTree.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/HeightBalancedBinaryTree.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/BinaryTreeInsertion.py" />
         <option value="$PROJECT_DIR$/CodingExercises/BinaryTreeDeletion.py" />
         <option value="$PROJECT_DIR$/CodingExercises/SymmetricBinaryTree.py" />
         <option value="$PROJECT_DIR$/CodingExercises/ContinuousBinaryTree.py" />
@@ -107,6 +105,18 @@
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-397.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-386.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-384.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/ArrayStringChain.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PermutationsWithRepetitionCharacters.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/KthNonRepeatingCharacter.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/FirstNonRepeatingCharStreamOfCharacters.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PrintCharactersFrequencyOrderOfOccurence.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/QueriesCharactersRepeatedString.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/OccurencesCharacterAppearingTogether.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/MaxDistinctLowerCaseCharactersBetween2Uppercase.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/RemoveExtraSpaceFromString.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/PutSpacesBetweenWordsCapitalLetters.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/WordMatchingCamelCaseNotation.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/MoveSpacesFrontString.py" />
       </list>
     </option>
   </component>
@@ -176,8 +186,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DailyCodingProblem-384">
-    <configuration name="DailyCodingProblem-384" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.MoveSpacesFrontString">
+    <configuration name="MaxDistinctLowerCaseCharactersBetween2Uppercase" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -189,12 +199,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-384.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/MaxDistinctLowerCaseCharactersBetween2Uppercase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="DailyCodingProblem-386" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MoveSpacesFrontString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -206,12 +216,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-386.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/MoveSpacesFrontString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="DailyCodingProblem-393" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PutSpacesBetweenWordsCapitalLetters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -223,12 +233,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-393.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PutSpacesBetweenWordsCapitalLetters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="DailyCodingProblem-397" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RemoveExtraSpaceFromString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -240,12 +250,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-397.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/RemoveExtraSpaceFromString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LeetCode1262" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="WordMatchingCamelCaseNotation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -257,7 +267,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode1262.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/WordMatchingCamelCaseNotation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,19 +388,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode1262" />
-      <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-397" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-393" />
-      <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-386" />
-      <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-384" />
+      <item index="0" class="java.lang.String" itemvalue="Python.MaxDistinctLowerCaseCharactersBetween2Uppercase" />
+      <item index="1" class="java.lang.String" itemvalue="Python.RemoveExtraSpaceFromString" />
+      <item index="2" class="java.lang.String" itemvalue="Python.PutSpacesBetweenWordsCapitalLetters" />
+      <item index="3" class="java.lang.String" itemvalue="Python.WordMatchingCamelCaseNotation" />
+      <item index="4" class="java.lang.String" itemvalue="Python.MoveSpacesFrontString" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-384" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-386" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DailyCodingProblem-393" />
-        <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-397" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode1262" />
+        <item index="0" class="java.lang.String" itemvalue="Python.MoveSpacesFrontString" />
+        <item index="1" class="java.lang.String" itemvalue="Python.WordMatchingCamelCaseNotation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.PutSpacesBetweenWordsCapitalLetters" />
+        <item index="3" class="java.lang.String" itemvalue="Python.RemoveExtraSpaceFromString" />
+        <item index="4" class="java.lang.String" itemvalue="Python.MaxDistinctLowerCaseCharactersBetween2Uppercase" />
       </list>
     </recent_temporary>
   </component>
@@ -474,78 +484,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/DeleteBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="46" column="22" lean-forward="false" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/DeleteBinaryTreeNonRecurrsive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="793">
-          <caret line="65" column="35" lean-forward="false" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/DeleteLeafNodesBinaryTreeWithValueX.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="61" column="20" lean-forward="false" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/MaximumDepthBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="38" column="50" lean-forward="false" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/HeightBalancedBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/BinaryTreeDeletion.py" />
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode101.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-945">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/BinaryTreeInsertion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="42" lean-forward="false" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/SymmetricBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="21" lean-forward="false" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/ContinuousBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="54" lean-forward="false" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/EvaluateExpressionBinaryTree.py" />
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1207.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1209.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
@@ -810,10 +748,106 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/ArrayStringChain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="65" column="40" lean-forward="true" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-384.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
+        <state relative-caret-position="408">
           <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/KthNonRepeatingCharacter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="39" column="11" lean-forward="false" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/QueriesCharactersRepeatedString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="26" column="16" lean-forward="false" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/OccurencesCharacterAppearingTogether.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PrintCharactersFrequencyOrderOfOccurence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/FirstNonRepeatingCharStreamOfCharacters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PermutationsWithRepetitionCharacters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="58" column="18" lean-forward="false" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/MaxDistinctLowerCaseCharactersBetween2Uppercase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/RemoveExtraSpaceFromString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/PutSpacesBetweenWordsCapitalLetters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="46" lean-forward="false" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/WordMatchingCamelCaseNotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="51" column="39" lean-forward="false" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/MoveSpacesFrontString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
           <folding />
         </state>
       </provider>
