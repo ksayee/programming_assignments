@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MostFrequentDigitWithoutUsingArrayString.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/MostFrequentDigitWithoutUsingArrayString.py">
+      <file leaf-file-name="FindStringsFromCharsMappedDigitNumber.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/FindStringsFromCharsMappedDigitNumber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+            <state relative-caret-position="553">
+              <caret line="87" column="4" lean-forward="false" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -56,12 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1209.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1200.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1190.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1220.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1161.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode513.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode515.py" />
         <option value="$PROJECT_DIR$/CodingExercises/AddTwoNumbersII.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode677.py" />
@@ -107,6 +101,12 @@
         <option value="$PROJECT_DIR$/CodingExercises/PrintStringIgnoringAlternateOccurencesCharacter.py" />
         <option value="$PROJECT_DIR$/CodingExercises/RemoveRecurringDigitsNumber.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MostFrequentDigitWithoutUsingArrayString.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/CheckSecondStringFormedFirstString.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/MirrorCharacterString.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LastIndexOfCharacterString.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/MaxCharsBetweenTwoSameCharacters.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/FormMinimumNumberGivenSequence.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/FindStringsFromCharsMappedDigitNumber.py" />
       </list>
     </option>
   </component>
@@ -176,8 +176,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MostFrequentDigitWithoutUsingArrayString">
-    <configuration name="MostFrequentDigitWithoutUsingArrayString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.FindStringsFromCharsMappedDigitNumber">
+    <configuration name="FindStringsFromCharsMappedDigitNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -189,12 +189,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/MostFrequentDigitWithoutUsingArrayString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/FindStringsFromCharsMappedDigitNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="PrintStringIgnoringAlternateOccurencesCharacter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FormMinimumNumberGivenSequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -206,12 +206,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/PrintStringIgnoringAlternateOccurencesCharacter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/FormMinimumNumberGivenSequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="RearrangeBinaryStringXYOccurrences" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LastIndexOfCharacterString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -223,12 +223,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/RearrangeBinaryStringXYOccurrences.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LastIndexOfCharacterString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="RemoveRecurringDigitsNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MaxCharsBetweenTwoSameCharacters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -240,12 +240,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/RemoveRecurringDigitsNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/MaxCharsBetweenTwoSameCharacters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="ReplaceOccurencesOfStringNoExtraSpace" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MirrorCharacterString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -257,7 +257,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/ReplaceOccurencesOfStringNoExtraSpace.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/MirrorCharacterString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,19 +378,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ReplaceOccurencesOfStringNoExtraSpace" />
-      <item index="1" class="java.lang.String" itemvalue="Python.RearrangeBinaryStringXYOccurrences" />
-      <item index="2" class="java.lang.String" itemvalue="Python.PrintStringIgnoringAlternateOccurencesCharacter" />
-      <item index="3" class="java.lang.String" itemvalue="Python.RemoveRecurringDigitsNumber" />
-      <item index="4" class="java.lang.String" itemvalue="Python.MostFrequentDigitWithoutUsingArrayString" />
+      <item index="0" class="java.lang.String" itemvalue="Python.MirrorCharacterString" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LastIndexOfCharacterString" />
+      <item index="2" class="java.lang.String" itemvalue="Python.MaxCharsBetweenTwoSameCharacters" />
+      <item index="3" class="java.lang.String" itemvalue="Python.FormMinimumNumberGivenSequence" />
+      <item index="4" class="java.lang.String" itemvalue="Python.FindStringsFromCharsMappedDigitNumber" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.MostFrequentDigitWithoutUsingArrayString" />
-        <item index="1" class="java.lang.String" itemvalue="Python.RemoveRecurringDigitsNumber" />
-        <item index="2" class="java.lang.String" itemvalue="Python.PrintStringIgnoringAlternateOccurencesCharacter" />
-        <item index="3" class="java.lang.String" itemvalue="Python.RearrangeBinaryStringXYOccurrences" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ReplaceOccurencesOfStringNoExtraSpace" />
+        <item index="0" class="java.lang.String" itemvalue="Python.FindStringsFromCharsMappedDigitNumber" />
+        <item index="1" class="java.lang.String" itemvalue="Python.FormMinimumNumberGivenSequence" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MaxCharsBetweenTwoSameCharacters" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LastIndexOfCharacterString" />
+        <item index="4" class="java.lang.String" itemvalue="Python.MirrorCharacterString" />
       </list>
     </recent_temporary>
   </component>
@@ -469,53 +469,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1161.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="8" lean-forward="false" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode513.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="27" lean-forward="false" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode515.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="18" lean-forward="true" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1003.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/AddTwoNumbersII.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="95" column="28" lean-forward="false" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode677.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1019.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -843,6 +801,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
           <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/CheckSecondStringFormedFirstString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/MirrorCharacterString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LastIndexOfCharacterString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/MaxCharsBetweenTwoSameCharacters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/FormMinimumNumberGivenSequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="66" column="34" lean-forward="false" selection-start-line="66" selection-start-column="34" selection-end-line="66" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/FindStringsFromCharsMappedDigitNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="87" column="4" lean-forward="false" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
           <folding />
         </state>
       </provider>
