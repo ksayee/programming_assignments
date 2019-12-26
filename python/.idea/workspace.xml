@@ -19,11 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PrintValidWordFromArray.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PrintValidWordFromArray.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/PrintValidWordFromArray.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="494">
               <caret line="44" column="23" lean-forward="false" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RollCharactersString.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/RollCharactersString.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="596">
+              <caret line="48" column="23" lean-forward="false" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -56,7 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/KthNonRepeatingCharacter.py" />
         <option value="$PROJECT_DIR$/CodingExercises/FirstNonRepeatingCharStreamOfCharacters.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PrintCharactersFrequencyOrderOfOccurence.py" />
         <option value="$PROJECT_DIR$/CodingExercises/QueriesCharactersRepeatedString.py" />
@@ -107,6 +116,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/MergeTwoStringsGivenSize.py" />
         <option value="$PROJECT_DIR$/CodingExercises/RemoveAdjacentCharacters.py" />
         <option value="$PROJECT_DIR$/CodingExercises/PrintValidWordFromArray.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/RollCharactersString.py" />
       </list>
     </option>
   </component>
@@ -176,7 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PrintValidWordFromArray">
+  <component name="RunManager" selected="Python.RollCharactersString">
     <configuration name="HammingDistanceBetweenTwoStrings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,7 +255,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="RemoveThreeConsecutiveDuplicatesString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RollCharactersString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -257,7 +267,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/RemoveThreeConsecutiveDuplicatesString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/RollCharactersString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,19 +388,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.RemoveThreeConsecutiveDuplicatesString" />
-      <item index="1" class="java.lang.String" itemvalue="Python.HammingDistanceBetweenTwoStrings" />
-      <item index="2" class="java.lang.String" itemvalue="Python.MergeTwoStringsGivenSize" />
-      <item index="3" class="java.lang.String" itemvalue="Python.RemoveAdjacentCharacters" />
-      <item index="4" class="java.lang.String" itemvalue="Python.PrintValidWordFromArray" />
+      <item index="0" class="java.lang.String" itemvalue="Python.HammingDistanceBetweenTwoStrings" />
+      <item index="1" class="java.lang.String" itemvalue="Python.MergeTwoStringsGivenSize" />
+      <item index="2" class="java.lang.String" itemvalue="Python.RemoveAdjacentCharacters" />
+      <item index="3" class="java.lang.String" itemvalue="Python.PrintValidWordFromArray" />
+      <item index="4" class="java.lang.String" itemvalue="Python.RollCharactersString" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.PrintValidWordFromArray" />
-        <item index="1" class="java.lang.String" itemvalue="Python.RemoveAdjacentCharacters" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MergeTwoStringsGivenSize" />
-        <item index="3" class="java.lang.String" itemvalue="Python.HammingDistanceBetweenTwoStrings" />
-        <item index="4" class="java.lang.String" itemvalue="Python.RemoveThreeConsecutiveDuplicatesString" />
+        <item index="0" class="java.lang.String" itemvalue="Python.RollCharactersString" />
+        <item index="1" class="java.lang.String" itemvalue="Python.PrintValidWordFromArray" />
+        <item index="2" class="java.lang.String" itemvalue="Python.RemoveAdjacentCharacters" />
+        <item index="3" class="java.lang.String" itemvalue="Python.MergeTwoStringsGivenSize" />
+        <item index="4" class="java.lang.String" itemvalue="Python.HammingDistanceBetweenTwoStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -474,13 +484,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/OccurencesCharacterAppearingTogether.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/PrintCharactersFrequencyOrderOfOccurence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -825,6 +828,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="44" column="23" lean-forward="false" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/RollCharactersString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="48" column="23" lean-forward="false" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
           <folding />
         </state>
       </provider>
