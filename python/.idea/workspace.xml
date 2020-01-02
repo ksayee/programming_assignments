@@ -19,21 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LeetCode5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode5.py">
+      <file leaf-file-name="DailyCodingProblem-408.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-408.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="46" column="73" lean-forward="false" selection-start-line="46" selection-start-column="73" selection-end-line="46" selection-end-column="73" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode6.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+            <state relative-caret-position="306">
+              <caret line="27" column="26" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -66,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/CreditCardValidation.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MaxNumPermutationValueSmallerLimit.py" />
         <option value="$PROJECT_DIR$/CodingExercises/StringStartsEndGivenString.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DecodeString.py" />
@@ -117,6 +106,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/StockBuySellToMaximizeProfit.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode5.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode6.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-408.py" />
       </list>
     </option>
   </component>
@@ -184,8 +174,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LeetCode6">
-    <configuration name="LeetCode121" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.DailyCodingProblem-408">
+    <configuration name="DailyCodingProblem-408" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -197,7 +187,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode121.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-408.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -386,19 +376,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode121" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode122" />
-      <item index="2" class="java.lang.String" itemvalue="Python.StockBuySellToMaximizeProfit" />
-      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode5" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode6" />
+      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode122" />
+      <item index="1" class="java.lang.String" itemvalue="Python.StockBuySellToMaximizeProfit" />
+      <item index="2" class="java.lang.String" itemvalue="Python.LeetCode5" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode6" />
+      <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-408" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode6" />
+        <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-408" />
         <item index="1" class="java.lang.String" itemvalue="Python.LeetCode5" />
-        <item index="2" class="java.lang.String" itemvalue="Python.StockBuySellToMaximizeProfit" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode122" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode121" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode6" />
+        <item index="3" class="java.lang.String" itemvalue="Python.StockBuySellToMaximizeProfit" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode122" />
       </list>
     </recent_temporary>
   </component>
@@ -482,13 +472,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/ElectionWinner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="33" column="28" lean-forward="false" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/ArrangementQueue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="519">
@@ -826,18 +809,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="782">
           <caret line="46" column="73" lean-forward="false" selection-start-line="46" selection-start-column="73" selection-end-line="46" selection-end-column="73" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode6.py">
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-408.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="25" lean-forward="true" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+        <state relative-caret-position="306">
+          <caret line="27" column="26" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           <folding />
         </state>
       </provider>
