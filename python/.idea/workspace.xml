@@ -59,11 +59,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GetTopTwoSalariesByCountry_Apple.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GetTopTwoSalariesByCountry_Apple.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/GetTopTwoSalariesByCountry_Apple.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode1380.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1380.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode1381.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1381.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="49" column="24" lean-forward="false" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode1352.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1352.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4">
+              <caret line="43" column="34" lean-forward="false" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode1351.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1351.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,10 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/CheckLengthStringEqualNumberAppended.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/SumASCIIValuesWordSentence.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/ProgramFindLargestSmallestASCIICharString.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/FunnyWordString.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MetaStrings.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LongestCommonSubsequenceDP.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LongestBitonicSubsequence.py" />
@@ -147,6 +183,10 @@
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode79.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode212.py" />
         <option value="$PROJECT_DIR$/CodingExercises/GetTopTwoSalariesByCountry_Apple.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1380.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1381.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1352.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1351.py" />
       </list>
     </option>
   </component>
@@ -214,7 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.GetTopTwoSalariesByCountry_Apple">
+  <component name="RunManager" selected="Python.LeetCode1351">
     <configuration name="GetTopTwoSalariesByCountry_Apple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,7 +272,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LeetCode212" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode1351" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -244,12 +284,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode212.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode1351.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LeetCode79" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode1352" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -261,12 +301,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode79.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode1352.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="SinglyLinkedListPalindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode1380" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -278,12 +318,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SinglyLinkedListPalindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode1380.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="SinglyLinkedListReversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode1381" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -295,7 +335,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SinglyLinkedListReversal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode1381.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -416,19 +456,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.SinglyLinkedListReversal" />
-      <item index="1" class="java.lang.String" itemvalue="Python.SinglyLinkedListPalindrome" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LeetCode79" />
-      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode212" />
-      <item index="4" class="java.lang.String" itemvalue="Python.GetTopTwoSalariesByCountry_Apple" />
+      <item index="0" class="java.lang.String" itemvalue="Python.GetTopTwoSalariesByCountry_Apple" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode1380" />
+      <item index="2" class="java.lang.String" itemvalue="Python.LeetCode1381" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode1352" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode1351" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.GetTopTwoSalariesByCountry_Apple" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode212" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode79" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SinglyLinkedListPalindrome" />
-        <item index="4" class="java.lang.String" itemvalue="Python.SinglyLinkedListReversal" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode1351" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode1352" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode1381" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode1380" />
+        <item index="4" class="java.lang.String" itemvalue="Python.GetTopTwoSalariesByCountry_Apple" />
       </list>
     </recent_temporary>
   </component>
@@ -512,34 +552,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LongestCommonSubsequenceDP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="49" column="32" lean-forward="false" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/EditDistance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="63" column="72" lean-forward="false" selection-start-line="63" selection-start-column="72" selection-end-line="63" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LongestCommonSubsequenceVowels.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="58" column="18" lean-forward="false" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LongestCommonAnagramSequenceNStrings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="30" column="52" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/PrintInterleavingTwoStrings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
@@ -870,6 +882,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1380.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1381.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="49" column="24" lean-forward="false" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1352.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="43" column="34" lean-forward="false" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1351.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
