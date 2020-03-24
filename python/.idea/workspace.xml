@@ -22,8 +22,18 @@
       <file leaf-file-name="FindMiddleNodeSinglyLinkedList.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/FindMiddleNodeSinglyLinkedList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode341.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode341.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -39,10 +49,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode76.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeetCode76.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode76.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="238">
               <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
               <folding />
             </state>
@@ -76,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/GenerateAllPossibleValidIPAddressGivenString.py" />
         <option value="$PROJECT_DIR$/CodingExercises/TrieDataStructure.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MinimumWordBreak.py" />
         <option value="$PROJECT_DIR$/CodingExercises/WordBreakProblem.py" />
@@ -124,9 +133,10 @@
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode297.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-489.py" />
         <option value="$PROJECT_DIR$/CodingExercises/Percentile.py" />
-        <option value="$PROJECT_DIR$/CodingExercises/FindMiddleNodeSinglyLinkedList.py" />
         <option value="$PROJECT_DIR$/CodingExercises/MakeMiddleNodeHeadLinkedList.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode76.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/FindMiddleNodeSinglyLinkedList.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode341.py" />
       </list>
     </option>
   </component>
@@ -194,24 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LeetCode76">
-    <configuration name="DailyCodingProblem-489" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-489.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.LeetCode341">
     <configuration name="FindMiddleNodeSinglyLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,6 +218,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/FindMiddleNodeSinglyLinkedList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="LeetCode341" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode341.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -396,19 +406,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-489" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Percentile" />
-      <item index="2" class="java.lang.String" itemvalue="Python.FindMiddleNodeSinglyLinkedList" />
-      <item index="3" class="java.lang.String" itemvalue="Python.MakeMiddleNodeHeadLinkedList" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode76" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Percentile" />
+      <item index="1" class="java.lang.String" itemvalue="Python.FindMiddleNodeSinglyLinkedList" />
+      <item index="2" class="java.lang.String" itemvalue="Python.MakeMiddleNodeHeadLinkedList" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode76" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode341" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode76" />
-        <item index="1" class="java.lang.String" itemvalue="Python.MakeMiddleNodeHeadLinkedList" />
-        <item index="2" class="java.lang.String" itemvalue="Python.FindMiddleNodeSinglyLinkedList" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Percentile" />
-        <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-489" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode341" />
+        <item index="1" class="java.lang.String" itemvalue="Python.FindMiddleNodeSinglyLinkedList" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode76" />
+        <item index="3" class="java.lang.String" itemvalue="Python.MakeMiddleNodeHeadLinkedList" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Percentile" />
       </list>
     </recent_temporary>
   </component>
@@ -437,7 +447,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35729387" sideWeight="0.50989586" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35729387" sideWeight="0.49010417" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35729387" sideWeight="0.49010417" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -492,13 +502,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/MinimumWordBreak.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode57.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -858,14 +861,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodingExercises/FindMiddleNodeSinglyLinkedList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/MakeMiddleNodeHeadLinkedList.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="387">
@@ -876,8 +871,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode76.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="238">
           <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/FindMiddleNodeSinglyLinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode341.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
