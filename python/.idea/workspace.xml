@@ -99,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DailyCodingProblem-493.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DailyCodingProblem-493.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-493.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -109,11 +109,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode76.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode76.py">
+      <file leaf-file-name="DailyCodingProblem-490.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-490.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+            <state relative-caret-position="506">
+              <caret line="85" column="25" lean-forward="false" selection-start-line="85" selection-start-column="25" selection-end-line="85" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -146,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode121.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode122.py" />
         <option value="$PROJECT_DIR$/CodingExercises/StockBuySellToMaximizeProfit.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode5.py" />
@@ -197,6 +196,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode1080.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode742.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-493.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-490.py" />
       </list>
     </option>
   </component>
@@ -264,7 +264,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DailyCodingProblem-493">
+  <component name="RunManager" selected="Python.DailyCodingProblem-490">
+    <configuration name="DailyCodingProblem-490" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-490.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="DailyCodingProblem-493" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -329,23 +346,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode742.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="SortedArrayTwoNumberLessThanTarget_Apple" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/SortedArrayTwoNumberLessThanTarget_Apple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -466,19 +466,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.SortedArrayTwoNumberLessThanTarget_Apple" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode1358" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LeetCode1080" />
-      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode742" />
-      <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-493" />
+      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode1358" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode1080" />
+      <item index="2" class="java.lang.String" itemvalue="Python.LeetCode742" />
+      <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-493" />
+      <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-490" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-493" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode742" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode1080" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode1358" />
-        <item index="4" class="java.lang.String" itemvalue="Python.SortedArrayTwoNumberLessThanTarget_Apple" />
+        <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-490" />
+        <item index="1" class="java.lang.String" itemvalue="Python.DailyCodingProblem-493" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode742" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode1080" />
+        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode1358" />
       </list>
     </recent_temporary>
   </component>
@@ -562,13 +562,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode890.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -629,6 +622,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="421">
           <caret line="46" column="11" lean-forward="false" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -636,6 +630,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-361">
           <caret line="39" column="24" lean-forward="false" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -751,6 +746,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1309">
           <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -765,6 +761,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="74" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -772,6 +769,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="574">
           <caret line="81" column="4" lean-forward="true" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -779,6 +777,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="421">
           <caret line="60" column="25" lean-forward="false" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -786,6 +785,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="46" column="36" lean-forward="false" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -793,6 +793,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
           <caret line="88" column="39" lean-forward="false" selection-start-line="88" selection-start-column="39" selection-end-line="88" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -800,6 +801,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -902,6 +904,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-490.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="85" column="25" lean-forward="false" selection-start-line="85" selection-start-column="25" selection-end-line="85" selection-end-column="25" />
           <folding />
         </state>
       </provider>
