@@ -122,7 +122,7 @@ def main():
     link1.FlattenLinkedList()
     print(link1.DisplayList())
 
-    link2 = LinkedList() 
+    link2 = LinkedList()
     lst = [1,2,None,3]
     link2.CreateLinkedList(lst)
     link2.FlattenLinkedList()

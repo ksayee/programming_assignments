@@ -59,11 +59,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode430.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeetCode430.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode430.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="655">
-              <caret line="124" column="25" lean-forward="false" selection-start-line="124" selection-start-column="25" selection-end-line="124" selection-end-column="25" />
+            <state relative-caret-position="437">
+              <caret line="124" column="24" lean-forward="false" selection-start-line="124" selection-start-column="24" selection-end-line="124" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode1359.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1359.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="53" column="7" lean-forward="false" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -96,7 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1352.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode1351.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode1328.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode1331.py" />
@@ -147,6 +156,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/FlattenDictionary_Bloomberg.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DecryptMessageTree_Bloomberg.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode430.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1359.py" />
       </list>
     </option>
   </component>
@@ -249,7 +259,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LeetCode273" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode1359" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -261,7 +271,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode273.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode1359.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -416,19 +426,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.LeetCode273" />
-      <item index="1" class="java.lang.String" itemvalue="Python.TimePlanner_Bloomberg" />
-      <item index="2" class="java.lang.String" itemvalue="Python.FlattenDictionary_Bloomberg" />
-      <item index="3" class="java.lang.String" itemvalue="Python.DecryptMessageTree_Bloomberg" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode430" />
+      <item index="0" class="java.lang.String" itemvalue="Python.TimePlanner_Bloomberg" />
+      <item index="1" class="java.lang.String" itemvalue="Python.FlattenDictionary_Bloomberg" />
+      <item index="2" class="java.lang.String" itemvalue="Python.DecryptMessageTree_Bloomberg" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode430" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode1359" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.LeetCode430" />
-        <item index="1" class="java.lang.String" itemvalue="Python.DecryptMessageTree_Bloomberg" />
-        <item index="2" class="java.lang.String" itemvalue="Python.FlattenDictionary_Bloomberg" />
-        <item index="3" class="java.lang.String" itemvalue="Python.TimePlanner_Bloomberg" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode273" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode1359" />
+        <item index="2" class="java.lang.String" itemvalue="Python.DecryptMessageTree_Bloomberg" />
+        <item index="3" class="java.lang.String" itemvalue="Python.FlattenDictionary_Bloomberg" />
+        <item index="4" class="java.lang.String" itemvalue="Python.TimePlanner_Bloomberg" />
       </list>
     </recent_temporary>
   </component>
@@ -457,7 +467,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35729387" sideWeight="0.51197916" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21775898" sideWeight="0.48802084" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21775898" sideWeight="0.48802084" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -512,7 +522,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1328.py" />
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1351.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -877,8 +886,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode430.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="124" column="25" lean-forward="false" selection-start-line="124" selection-start-column="25" selection-end-line="124" selection-end-column="25" />
+        <state relative-caret-position="437">
+          <caret line="124" column="24" lean-forward="false" selection-start-line="124" selection-start-column="24" selection-end-line="124" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1359.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="53" column="7" lean-forward="false" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
           <folding />
         </state>
       </provider>
