@@ -46,7 +46,7 @@ def Combinations_recur(lst,tmp,fnl_lst,idx,op_idx):
     Combinations_recur(lst, tmp, fnl_lst, idx+1, op_idx+2)
     if idx+1<len(lst):
         Combinations_recur(lst, tmp, fnl_lst, idx+1, op_idx+1)
-        
+
 def LeetCode131(str1):
 
     tmp=['0']*len(str1)*2
