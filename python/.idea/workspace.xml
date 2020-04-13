@@ -59,11 +59,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode876.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeetCode876.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode876.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1046">
               <caret line="64" column="13" lean-forward="true" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode987.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode987.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="774">
+              <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -106,7 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/LeetCode1302.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode1325.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode366.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode747.py" />
@@ -157,6 +166,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode214.py" />
         <option value="$PROJECT_DIR$/CodingExercises/StreamDataFindAvgTimeSpentEachStep_Facebook.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode876.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode987.py" />
       </list>
     </option>
   </component>
@@ -224,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LeetCode876">
+  <component name="RunManager" selected="Python.LeetCode987">
     <configuration name="DailyCodingProblem-509" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,23 +248,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-509.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="LeetCode131" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode131.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,6 +282,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode876.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="LeetCode987" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode987.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -427,18 +437,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.DailyCodingProblem-509" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode131" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LeetCode214" />
-      <item index="3" class="java.lang.String" itemvalue="Python.StreamDataFindAvgTimeSpentEachStep_Facebook" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode876" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode214" />
+      <item index="2" class="java.lang.String" itemvalue="Python.StreamDataFindAvgTimeSpentEachStep_Facebook" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode876" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode987" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode876" />
-        <item index="1" class="java.lang.String" itemvalue="Python.StreamDataFindAvgTimeSpentEachStep_Facebook" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode214" />
-        <item index="3" class="java.lang.String" itemvalue="Python.DailyCodingProblem-509" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode131" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode987" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode876" />
+        <item index="2" class="java.lang.String" itemvalue="Python.StreamDataFindAvgTimeSpentEachStep_Facebook" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode214" />
+        <item index="4" class="java.lang.String" itemvalue="Python.DailyCodingProblem-509" />
       </list>
     </recent_temporary>
   </component>
@@ -522,13 +532,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode747.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="29" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1325.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -885,6 +888,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1046">
           <caret line="64" column="13" lean-forward="true" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode987.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
           <folding />
         </state>
       </provider>
