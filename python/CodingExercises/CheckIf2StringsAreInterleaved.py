@@ -26,7 +26,7 @@ def main():
     str1 = 'ABC'
     str2 = 'DEF'
     target = 'ADEBCF'
-    #print(CheckifTwoStringsInterleaved(str1, str2, target))
+    print(CheckifTwoStringsInterleaved(str1, str2, target))
 
     str1='aabcc'
     str2='dbbca'
@@ -36,32 +36,32 @@ def main():
     str1 = 'aab'
     str2 = 'axy'
     target = 'abaaxy'
-    #print(CheckifTwoStringsInterleaved(str1, str2, target))
+    print(CheckifTwoStringsInterleaved(str1, str2, target))
 
     str1 = 'XXY'
     str2 = 'XXZ'
     target = 'XXZXXXY'
-    #print(CheckifTwoStringsInterleaved(str1, str2, target))
+    print(CheckifTwoStringsInterleaved(str1, str2, target))
 
     str1 = 'XY'
     str2 = 'WZ'
     target = 'WZXY'
-    #print(CheckifTwoStringsInterleaved(str1, str2, target))
+    print(CheckifTwoStringsInterleaved(str1, str2, target))
 
     str1 = 'XY'
     str2 = 'X'
     target = 'XXY'
-    #print(CheckifTwoStringsInterleaved(str1, str2, target))
+    print(CheckifTwoStringsInterleaved(str1, str2, target))
 
     str1 = 'YX'
     str2 = 'X'
     target = 'XXY'
-    #print(CheckifTwoStringsInterleaved(str1, str2, target))
+    print(CheckifTwoStringsInterleaved(str1, str2, target))
 
     str1 = 'XXY'
     str2 = 'XXZ'
     target = 'XXXXZY'
-    #print(CheckifTwoStringsInterleaved(str1, str2, target))
+    print(CheckifTwoStringsInterleaved(str1, str2, target))
 
 if __name__=='__main__':
     main()
