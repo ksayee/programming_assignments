@@ -73,6 +73,6 @@ def main():
     L2.Add(8)
     L2.Add(10)
     print(L1.GetIntersection(L2))
-    
+
 if __name__=='__main__':
     main()
