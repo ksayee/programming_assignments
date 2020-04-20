@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LeetCode842.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode842.py">
+      <file leaf-file-name="LeetCode817.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode817.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="873">
-              <caret line="82" column="4" lean-forward="true" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
+            <state relative-caret-position="459">
+              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -56,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-493.py" />
         <option value="$PROJECT_DIR$/CodingExercises/DailyCodingProblem-490.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode1396.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode1385.py" />
@@ -107,6 +106,7 @@
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode1221.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode1238.py" />
         <option value="$PROJECT_DIR$/CodingExercises/LeetCode842.py" />
+        <option value="$PROJECT_DIR$/CodingExercises/LeetCode817.py" />
       </list>
     </option>
   </component>
@@ -174,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LeetCode842">
+  <component name="RunManager" selected="Python.LeetCode817">
     <configuration name="LeetCode1221" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,7 +209,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="LeetCode1243" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LeetCode817" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -221,7 +221,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode1243.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodingExercises/LeetCode817.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -377,18 +377,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.Rollup_Facebook" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode1243" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LeetCode1221" />
-      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode1238" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode842" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LeetCode1221" />
+      <item index="2" class="java.lang.String" itemvalue="Python.LeetCode1238" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LeetCode842" />
+      <item index="4" class="java.lang.String" itemvalue="Python.LeetCode817" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode842" />
-        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode1238" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode1221" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Rollup_Facebook" />
-        <item index="4" class="java.lang.String" itemvalue="Python.LeetCode1243" />
+        <item index="0" class="java.lang.String" itemvalue="Python.LeetCode817" />
+        <item index="1" class="java.lang.String" itemvalue="Python.LeetCode842" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LeetCode1238" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LeetCode1221" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Rollup_Facebook" />
       </list>
     </recent_temporary>
   </component>
@@ -414,10 +414,10 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18072917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35729387" sideWeight="0.51197916" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3255814" sideWeight="0.5140625" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3255814" sideWeight="0.48802084" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3255814" sideWeight="0.4859375" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -472,13 +472,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodingExercises/DailyCodingProblem-490.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="85" column="25" lean-forward="false" selection-start-line="85" selection-start-column="25" selection-end-line="85" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode1385.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
@@ -808,6 +801,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="873">
           <caret line="82" column="4" lean-forward="true" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodingExercises/LeetCode817.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding />
         </state>
       </provider>
