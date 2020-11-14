@@ -65,6 +65,7 @@ def SumLevelsTreeJSON_Google(json_data):
         else:
             output_lst.append(element['value'])
     sum_lst=[]
+    print(output_lst)
     while len(output_lst)!=0:
         tmp=[]
         sum=0
