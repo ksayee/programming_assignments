@@ -53,7 +53,6 @@ def AirbnbFlights(lst,inp_org,inp_dest):
 
         if key==inp_org:
             found=True
-            print(val)
             for i in range(0,len(val)):
                 out_sum=0
                 path = ''
