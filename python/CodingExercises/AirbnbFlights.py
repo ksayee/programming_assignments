@@ -85,7 +85,7 @@ def main():
 ('JFK', 'HKG', 800),
 ('ATL', 'ORD', 90),
 ('JFK', 'LAX', 500),
-('SFO', 'HKG', 400),
+('SFO', 'HKG', 400)
 ]
     org='JFK'
     dest='LAX'
