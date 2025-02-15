@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e64da90c-0daf-4ccd-a32b-889596eeafcb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/AirbnbAmenities.py" beforeDir="false" afterPath="$PROJECT_DIR$/AirbnbAmenities.py" afterDir="false" />
-    </list>
+    <list default="true" id="e64da90c-0daf-4ccd-a32b-889596eeafcb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +46,7 @@
       <recent name="C:\Users\karti\OneDrive\Desktop\Personal stuff\Interviews\github\programming_assignments\python\CodingExercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.AirbnbAmenities">
+  <component name="RunManager" selected="Python.AirbnbPageImpressions">
     <configuration name="AirbnbAmenities" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,6 +60,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AirbnbAmenities.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AirbnbPageImpressions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\karti\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AirbnbPageImpressions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,41 +152,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LeetCode1367" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\karti\AppData\Local\Programs\Python\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode1367.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.DailyCodingProblem-925" />
       <item itemvalue="Python.DailyCodingProblem-927" />
       <item itemvalue="Python.FindWordPath_Google" />
-      <item itemvalue="Python.LeetCode1367" />
       <item itemvalue="Python.AirbnbAmenities" />
+      <item itemvalue="Python.AirbnbPageImpressions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.AirbnbPageImpressions" />
         <item itemvalue="Python.AirbnbAmenities" />
         <item itemvalue="Python.FindWordPath_Google" />
         <item itemvalue="Python.DailyCodingProblem-925" />
         <item itemvalue="Python.DailyCodingProblem-927" />
-        <item itemvalue="Python.LeetCode1367" />
       </list>
     </recent_temporary>
   </component>
