@@ -120,9 +120,9 @@ class Floor:
 
             if len(tmp_lst)>0:
                 demolish_seq_lst.append(tmp_lst.copy())
-            if len(tmp_lst)==0:
+                start = 1
+            else:
                 break
-            start = 1
 
         tmp_lst=[]
         tmp_lst.append(output_lst[0])
