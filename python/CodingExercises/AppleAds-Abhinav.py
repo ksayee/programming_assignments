@@ -2,7 +2,6 @@ from typing import List
 import pprint
 """
 PROMPT:
-
 A city is planning to safely demolish an old skyscraper.
 The building is structured in a way where each floor
 may directly support zero or more other floors above it.
