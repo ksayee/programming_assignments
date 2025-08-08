@@ -1,7 +1,6 @@
 from typing import List
 import pprint
 """
-
 PROMPT:
 
 A city is planning to safely demolish an old skyscraper.
