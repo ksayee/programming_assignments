@@ -4,6 +4,7 @@
 
 def SmallestGreaterElementWholeArray(ary):
 
+
     lst=sorted(ary)
 
     fnl_lst=[]
